@@ -71,49 +71,6 @@ The project is developed with a modular approach, ensuring that each component c
 3. **Integration & UI:** Expose the backend modules through a unified and user-friendly web interface built with Streamlit.
 4. **Testing & Refinement:** Conduct iterative testing with user feedback to validate performance and improve model accuracy.
 
----
-
-## 🧰 Getting Started
-
-To get a local copy up and running, follow these simple steps.
-
-### ✅ Prerequisites
-
-Make sure you have **Python 3.8+** and `pip` installed on your system.
-
-### 🖥️ Installation
-
-1. **Clone the repository:**
-   ```sh
-   git clone https://github.com/your-username/mmacraft-ai.git
-   cd mmacraft-ai
-      ```
-
-2. **Create and activate a virtual environment (recommended):**
-
-   ```sh
-   # For Windows
-   python -m venv venv
-   .\venv\Scripts\activate
-
-   # For macOS/Linux
-   python3 -m venv venv
-   source venv/bin/activate
-   ```
-
-3. **Install the required packages:**
-
-   ```sh
-   pip install -r requirements.txt
-   ```
-
-4. **Run the Streamlit application:**
-
-   ```sh
-   streamlit run app.py
-   ```
-
-   Open your browser and navigate to: [http://localhost:8501](http://localhost:8501)
 
 ---
 
