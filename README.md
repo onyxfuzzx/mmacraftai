@@ -11,7 +11,6 @@ An integrated AI-powered suite for Mixed Martial Arts (MMA) athletes and enthusi
 - [Key Features](#key-features)
 - [Tech Stack](#tech-stack)
 - [Project Methodology](#project-methodology)
-- [Getting Started](#getting-started)
 - [Data Sources](#data-sources)
 - [Project Timeline](#project-timeline)
 - [Authors](#authors)
