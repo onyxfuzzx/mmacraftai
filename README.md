@@ -4,7 +4,7 @@
 An integrated AI-powered suite for Mixed Martial Arts (MMA) athletes and enthusiasts, providing personalized training recommendations, real-time technique feedback, and data-driven fight outcome predictions.
 
 
-
+--- 
 ## 📑 Table of Contents
 
 - [About The Project](#about-the-project)
@@ -20,13 +20,14 @@ An integrated AI-powered suite for Mixed Martial Arts (MMA) athletes and enthusi
 - [Acknowledgments](#acknowledgments)
 
 
+---
 
 ## 🧠 About The Project
 
 Mixed Martial Arts (MMA) is a complex and data-rich sport. This project, **MMACRAFTAI**, harnesses the power of Data Science and Artificial Intelligence to create a unified web platform for athletes, coaches, and fans. Our goal is to bridge the gap between generic fitness apps and professional sports analytics by offering an integrated solution that provides evidence-driven training, technique correction, and competitive insights.
 
 
-
+---
 
 ## 🚀 Key Features
 
