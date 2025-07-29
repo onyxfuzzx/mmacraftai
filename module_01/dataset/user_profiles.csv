@@ -1,1001 +1,1001 @@
 id,user_id,age,gender,height_cm,fitness_level,primary_goal,available_equipment,days_per_week,time_per_session,medical_notes
-1,1,41,female,161.16,intermediate,muscle_gain,['dumbbells'],3,60,None
-2,2,64,female,168.08,intermediate,weight_loss,"['punching_bag', 'bodyweight', 'kettlebell']",4,30,None
-3,3,41,male,178.18,intermediate,muscle_gain,"['kettlebell', 'punching_bag', 'dumbbells']",4,60,None
-4,4,56,male,189.64,beginner,skill_boxing,['punching_bag'],4,60,None
-5,5,65,male,174.86,beginner,weight_loss,['kettlebell'],5,30,Minor knee pain
-6,6,34,male,185.02,beginner,endurance,"['bodyweight', 'kettlebell']",3,45,None
-7,7,26,female,154.89,beginner,weight_loss,['punching_bag'],5,30,None
-8,8,49,female,163.3,beginner,general_fitness,"['kettlebell', 'dumbbells']",3,30,None
-9,9,41,male,165.46,intermediate,muscle_gain,"['resistance_bands', 'dumbbells', 'kettlebell']",3,30,None
-10,10,43,male,178.14,beginner,weight_loss,['punching_bag'],5,30,None
-11,11,52,male,158.62,beginner,muscle_gain,"['bodyweight', 'resistance_bands', 'kettlebell']",4,45,None
-12,12,37,female,169.3,beginner,weight_loss,"['punching_bag', 'kettlebell', 'resistance_bands']",3,60,Minor knee pain
-13,13,48,male,166.31,intermediate,muscle_gain,"['resistance_bands', 'punching_bag', 'dumbbells']",4,30,None
-14,14,28,male,168.95,intermediate,weight_loss,"['dumbbells', 'kettlebell', 'punching_bag']",3,45,None
-15,15,38,female,187.66,beginner,general_fitness,"['bodyweight', 'kettlebell']",5,30,Minor knee pain
-16,16,22,male,188.97,beginner,weight_loss,"['kettlebell', 'dumbbells', 'resistance_bands']",3,60,None
-17,17,39,female,158.7,intermediate,general_fitness,"['kettlebell', 'resistance_bands', 'punching_bag']",4,60,None
-18,18,28,male,162.54,intermediate,muscle_gain,"['dumbbells', 'punching_bag']",4,30,Minor knee pain
-19,19,34,female,181.82,beginner,weight_loss,"['dumbbells', 'resistance_bands', 'bodyweight']",4,45,None
-20,20,29,female,178.61,intermediate,muscle_gain,"['kettlebell', 'resistance_bands', 'punching_bag']",5,30,Minor knee pain
-21,21,56,male,174.43,intermediate,muscle_gain,"['dumbbells', 'kettlebell']",4,30,None
-22,22,53,male,188.26,intermediate,weight_loss,"['dumbbells', 'bodyweight', 'punching_bag']",5,60,Minor knee pain
-23,23,60,male,157.28,beginner,weight_loss,"['dumbbells', 'punching_bag', 'bodyweight']",3,60,Minor knee pain
-24,24,18,female,164.08,beginner,muscle_gain,"['dumbbells', 'punching_bag']",5,30,None
-25,25,45,female,155.93,intermediate,weight_loss,['kettlebell'],3,30,None
-26,26,57,male,173.55,beginner,muscle_gain,['dumbbells'],4,45,None
-27,27,40,female,160.62,intermediate,muscle_gain,"['dumbbells', 'kettlebell']",5,60,None
-28,28,55,male,186.76,advanced,weight_loss,"['bodyweight', 'kettlebell', 'resistance_bands']",4,45,None
-29,29,28,male,189.78,beginner,weight_loss,['kettlebell'],3,45,None
-30,30,31,female,179.93,advanced,muscle_gain,"['resistance_bands', 'bodyweight']",3,45,Minor knee pain
-31,31,63,male,185.69,beginner,skill_boxing,['punching_bag'],3,45,None
-32,32,24,female,176.86,intermediate,muscle_gain,"['dumbbells', 'kettlebell', 'resistance_bands']",4,30,None
-33,33,31,female,161.9,intermediate,skill_boxing,['dumbbells'],3,30,None
-34,34,31,female,187.46,beginner,muscle_gain,"['kettlebell', 'dumbbells']",4,45,None
-35,35,55,female,172.72,beginner,weight_loss,"['kettlebell', 'bodyweight', 'dumbbells']",3,45,None
-36,36,49,male,155.72,beginner,muscle_gain,"['kettlebell', 'punching_bag', 'bodyweight']",4,30,None
-37,37,22,female,174.25,beginner,general_fitness,['punching_bag'],4,60,None
-38,38,27,male,150.26,intermediate,muscle_gain,"['resistance_bands', 'bodyweight', 'kettlebell']",3,30,None
-39,39,22,female,185.08,beginner,skill_boxing,"['kettlebell', 'bodyweight']",4,45,None
-40,40,22,male,169.72,beginner,general_fitness,"['punching_bag', 'dumbbells']",5,45,None
-41,41,41,female,165.49,intermediate,endurance,"['resistance_bands', 'bodyweight', 'punching_bag']",5,60,None
-42,42,47,female,172.38,intermediate,general_fitness,['resistance_bands'],3,30,None
-43,43,47,female,172.15,beginner,muscle_gain,"['punching_bag', 'kettlebell', 'resistance_bands']",3,45,None
-44,44,28,female,176.22,intermediate,weight_loss,['resistance_bands'],5,60,None
-45,45,64,female,167.88,beginner,weight_loss,['kettlebell'],4,45,Minor knee pain
-46,46,26,female,182.76,intermediate,weight_loss,"['kettlebell', 'bodyweight', 'resistance_bands']",4,30,None
-47,47,28,female,162.72,intermediate,weight_loss,['bodyweight'],3,45,None
-48,48,20,male,151.3,intermediate,weight_loss,['kettlebell'],4,30,None
-49,49,62,female,176.42,advanced,weight_loss,"['bodyweight', 'dumbbells', 'kettlebell']",3,60,Minor knee pain
-50,50,63,male,162.12,intermediate,muscle_gain,"['dumbbells', 'resistance_bands']",5,30,None
-51,51,49,male,152.37,intermediate,muscle_gain,"['dumbbells', 'punching_bag', 'kettlebell']",5,60,None
-52,52,33,female,166.28,advanced,general_fitness,['kettlebell'],3,45,None
-53,53,61,male,188.32,intermediate,weight_loss,"['punching_bag', 'kettlebell']",3,30,None
-54,54,28,female,178.81,beginner,skill_boxing,['kettlebell'],5,45,None
-55,55,19,male,169.4,beginner,weight_loss,"['resistance_bands', 'kettlebell']",3,30,None
-56,56,42,male,170.35,beginner,general_fitness,['dumbbells'],3,60,None
-57,57,59,male,181.5,beginner,weight_loss,"['punching_bag', 'kettlebell', 'bodyweight']",4,45,None
-58,58,60,male,158.04,intermediate,weight_loss,['dumbbells'],4,30,None
-59,59,31,male,166.98,beginner,weight_loss,['kettlebell'],4,45,None
-60,60,23,male,176.17,intermediate,weight_loss,"['bodyweight', 'kettlebell']",3,45,None
-61,61,32,male,182.24,beginner,general_fitness,"['bodyweight', 'dumbbells']",3,45,None
-62,62,30,female,160.42,intermediate,skill_boxing,['dumbbells'],5,45,None
-63,63,51,male,182.57,beginner,weight_loss,"['resistance_bands', 'kettlebell', 'bodyweight']",3,60,None
-64,64,65,male,177.46,beginner,weight_loss,"['kettlebell', 'resistance_bands', 'bodyweight']",5,30,None
-65,65,30,female,164.25,beginner,weight_loss,"['punching_bag', 'dumbbells', 'resistance_bands']",4,45,None
-66,66,44,male,176.83,intermediate,general_fitness,"['punching_bag', 'dumbbells']",3,45,None
-67,67,37,female,168.56,beginner,weight_loss,"['bodyweight', 'dumbbells', 'punching_bag']",3,45,Minor knee pain
-68,68,25,male,153.8,intermediate,general_fitness,['kettlebell'],5,45,None
-69,69,27,male,154.85,beginner,endurance,['dumbbells'],3,30,None
-70,70,63,male,155.69,intermediate,weight_loss,['resistance_bands'],5,45,None
-71,71,34,male,167.01,beginner,weight_loss,['dumbbells'],5,30,None
-72,72,55,male,161.55,intermediate,weight_loss,['bodyweight'],4,30,None
-73,73,62,male,167.57,intermediate,weight_loss,"['dumbbells', 'punching_bag']",3,45,None
-74,74,32,male,158.21,intermediate,general_fitness,"['dumbbells', 'bodyweight']",4,60,None
-75,75,39,male,163.49,beginner,general_fitness,"['resistance_bands', 'kettlebell']",5,30,None
-76,76,25,male,161.97,intermediate,muscle_gain,"['punching_bag', 'dumbbells', 'bodyweight']",5,60,Minor knee pain
-77,77,28,female,168.35,beginner,muscle_gain,['bodyweight'],3,30,None
-78,78,24,male,163.89,beginner,weight_loss,"['kettlebell', 'bodyweight']",5,30,None
-79,79,65,female,185.94,intermediate,weight_loss,"['dumbbells', 'bodyweight', 'punching_bag']",4,30,Minor knee pain
-80,80,30,female,150.64,intermediate,endurance,"['resistance_bands', 'kettlebell']",3,45,None
-81,81,34,male,169.51,intermediate,muscle_gain,"['dumbbells', 'kettlebell']",3,60,None
-82,82,39,female,180.52,intermediate,endurance,['bodyweight'],4,30,None
-83,83,56,female,151.52,beginner,muscle_gain,"['bodyweight', 'resistance_bands', 'punching_bag']",5,60,None
-84,84,53,male,161.6,intermediate,endurance,"['resistance_bands', 'dumbbells']",4,30,Minor knee pain
-85,85,48,male,157.05,intermediate,weight_loss,['resistance_bands'],4,60,None
-86,86,38,female,157.31,intermediate,weight_loss,"['punching_bag', 'kettlebell']",4,30,None
-87,87,20,male,188.16,intermediate,weight_loss,"['dumbbells', 'bodyweight', 'punching_bag']",4,45,None
-88,88,49,female,186.14,intermediate,weight_loss,"['kettlebell', 'bodyweight', 'resistance_bands']",3,30,None
-89,89,39,male,184.69,intermediate,muscle_gain,"['bodyweight', 'dumbbells', 'resistance_bands']",4,60,None
-90,90,56,male,154.81,beginner,weight_loss,"['bodyweight', 'resistance_bands']",4,30,None
-91,91,20,female,154.04,beginner,skill_boxing,['punching_bag'],5,60,None
-92,92,42,female,164.71,intermediate,muscle_gain,"['dumbbells', 'bodyweight', 'kettlebell']",4,45,None
-93,93,54,female,171.77,beginner,general_fitness,['resistance_bands'],3,60,None
-94,94,37,male,169.58,beginner,muscle_gain,['kettlebell'],5,60,None
-95,95,44,male,173.63,beginner,endurance,['bodyweight'],3,45,None
-96,96,42,female,165.0,intermediate,muscle_gain,"['resistance_bands', 'bodyweight', 'kettlebell']",3,60,Minor knee pain
-97,97,24,female,177.82,intermediate,muscle_gain,"['kettlebell', 'bodyweight']",5,45,Minor knee pain
-98,98,37,male,154.07,intermediate,skill_boxing,"['punching_bag', 'dumbbells', 'bodyweight']",5,45,None
-99,99,56,male,186.73,intermediate,weight_loss,['kettlebell'],3,45,None
-100,100,51,female,168.58,advanced,weight_loss,['resistance_bands'],4,60,None
-101,101,32,female,177.21,beginner,muscle_gain,['resistance_bands'],4,45,None
-102,102,24,male,169.11,intermediate,skill_boxing,"['kettlebell', 'resistance_bands']",4,60,None
-103,103,31,female,174.24,advanced,muscle_gain,['dumbbells'],5,45,Minor knee pain
-104,104,39,female,151.71,beginner,weight_loss,['bodyweight'],3,45,None
-105,105,18,male,170.04,beginner,muscle_gain,"['bodyweight', 'dumbbells']",4,60,None
-106,106,45,male,156.13,intermediate,weight_loss,['dumbbells'],5,60,Minor knee pain
-107,107,25,female,173.08,intermediate,skill_boxing,['punching_bag'],3,60,None
-108,108,29,female,186.56,beginner,weight_loss,['punching_bag'],4,30,Minor knee pain
-109,109,65,female,172.49,beginner,weight_loss,"['punching_bag', 'dumbbells']",4,30,None
-110,110,18,female,171.31,beginner,muscle_gain,['bodyweight'],4,60,None
-111,111,34,male,170.58,beginner,weight_loss,"['kettlebell', 'punching_bag', 'bodyweight']",3,45,Minor knee pain
-112,112,51,male,163.83,intermediate,weight_loss,['bodyweight'],4,45,None
-113,113,57,male,176.45,beginner,endurance,"['kettlebell', 'punching_bag']",5,60,Minor knee pain
-114,114,49,male,181.56,beginner,general_fitness,"['resistance_bands', 'dumbbells']",5,45,Minor knee pain
-115,115,31,female,173.98,intermediate,muscle_gain,"['kettlebell', 'resistance_bands']",4,60,None
-116,116,22,male,154.57,beginner,weight_loss,['punching_bag'],4,60,None
-117,117,50,female,162.5,beginner,muscle_gain,['punching_bag'],3,60,None
-118,118,35,female,183.25,beginner,muscle_gain,"['dumbbells', 'resistance_bands']",3,30,None
-119,119,28,female,160.76,intermediate,weight_loss,['punching_bag'],5,30,None
-120,120,38,female,187.29,advanced,weight_loss,"['kettlebell', 'punching_bag', 'resistance_bands']",4,60,None
-121,121,46,female,176.04,beginner,weight_loss,"['kettlebell', 'bodyweight']",3,45,Minor knee pain
-122,122,42,female,167.17,intermediate,weight_loss,"['punching_bag', 'bodyweight']",5,60,None
-123,123,62,female,151.3,beginner,muscle_gain,"['kettlebell', 'dumbbells']",4,30,None
-124,124,60,female,188.1,intermediate,weight_loss,"['punching_bag', 'resistance_bands', 'kettlebell']",3,30,None
-125,125,53,female,181.46,beginner,muscle_gain,"['kettlebell', 'bodyweight', 'dumbbells']",3,30,None
-126,126,31,male,189.97,intermediate,weight_loss,"['resistance_bands', 'bodyweight', 'dumbbells']",3,45,None
-127,127,23,female,150.7,advanced,general_fitness,"['resistance_bands', 'punching_bag', 'dumbbells']",5,60,None
-128,128,54,female,189.2,beginner,weight_loss,['bodyweight'],4,30,Minor knee pain
-129,129,63,male,171.79,beginner,general_fitness,"['kettlebell', 'bodyweight']",3,60,None
-130,130,27,male,167.43,intermediate,skill_boxing,"['bodyweight', 'resistance_bands', 'kettlebell']",5,45,Minor knee pain
-131,131,65,male,151.08,beginner,endurance,"['kettlebell', 'punching_bag', 'resistance_bands']",4,60,None
-132,132,61,male,157.72,beginner,general_fitness,"['bodyweight', 'resistance_bands', 'dumbbells']",5,60,None
-133,133,42,male,179.33,beginner,weight_loss,"['kettlebell', 'bodyweight', 'dumbbells']",3,45,None
-134,134,41,female,160.42,beginner,weight_loss,['punching_bag'],4,60,None
-135,135,39,male,187.8,intermediate,weight_loss,['resistance_bands'],3,45,None
-136,136,32,male,155.46,beginner,weight_loss,"['bodyweight', 'punching_bag']",4,30,None
-137,137,27,female,154.91,beginner,muscle_gain,['resistance_bands'],4,30,None
-138,138,30,male,159.07,advanced,weight_loss,['kettlebell'],3,60,None
-139,139,18,male,152.0,beginner,muscle_gain,"['kettlebell', 'punching_bag']",5,60,None
-140,140,18,female,153.73,beginner,skill_boxing,"['kettlebell', 'resistance_bands']",3,60,Minor knee pain
-141,141,50,male,160.17,beginner,muscle_gain,"['dumbbells', 'bodyweight', 'punching_bag']",3,60,None
-142,142,44,male,182.21,intermediate,muscle_gain,"['resistance_bands', 'punching_bag', 'bodyweight']",5,30,None
-143,143,34,male,154.87,beginner,skill_boxing,"['punching_bag', 'resistance_bands']",4,30,None
-144,144,47,female,152.75,beginner,muscle_gain,"['punching_bag', 'resistance_bands', 'kettlebell']",4,30,None
-145,145,25,male,170.57,beginner,muscle_gain,['dumbbells'],3,60,None
-146,146,40,male,168.19,beginner,weight_loss,"['bodyweight', 'punching_bag', 'dumbbells']",5,60,None
-147,147,63,female,161.29,intermediate,weight_loss,"['resistance_bands', 'bodyweight']",3,45,Minor knee pain
-148,148,37,male,166.69,beginner,muscle_gain,"['kettlebell', 'resistance_bands', 'bodyweight']",5,45,None
-149,149,47,female,174.19,beginner,general_fitness,['resistance_bands'],3,30,None
-150,150,45,female,182.44,beginner,weight_loss,"['punching_bag', 'resistance_bands']",5,60,None
-151,151,49,female,151.93,intermediate,muscle_gain,"['resistance_bands', 'kettlebell', 'punching_bag']",4,45,Minor knee pain
-152,152,30,male,171.55,intermediate,muscle_gain,['dumbbells'],5,45,None
-153,153,45,female,186.57,beginner,endurance,['kettlebell'],5,30,Minor knee pain
-154,154,25,female,168.2,beginner,weight_loss,"['dumbbells', 'bodyweight', 'resistance_bands']",3,45,None
-155,155,63,male,180.68,beginner,skill_boxing,"['bodyweight', 'dumbbells', 'kettlebell']",4,45,None
-156,156,43,male,169.49,beginner,weight_loss,['bodyweight'],3,45,None
-157,157,44,female,168.33,intermediate,weight_loss,['punching_bag'],5,45,None
-158,158,59,male,152.44,beginner,skill_boxing,"['dumbbells', 'bodyweight', 'punching_bag']",3,60,None
-159,159,30,male,178.66,beginner,skill_boxing,['bodyweight'],5,30,None
-160,160,44,male,171.63,beginner,endurance,"['bodyweight', 'kettlebell', 'punching_bag']",3,45,None
-161,161,65,male,177.57,intermediate,weight_loss,"['kettlebell', 'dumbbells']",4,45,None
-162,162,29,female,156.24,intermediate,weight_loss,['kettlebell'],5,45,None
-163,163,48,male,157.14,beginner,weight_loss,"['resistance_bands', 'punching_bag']",3,30,None
-164,164,26,female,176.13,advanced,skill_boxing,"['dumbbells', 'bodyweight']",5,60,None
-165,165,53,female,175.0,beginner,skill_boxing,"['dumbbells', 'kettlebell', 'bodyweight']",5,45,None
-166,166,42,male,153.99,intermediate,weight_loss,['bodyweight'],3,45,None
-167,167,37,female,184.08,intermediate,general_fitness,"['punching_bag', 'resistance_bands', 'dumbbells']",5,45,None
-168,168,55,female,169.89,beginner,weight_loss,"['bodyweight', 'resistance_bands']",5,60,None
-169,169,34,female,185.73,intermediate,weight_loss,"['bodyweight', 'punching_bag']",5,60,None
-170,170,21,male,172.8,intermediate,weight_loss,['punching_bag'],4,30,None
-171,171,36,female,177.45,beginner,muscle_gain,"['resistance_bands', 'punching_bag']",4,45,None
-172,172,21,female,170.85,beginner,muscle_gain,"['kettlebell', 'resistance_bands', 'punching_bag']",4,45,Minor knee pain
-173,173,64,female,182.06,intermediate,weight_loss,"['punching_bag', 'resistance_bands', 'kettlebell']",3,60,None
-174,174,22,female,168.98,beginner,weight_loss,"['resistance_bands', 'dumbbells', 'kettlebell']",3,45,Minor knee pain
-175,175,24,female,180.02,intermediate,weight_loss,"['bodyweight', 'resistance_bands', 'dumbbells']",5,30,None
-176,176,32,female,167.66,beginner,muscle_gain,"['kettlebell', 'punching_bag', 'dumbbells']",5,30,None
-177,177,27,male,169.04,beginner,weight_loss,"['dumbbells', 'bodyweight', 'punching_bag']",4,60,Minor knee pain
-178,178,44,male,158.36,beginner,weight_loss,['punching_bag'],3,45,None
-179,179,27,male,150.36,intermediate,muscle_gain,['resistance_bands'],5,30,None
-180,180,40,female,167.01,beginner,muscle_gain,['bodyweight'],3,30,Minor knee pain
-181,181,41,female,174.59,beginner,muscle_gain,"['kettlebell', 'punching_bag', 'resistance_bands']",5,60,Minor knee pain
-182,182,30,female,150.19,beginner,weight_loss,"['dumbbells', 'punching_bag', 'bodyweight']",5,60,None
-183,183,64,female,177.44,intermediate,weight_loss,"['bodyweight', 'resistance_bands']",4,30,None
-184,184,46,male,153.19,beginner,weight_loss,"['bodyweight', 'dumbbells', 'punching_bag']",4,30,None
-185,185,27,female,176.56,intermediate,general_fitness,['dumbbells'],4,30,Minor knee pain
-186,186,32,female,172.29,intermediate,muscle_gain,['kettlebell'],3,30,Minor knee pain
-187,187,60,male,179.75,advanced,weight_loss,['dumbbells'],3,30,Minor knee pain
-188,188,20,male,172.04,advanced,general_fitness,"['dumbbells', 'kettlebell', 'bodyweight']",3,60,None
-189,189,63,female,167.53,beginner,muscle_gain,"['punching_bag', 'dumbbells']",4,30,None
-190,190,29,female,179.8,intermediate,muscle_gain,"['dumbbells', 'bodyweight', 'kettlebell']",5,45,None
-191,191,55,female,174.92,beginner,weight_loss,['punching_bag'],5,30,None
-192,192,51,male,178.87,advanced,weight_loss,"['bodyweight', 'punching_bag']",3,45,Minor knee pain
-193,193,19,female,159.58,beginner,weight_loss,['kettlebell'],4,60,Minor knee pain
-194,194,51,male,162.89,beginner,weight_loss,"['bodyweight', 'kettlebell', 'dumbbells']",5,30,Minor knee pain
-195,195,29,female,179.76,beginner,skill_boxing,"['dumbbells', 'resistance_bands', 'kettlebell']",4,60,None
-196,196,50,female,158.02,advanced,skill_boxing,"['dumbbells', 'kettlebell', 'resistance_bands']",4,60,None
-197,197,30,female,159.84,beginner,muscle_gain,"['dumbbells', 'kettlebell']",3,45,None
-198,198,22,male,159.7,beginner,weight_loss,"['kettlebell', 'punching_bag', 'bodyweight']",3,60,None
-199,199,52,male,170.94,beginner,skill_boxing,"['dumbbells', 'bodyweight', 'kettlebell']",3,30,None
-200,200,46,female,176.54,beginner,general_fitness,"['kettlebell', 'resistance_bands', 'bodyweight']",5,60,None
-201,201,65,male,162.65,beginner,muscle_gain,"['bodyweight', 'resistance_bands']",4,60,Minor knee pain
-202,202,56,male,165.06,intermediate,skill_boxing,"['punching_bag', 'bodyweight']",5,45,None
-203,203,19,female,179.7,advanced,muscle_gain,['bodyweight'],3,30,Minor knee pain
-204,204,33,male,168.57,intermediate,endurance,"['kettlebell', 'bodyweight']",4,30,None
-205,205,53,male,186.38,beginner,muscle_gain,"['resistance_bands', 'kettlebell', 'bodyweight']",3,45,None
-206,206,56,female,169.29,beginner,weight_loss,"['kettlebell', 'bodyweight']",4,30,None
-207,207,52,male,151.11,advanced,skill_boxing,['dumbbells'],3,30,None
-208,208,21,male,153.28,beginner,endurance,"['punching_bag', 'resistance_bands']",5,30,None
-209,209,40,male,164.03,intermediate,muscle_gain,"['resistance_bands', 'kettlebell', 'bodyweight']",4,45,None
-210,210,34,male,175.2,beginner,muscle_gain,['bodyweight'],4,45,None
-211,211,21,female,188.43,beginner,weight_loss,"['kettlebell', 'dumbbells', 'bodyweight']",5,60,None
-212,212,47,female,158.17,beginner,weight_loss,"['resistance_bands', 'kettlebell']",5,30,Minor knee pain
-213,213,48,female,170.6,intermediate,endurance,"['punching_bag', 'kettlebell']",3,45,None
-214,214,27,male,163.26,beginner,muscle_gain,"['kettlebell', 'punching_bag']",5,30,None
-215,215,60,female,175.75,beginner,muscle_gain,['resistance_bands'],3,45,None
-216,216,41,female,183.43,beginner,weight_loss,"['dumbbells', 'resistance_bands']",4,45,None
-217,217,47,male,164.27,intermediate,weight_loss,"['resistance_bands', 'bodyweight']",3,45,None
-218,218,50,female,167.44,beginner,weight_loss,"['punching_bag', 'kettlebell']",5,30,None
-219,219,27,male,188.44,intermediate,muscle_gain,['punching_bag'],3,45,None
-220,220,28,female,172.77,beginner,general_fitness,['punching_bag'],3,30,None
-221,221,57,male,186.08,advanced,skill_boxing,['punching_bag'],4,30,None
-222,222,19,female,176.77,intermediate,muscle_gain,"['resistance_bands', 'kettlebell']",3,30,None
-223,223,25,male,151.63,beginner,skill_boxing,"['kettlebell', 'bodyweight', 'dumbbells']",3,45,None
-224,224,65,male,157.4,beginner,general_fitness,"['kettlebell', 'dumbbells']",3,30,None
-225,225,59,male,174.58,intermediate,weight_loss,['kettlebell'],4,45,None
-226,226,26,male,166.17,intermediate,general_fitness,"['punching_bag', 'kettlebell', 'bodyweight']",3,30,None
-227,227,57,male,174.47,beginner,weight_loss,['bodyweight'],4,45,Minor knee pain
-228,228,49,male,189.95,intermediate,weight_loss,"['resistance_bands', 'bodyweight', 'kettlebell']",3,45,None
-229,229,35,male,183.89,advanced,muscle_gain,['resistance_bands'],4,30,None
-230,230,42,female,176.55,beginner,muscle_gain,"['resistance_bands', 'bodyweight', 'punching_bag']",5,45,None
-231,231,25,female,159.7,beginner,weight_loss,"['bodyweight', 'dumbbells', 'punching_bag']",5,60,None
-232,232,52,female,171.45,intermediate,skill_boxing,['dumbbells'],4,30,None
-233,233,27,male,174.72,beginner,general_fitness,"['kettlebell', 'bodyweight', 'dumbbells']",4,30,None
-234,234,49,male,169.35,intermediate,weight_loss,['bodyweight'],3,45,Minor knee pain
-235,235,41,male,151.13,intermediate,muscle_gain,"['kettlebell', 'dumbbells', 'punching_bag']",5,45,Minor knee pain
-236,236,21,female,180.44,beginner,skill_boxing,"['resistance_bands', 'kettlebell']",4,60,None
-237,237,34,male,165.3,intermediate,muscle_gain,"['punching_bag', 'bodyweight', 'resistance_bands']",3,45,None
-238,238,58,male,155.27,beginner,skill_boxing,"['resistance_bands', 'punching_bag', 'kettlebell']",3,30,None
-239,239,34,male,189.79,beginner,weight_loss,"['kettlebell', 'dumbbells']",4,60,None
-240,240,53,male,171.97,intermediate,general_fitness,"['dumbbells', 'bodyweight']",4,30,Minor knee pain
-241,241,35,female,155.59,beginner,endurance,"['kettlebell', 'resistance_bands', 'dumbbells']",3,30,Minor knee pain
-242,242,61,female,189.09,beginner,weight_loss,"['resistance_bands', 'dumbbells', 'punching_bag']",5,45,Minor knee pain
-243,243,60,female,173.95,intermediate,endurance,"['kettlebell', 'resistance_bands', 'dumbbells']",5,60,None
-244,244,53,female,177.14,beginner,muscle_gain,['bodyweight'],3,30,None
-245,245,26,female,179.63,beginner,weight_loss,"['kettlebell', 'bodyweight', 'dumbbells']",4,30,None
-246,246,58,female,173.04,beginner,weight_loss,"['dumbbells', 'bodyweight', 'kettlebell']",3,60,None
-247,247,34,female,166.24,advanced,general_fitness,"['kettlebell', 'resistance_bands', 'bodyweight']",3,30,Minor knee pain
-248,248,22,female,184.48,advanced,muscle_gain,['kettlebell'],4,45,None
-249,249,65,female,186.85,beginner,weight_loss,['bodyweight'],5,60,None
-250,250,48,male,185.69,beginner,skill_boxing,"['kettlebell', 'bodyweight', 'dumbbells']",4,60,Minor knee pain
-251,251,61,female,175.43,intermediate,muscle_gain,['dumbbells'],3,30,None
-252,252,34,male,178.42,beginner,weight_loss,"['bodyweight', 'dumbbells']",4,30,Minor knee pain
-253,253,35,female,153.7,beginner,skill_boxing,"['bodyweight', 'resistance_bands', 'punching_bag']",3,60,None
-254,254,27,male,169.62,beginner,muscle_gain,"['resistance_bands', 'bodyweight', 'kettlebell']",4,30,None
-255,255,28,male,158.81,beginner,weight_loss,"['kettlebell', 'resistance_bands']",5,45,None
-256,256,18,female,182.18,beginner,weight_loss,"['punching_bag', 'kettlebell']",3,30,Minor knee pain
-257,257,52,male,182.57,intermediate,weight_loss,['resistance_bands'],4,30,None
-258,258,24,male,185.07,beginner,weight_loss,['punching_bag'],4,30,Minor knee pain
-259,259,24,female,177.12,beginner,muscle_gain,['dumbbells'],4,30,None
-260,260,20,male,179.66,intermediate,weight_loss,['punching_bag'],3,45,None
-261,261,31,male,163.43,advanced,weight_loss,"['kettlebell', 'dumbbells']",4,45,None
-262,262,34,female,187.97,intermediate,muscle_gain,"['bodyweight', 'punching_bag', 'kettlebell']",4,30,None
-263,263,60,female,171.87,beginner,muscle_gain,"['dumbbells', 'kettlebell']",3,60,None
-264,264,49,female,178.96,beginner,general_fitness,"['kettlebell', 'bodyweight']",3,30,Minor knee pain
-265,265,33,female,168.27,beginner,weight_loss,"['resistance_bands', 'dumbbells', 'punching_bag']",5,60,None
-266,266,50,male,187.46,beginner,muscle_gain,['punching_bag'],4,60,None
-267,267,42,female,164.56,intermediate,muscle_gain,['dumbbells'],3,30,None
-268,268,52,male,168.17,advanced,skill_boxing,"['kettlebell', 'punching_bag', 'resistance_bands']",5,45,None
-269,269,40,male,181.37,intermediate,muscle_gain,['kettlebell'],3,45,None
-270,270,28,female,186.94,intermediate,general_fitness,"['dumbbells', 'bodyweight', 'kettlebell']",4,30,None
-271,271,57,male,159.05,beginner,endurance,"['punching_bag', 'dumbbells', 'resistance_bands']",3,30,None
-272,272,30,female,183.39,intermediate,general_fitness,['punching_bag'],5,30,Minor knee pain
-273,273,37,male,170.06,intermediate,muscle_gain,"['punching_bag', 'resistance_bands', 'kettlebell']",3,45,None
-274,274,38,male,154.82,intermediate,weight_loss,"['kettlebell', 'resistance_bands']",5,30,Minor knee pain
-275,275,31,male,157.4,beginner,muscle_gain,"['resistance_bands', 'dumbbells', 'punching_bag']",4,60,Minor knee pain
-276,276,32,male,157.76,intermediate,skill_boxing,"['bodyweight', 'punching_bag', 'resistance_bands']",4,45,Minor knee pain
-277,277,55,male,158.95,beginner,weight_loss,"['kettlebell', 'resistance_bands']",3,60,None
-278,278,50,male,155.28,beginner,weight_loss,"['bodyweight', 'punching_bag', 'resistance_bands']",5,45,None
-279,279,36,female,156.42,beginner,muscle_gain,"['kettlebell', 'bodyweight', 'resistance_bands']",5,60,Minor knee pain
-280,280,41,female,171.37,beginner,weight_loss,"['punching_bag', 'resistance_bands']",3,45,None
-281,281,57,female,154.83,advanced,weight_loss,"['punching_bag', 'bodyweight']",4,60,None
-282,282,49,male,171.97,intermediate,general_fitness,"['bodyweight', 'resistance_bands', 'punching_bag']",3,30,Minor knee pain
-283,283,33,female,182.14,intermediate,muscle_gain,"['punching_bag', 'resistance_bands', 'kettlebell']",3,45,None
-284,284,37,female,163.72,intermediate,muscle_gain,"['resistance_bands', 'punching_bag', 'bodyweight']",4,30,None
-285,285,42,male,180.84,beginner,weight_loss,['dumbbells'],5,60,None
-286,286,59,female,159.07,beginner,weight_loss,"['bodyweight', 'punching_bag']",5,30,Minor knee pain
-287,287,34,female,178.5,advanced,general_fitness,"['bodyweight', 'punching_bag']",5,30,Minor knee pain
-288,288,20,female,178.95,beginner,muscle_gain,"['kettlebell', 'bodyweight']",3,30,None
-289,289,24,male,160.65,intermediate,muscle_gain,"['dumbbells', 'bodyweight', 'kettlebell']",3,45,None
-290,290,52,male,189.42,beginner,muscle_gain,"['resistance_bands', 'dumbbells']",4,30,None
-291,291,19,female,172.05,beginner,weight_loss,"['dumbbells', 'kettlebell', 'resistance_bands']",3,45,None
-292,292,53,female,173.79,advanced,weight_loss,"['dumbbells', 'resistance_bands']",5,30,None
-293,293,48,female,183.0,intermediate,weight_loss,"['dumbbells', 'kettlebell', 'bodyweight']",5,60,None
-294,294,65,female,151.63,intermediate,muscle_gain,"['resistance_bands', 'punching_bag']",3,60,None
-295,295,51,female,178.2,intermediate,muscle_gain,"['dumbbells', 'kettlebell', 'punching_bag']",3,30,None
-296,296,55,female,182.41,beginner,general_fitness,"['kettlebell', 'punching_bag', 'bodyweight']",5,45,None
-297,297,23,female,151.29,intermediate,weight_loss,"['kettlebell', 'dumbbells', 'resistance_bands']",3,60,None
-298,298,56,male,167.12,beginner,weight_loss,"['resistance_bands', 'dumbbells', 'bodyweight']",4,60,None
-299,299,36,female,173.4,beginner,muscle_gain,['kettlebell'],5,30,None
-300,300,50,male,151.89,advanced,weight_loss,['kettlebell'],4,30,None
-301,301,33,male,154.27,beginner,muscle_gain,"['punching_bag', 'dumbbells', 'bodyweight']",5,45,None
-302,302,46,male,189.66,beginner,muscle_gain,"['resistance_bands', 'dumbbells']",3,60,None
-303,303,61,male,162.49,intermediate,weight_loss,"['punching_bag', 'kettlebell']",3,45,Minor knee pain
-304,304,41,male,188.91,intermediate,weight_loss,"['dumbbells', 'resistance_bands', 'kettlebell']",5,30,Minor knee pain
-305,305,44,female,167.97,intermediate,general_fitness,"['bodyweight', 'kettlebell', 'punching_bag']",3,45,None
-306,306,62,female,164.67,beginner,weight_loss,"['punching_bag', 'resistance_bands', 'bodyweight']",5,45,None
-307,307,57,male,169.9,advanced,endurance,"['dumbbells', 'resistance_bands', 'bodyweight']",3,30,Minor knee pain
-308,308,49,male,169.46,intermediate,muscle_gain,"['dumbbells', 'kettlebell']",3,30,Minor knee pain
-309,309,34,female,154.69,beginner,skill_boxing,['dumbbells'],3,30,None
-310,310,38,male,178.32,intermediate,endurance,['bodyweight'],4,30,None
-311,311,29,male,161.11,advanced,skill_boxing,"['kettlebell', 'punching_bag', 'dumbbells']",3,60,None
-312,312,29,male,183.43,beginner,endurance,"['dumbbells', 'punching_bag', 'bodyweight']",5,30,None
-313,313,42,female,178.59,beginner,weight_loss,"['punching_bag', 'kettlebell']",3,45,None
-314,314,44,female,182.41,beginner,weight_loss,['bodyweight'],4,45,None
-315,315,53,male,180.51,beginner,muscle_gain,"['dumbbells', 'kettlebell']",5,30,None
-316,316,46,male,171.75,advanced,weight_loss,"['punching_bag', 'kettlebell', 'bodyweight']",3,60,None
-317,317,49,male,172.92,intermediate,muscle_gain,"['resistance_bands', 'punching_bag', 'kettlebell']",5,45,None
-318,318,60,female,183.97,intermediate,weight_loss,"['dumbbells', 'kettlebell']",4,30,None
-319,319,40,female,170.48,intermediate,weight_loss,"['bodyweight', 'kettlebell', 'resistance_bands']",5,45,None
-320,320,25,female,185.72,beginner,skill_boxing,"['dumbbells', 'kettlebell']",4,30,None
-321,321,41,female,151.57,advanced,skill_boxing,"['resistance_bands', 'kettlebell']",5,30,None
-322,322,60,female,155.84,beginner,weight_loss,"['kettlebell', 'punching_bag', 'resistance_bands']",3,45,None
-323,323,45,female,183.65,beginner,skill_boxing,"['bodyweight', 'dumbbells']",3,30,Minor knee pain
-324,324,30,female,172.85,beginner,muscle_gain,"['dumbbells', 'bodyweight']",5,30,None
-325,325,32,female,159.08,intermediate,skill_boxing,"['kettlebell', 'resistance_bands', 'punching_bag']",5,60,None
-326,326,22,male,151.4,intermediate,weight_loss,['resistance_bands'],5,30,None
-327,327,52,female,155.63,beginner,muscle_gain,['dumbbells'],4,30,Minor knee pain
-328,328,38,male,177.28,intermediate,muscle_gain,['kettlebell'],4,45,Minor knee pain
-329,329,38,female,177.62,intermediate,weight_loss,"['resistance_bands', 'dumbbells', 'punching_bag']",5,30,None
-330,330,22,male,178.67,intermediate,weight_loss,"['resistance_bands', 'bodyweight']",3,45,None
-331,331,23,female,159.78,beginner,endurance,"['punching_bag', 'bodyweight', 'dumbbells']",5,30,None
-332,332,23,female,171.34,intermediate,weight_loss,['bodyweight'],3,45,None
-333,333,21,male,160.08,beginner,weight_loss,"['punching_bag', 'kettlebell']",4,60,None
-334,334,19,male,167.72,beginner,general_fitness,"['punching_bag', 'resistance_bands', 'bodyweight']",3,45,None
-335,335,59,female,182.67,beginner,muscle_gain,"['bodyweight', 'kettlebell', 'punching_bag']",5,30,Minor knee pain
-336,336,56,female,178.6,advanced,muscle_gain,['punching_bag'],3,45,Minor knee pain
-337,337,23,female,158.93,beginner,weight_loss,"['bodyweight', 'dumbbells']",4,30,None
-338,338,37,female,156.51,intermediate,muscle_gain,"['resistance_bands', 'bodyweight', 'punching_bag']",4,30,None
-339,339,37,female,155.35,beginner,muscle_gain,"['kettlebell', 'punching_bag', 'resistance_bands']",5,60,None
-340,340,46,male,177.23,beginner,weight_loss,"['resistance_bands', 'punching_bag', 'kettlebell']",3,60,None
-341,341,44,female,183.95,advanced,weight_loss,"['punching_bag', 'kettlebell', 'resistance_bands']",5,60,None
-342,342,35,female,188.57,intermediate,weight_loss,"['kettlebell', 'bodyweight', 'punching_bag']",4,45,None
-343,343,23,female,171.86,beginner,weight_loss,"['resistance_bands', 'bodyweight']",4,60,None
-344,344,53,male,153.63,intermediate,weight_loss,"['dumbbells', 'bodyweight']",3,45,None
-345,345,59,male,159.55,intermediate,skill_boxing,"['bodyweight', 'resistance_bands', 'kettlebell']",5,30,None
-346,346,50,female,154.91,intermediate,skill_boxing,"['punching_bag', 'dumbbells']",5,45,None
-347,347,56,female,163.96,beginner,muscle_gain,['kettlebell'],4,30,None
-348,348,30,male,158.14,intermediate,weight_loss,"['punching_bag', 'kettlebell']",5,30,None
-349,349,42,female,176.42,beginner,muscle_gain,['punching_bag'],4,60,None
-350,350,43,male,178.29,intermediate,weight_loss,"['dumbbells', 'kettlebell', 'bodyweight']",3,45,None
-351,351,39,male,150.64,intermediate,weight_loss,['dumbbells'],4,60,None
-352,352,25,female,153.68,intermediate,weight_loss,['punching_bag'],5,60,None
-353,353,60,female,170.39,beginner,general_fitness,['dumbbells'],4,60,None
-354,354,45,female,183.29,advanced,skill_boxing,"['punching_bag', 'resistance_bands', 'kettlebell']",4,45,None
-355,355,52,female,189.16,beginner,muscle_gain,['punching_bag'],3,60,None
-356,356,55,female,171.71,intermediate,weight_loss,['dumbbells'],3,45,None
-357,357,42,male,188.65,beginner,muscle_gain,['dumbbells'],3,60,Minor knee pain
-358,358,63,male,172.8,beginner,muscle_gain,"['kettlebell', 'bodyweight']",5,60,None
-359,359,18,female,184.58,beginner,weight_loss,"['punching_bag', 'bodyweight', 'dumbbells']",5,60,None
-360,360,50,male,184.76,beginner,weight_loss,['punching_bag'],3,45,None
-361,361,46,male,182.93,beginner,muscle_gain,"['punching_bag', 'resistance_bands']",3,60,None
-362,362,65,female,174.17,beginner,weight_loss,"['resistance_bands', 'bodyweight']",5,60,None
-363,363,34,male,188.96,advanced,muscle_gain,"['punching_bag', 'kettlebell', 'bodyweight']",3,30,None
-364,364,65,female,186.37,intermediate,weight_loss,"['dumbbells', 'kettlebell']",4,60,None
-365,365,64,female,152.08,beginner,weight_loss,"['kettlebell', 'punching_bag', 'bodyweight']",5,30,None
-366,366,31,female,173.65,intermediate,muscle_gain,"['punching_bag', 'kettlebell']",3,60,Minor knee pain
-367,367,26,female,175.48,beginner,general_fitness,"['punching_bag', 'resistance_bands', 'kettlebell']",3,45,Minor knee pain
-368,368,28,male,164.29,beginner,weight_loss,"['punching_bag', 'bodyweight']",5,30,None
-369,369,29,female,155.84,beginner,weight_loss,"['resistance_bands', 'dumbbells']",4,30,None
-370,370,19,male,189.46,beginner,weight_loss,['punching_bag'],3,45,Minor knee pain
-371,371,24,male,157.82,intermediate,general_fitness,"['bodyweight', 'resistance_bands']",4,45,None
-372,372,33,male,181.44,beginner,weight_loss,"['resistance_bands', 'punching_bag']",4,30,None
-373,373,65,female,177.45,beginner,weight_loss,['punching_bag'],3,60,None
-374,374,36,female,156.85,advanced,weight_loss,['dumbbells'],4,60,None
-375,375,26,male,176.41,beginner,weight_loss,['bodyweight'],4,45,None
-376,376,35,female,170.91,intermediate,muscle_gain,"['punching_bag', 'bodyweight']",3,30,None
-377,377,62,female,161.68,beginner,weight_loss,"['punching_bag', 'resistance_bands', 'kettlebell']",5,60,None
-378,378,25,male,169.4,advanced,weight_loss,['dumbbells'],4,30,Minor knee pain
-379,379,26,female,179.11,beginner,muscle_gain,"['resistance_bands', 'dumbbells']",3,60,None
-380,380,58,female,160.98,beginner,skill_boxing,"['resistance_bands', 'dumbbells']",5,60,None
-381,381,50,male,186.71,beginner,general_fitness,"['kettlebell', 'punching_bag']",3,30,None
-382,382,48,female,152.56,intermediate,skill_boxing,"['punching_bag', 'kettlebell']",3,45,None
-383,383,55,male,169.78,beginner,weight_loss,['dumbbells'],4,60,None
-384,384,42,male,155.83,beginner,weight_loss,"['punching_bag', 'resistance_bands']",4,60,None
-385,385,46,female,150.27,beginner,muscle_gain,['kettlebell'],5,30,None
-386,386,33,female,183.93,beginner,weight_loss,['kettlebell'],3,45,None
-387,387,27,female,162.05,intermediate,skill_boxing,"['resistance_bands', 'dumbbells', 'punching_bag']",5,60,None
-388,388,46,female,178.48,intermediate,skill_boxing,['resistance_bands'],5,30,None
-389,389,40,female,165.6,beginner,weight_loss,"['punching_bag', 'bodyweight', 'resistance_bands']",4,30,None
-390,390,42,male,187.85,beginner,muscle_gain,['dumbbells'],3,60,None
-391,391,35,female,169.31,beginner,muscle_gain,"['kettlebell', 'resistance_bands']",4,30,None
-392,392,28,female,188.86,beginner,muscle_gain,['dumbbells'],5,45,Minor knee pain
-393,393,41,male,150.98,beginner,endurance,"['bodyweight', 'resistance_bands', 'kettlebell']",3,60,None
-394,394,24,female,174.04,beginner,weight_loss,"['bodyweight', 'kettlebell']",5,60,Minor knee pain
-395,395,25,female,178.27,beginner,muscle_gain,['punching_bag'],3,60,None
-396,396,32,male,154.67,advanced,weight_loss,['punching_bag'],3,30,None
-397,397,48,female,164.31,intermediate,weight_loss,"['bodyweight', 'punching_bag']",3,30,None
-398,398,61,male,168.74,intermediate,muscle_gain,['resistance_bands'],5,60,None
-399,399,44,female,158.73,intermediate,muscle_gain,"['dumbbells', 'resistance_bands', 'bodyweight']",5,60,None
-400,400,37,female,188.8,intermediate,muscle_gain,"['bodyweight', 'kettlebell']",5,30,None
-401,401,49,female,163.76,intermediate,weight_loss,['resistance_bands'],3,60,None
-402,402,59,female,177.63,beginner,weight_loss,"['dumbbells', 'resistance_bands']",3,45,None
-403,403,54,female,182.12,beginner,weight_loss,['dumbbells'],3,30,None
-404,404,61,female,175.19,beginner,skill_boxing,"['resistance_bands', 'bodyweight']",4,60,None
-405,405,65,male,172.21,intermediate,skill_boxing,"['dumbbells', 'kettlebell']",5,30,None
-406,406,42,male,167.87,advanced,endurance,"['punching_bag', 'dumbbells']",4,45,None
-407,407,37,female,165.42,beginner,muscle_gain,"['kettlebell', 'punching_bag']",5,30,None
-408,408,44,male,180.85,beginner,general_fitness,['bodyweight'],3,30,Minor knee pain
-409,409,22,female,164.38,intermediate,muscle_gain,"['resistance_bands', 'bodyweight']",4,30,None
-410,410,44,male,156.17,intermediate,skill_boxing,"['resistance_bands', 'punching_bag', 'bodyweight']",4,45,None
-411,411,48,male,159.89,intermediate,muscle_gain,"['bodyweight', 'dumbbells']",5,60,None
-412,412,43,male,182.0,intermediate,weight_loss,"['dumbbells', 'resistance_bands', 'punching_bag']",4,60,None
-413,413,56,female,178.86,intermediate,weight_loss,"['kettlebell', 'resistance_bands']",4,45,None
-414,414,64,female,166.04,intermediate,endurance,['bodyweight'],4,30,None
-415,415,24,female,178.53,intermediate,weight_loss,"['kettlebell', 'bodyweight']",5,60,Minor knee pain
-416,416,59,male,184.98,beginner,muscle_gain,"['kettlebell', 'punching_bag', 'bodyweight']",5,45,None
-417,417,48,female,183.59,intermediate,weight_loss,"['kettlebell', 'dumbbells']",4,45,Minor knee pain
-418,418,24,female,168.63,beginner,weight_loss,['punching_bag'],4,45,None
-419,419,40,male,167.37,beginner,muscle_gain,"['bodyweight', 'resistance_bands', 'kettlebell']",4,60,None
-420,420,25,female,162.3,intermediate,endurance,"['kettlebell', 'punching_bag']",5,60,None
-421,421,50,female,151.22,beginner,weight_loss,['punching_bag'],4,30,None
-422,422,20,female,185.76,intermediate,general_fitness,"['resistance_bands', 'kettlebell', 'punching_bag']",3,30,None
-423,423,49,female,172.82,beginner,weight_loss,"['bodyweight', 'punching_bag']",3,60,None
-424,424,31,female,175.08,beginner,endurance,['dumbbells'],5,30,None
-425,425,19,female,165.19,beginner,general_fitness,"['kettlebell', 'resistance_bands', 'punching_bag']",3,30,None
-426,426,63,male,161.82,advanced,skill_boxing,"['dumbbells', 'bodyweight', 'kettlebell']",5,60,None
-427,427,29,male,169.21,intermediate,endurance,"['kettlebell', 'dumbbells', 'bodyweight']",4,60,None
-428,428,62,female,181.96,advanced,weight_loss,"['dumbbells', 'resistance_bands', 'kettlebell']",5,45,None
-429,429,43,female,164.61,intermediate,general_fitness,"['resistance_bands', 'kettlebell']",3,45,None
-430,430,49,male,186.94,beginner,endurance,"['kettlebell', 'resistance_bands', 'bodyweight']",3,60,None
-431,431,26,male,164.95,intermediate,weight_loss,"['kettlebell', 'punching_bag']",3,45,None
-432,432,52,female,171.41,intermediate,muscle_gain,"['resistance_bands', 'kettlebell', 'bodyweight']",5,30,None
-433,433,42,female,187.26,beginner,skill_boxing,"['kettlebell', 'dumbbells']",3,60,None
-434,434,21,female,188.7,advanced,general_fitness,"['kettlebell', 'dumbbells']",5,60,Minor knee pain
-435,435,40,male,162.6,intermediate,weight_loss,['resistance_bands'],3,45,None
-436,436,64,male,162.21,beginner,weight_loss,"['resistance_bands', 'dumbbells', 'punching_bag']",3,60,None
-437,437,32,male,184.21,beginner,endurance,"['bodyweight', 'kettlebell', 'dumbbells']",3,45,None
-438,438,58,female,154.65,intermediate,weight_loss,['dumbbells'],4,60,None
-439,439,27,male,152.15,intermediate,general_fitness,"['resistance_bands', 'punching_bag']",3,30,None
-440,440,52,male,180.23,intermediate,endurance,"['dumbbells', 'bodyweight', 'punching_bag']",5,45,Minor knee pain
-441,441,60,male,172.11,beginner,endurance,"['punching_bag', 'bodyweight', 'kettlebell']",4,45,None
-442,442,61,female,185.18,beginner,weight_loss,['kettlebell'],3,30,None
-443,443,55,female,150.54,beginner,weight_loss,"['bodyweight', 'punching_bag']",4,30,Minor knee pain
-444,444,38,male,151.04,intermediate,muscle_gain,"['kettlebell', 'punching_bag', 'dumbbells']",5,60,Minor knee pain
-445,445,20,male,173.04,beginner,general_fitness,"['resistance_bands', 'kettlebell']",4,45,Minor knee pain
-446,446,31,female,181.92,beginner,skill_boxing,"['dumbbells', 'resistance_bands']",4,45,None
-447,447,21,male,189.38,intermediate,endurance,"['resistance_bands', 'bodyweight']",5,30,None
-448,448,24,male,181.0,intermediate,muscle_gain,['kettlebell'],5,45,Minor knee pain
-449,449,49,female,168.45,beginner,endurance,"['punching_bag', 'bodyweight', 'kettlebell']",5,45,None
-450,450,40,female,159.02,beginner,weight_loss,['punching_bag'],5,60,Minor knee pain
-451,451,20,female,185.54,intermediate,endurance,"['dumbbells', 'punching_bag']",4,60,Minor knee pain
-452,452,37,female,167.79,intermediate,general_fitness,"['resistance_bands', 'bodyweight', 'punching_bag']",5,30,Minor knee pain
-453,453,34,female,152.71,beginner,general_fitness,"['resistance_bands', 'kettlebell']",5,45,None
-454,454,53,male,185.91,intermediate,weight_loss,['resistance_bands'],5,30,None
-455,455,19,female,168.38,intermediate,muscle_gain,['kettlebell'],4,60,None
-456,456,33,female,187.27,intermediate,muscle_gain,"['resistance_bands', 'dumbbells']",4,60,None
-457,457,22,female,163.58,beginner,weight_loss,"['kettlebell', 'punching_bag']",4,60,None
-458,458,43,male,180.46,intermediate,muscle_gain,"['punching_bag', 'bodyweight']",3,30,Minor knee pain
-459,459,43,male,177.93,advanced,general_fitness,['resistance_bands'],4,30,None
-460,460,42,male,158.91,beginner,weight_loss,"['resistance_bands', 'punching_bag']",3,45,None
-461,461,19,male,179.27,beginner,endurance,['bodyweight'],5,60,None
-462,462,50,female,163.73,intermediate,general_fitness,"['dumbbells', 'resistance_bands']",5,60,None
-463,463,39,female,156.78,beginner,weight_loss,['resistance_bands'],3,30,Minor knee pain
-464,464,54,male,181.08,intermediate,endurance,['resistance_bands'],3,45,None
-465,465,44,female,161.76,beginner,muscle_gain,['bodyweight'],4,60,None
-466,466,65,male,152.67,beginner,weight_loss,"['dumbbells', 'kettlebell']",4,60,None
-467,467,47,male,172.4,intermediate,general_fitness,['punching_bag'],5,60,Minor knee pain
-468,468,42,male,174.89,intermediate,weight_loss,['punching_bag'],3,45,None
-469,469,44,female,151.09,beginner,weight_loss,['kettlebell'],3,30,None
-470,470,55,male,150.68,intermediate,weight_loss,"['bodyweight', 'punching_bag', 'resistance_bands']",4,45,None
-471,471,37,female,174.47,intermediate,weight_loss,"['kettlebell', 'punching_bag']",4,30,None
-472,472,32,male,186.94,intermediate,muscle_gain,"['dumbbells', 'resistance_bands', 'bodyweight']",4,45,None
-473,473,54,male,169.56,intermediate,weight_loss,['dumbbells'],3,60,None
-474,474,34,male,188.3,intermediate,muscle_gain,['resistance_bands'],4,60,None
-475,475,44,female,169.36,intermediate,weight_loss,['kettlebell'],5,30,None
-476,476,48,female,181.19,beginner,muscle_gain,['dumbbells'],5,60,None
-477,477,24,male,158.67,intermediate,muscle_gain,"['resistance_bands', 'dumbbells']",3,30,None
-478,478,33,female,170.84,intermediate,muscle_gain,"['bodyweight', 'punching_bag']",5,60,None
-479,479,53,male,162.48,beginner,muscle_gain,"['resistance_bands', 'dumbbells']",4,45,Minor knee pain
-480,480,23,female,176.3,beginner,muscle_gain,"['dumbbells', 'kettlebell', 'resistance_bands']",3,30,None
-481,481,65,male,187.25,beginner,weight_loss,"['kettlebell', 'punching_bag', 'dumbbells']",5,60,None
-482,482,39,male,174.62,intermediate,weight_loss,"['dumbbells', 'kettlebell', 'bodyweight']",4,30,Minor knee pain
-483,483,50,female,150.67,beginner,weight_loss,"['kettlebell', 'dumbbells']",3,60,Minor knee pain
-484,484,23,female,156.79,beginner,skill_boxing,['kettlebell'],3,30,None
-485,485,47,male,163.01,beginner,general_fitness,['dumbbells'],5,45,None
-486,486,53,female,162.38,beginner,endurance,"['resistance_bands', 'dumbbells']",4,30,None
-487,487,55,male,187.46,beginner,general_fitness,"['resistance_bands', 'bodyweight']",4,60,None
-488,488,65,male,171.32,intermediate,general_fitness,"['dumbbells', 'bodyweight', 'kettlebell']",3,45,Minor knee pain
-489,489,61,female,176.05,beginner,muscle_gain,"['dumbbells', 'resistance_bands', 'punching_bag']",4,30,None
-490,490,26,male,182.38,beginner,muscle_gain,"['bodyweight', 'dumbbells']",5,30,None
-491,491,44,male,172.87,advanced,weight_loss,['dumbbells'],3,30,None
-492,492,41,male,186.78,beginner,muscle_gain,"['bodyweight', 'kettlebell']",5,45,None
-493,493,21,male,155.91,beginner,weight_loss,"['bodyweight', 'resistance_bands', 'dumbbells']",5,30,None
-494,494,58,male,181.78,beginner,muscle_gain,['punching_bag'],5,45,None
-495,495,59,female,151.96,advanced,muscle_gain,"['dumbbells', 'bodyweight', 'kettlebell']",4,60,None
-496,496,28,female,182.69,beginner,weight_loss,"['dumbbells', 'bodyweight', 'punching_bag']",3,30,None
-497,497,24,female,153.71,beginner,muscle_gain,['dumbbells'],5,45,None
-498,498,34,male,178.78,beginner,muscle_gain,"['kettlebell', 'dumbbells']",4,45,None
-499,499,57,female,175.5,intermediate,skill_boxing,"['kettlebell', 'bodyweight', 'dumbbells']",5,30,None
-500,500,45,female,155.51,intermediate,weight_loss,"['dumbbells', 'bodyweight']",5,30,None
-501,501,47,male,153.91,beginner,general_fitness,['dumbbells'],5,30,None
-502,502,25,female,154.37,intermediate,weight_loss,"['dumbbells', 'bodyweight']",3,60,None
-503,503,23,male,157.74,beginner,muscle_gain,['kettlebell'],3,60,None
-504,504,55,male,184.31,intermediate,muscle_gain,"['dumbbells', 'bodyweight', 'punching_bag']",3,45,None
-505,505,45,male,160.51,advanced,muscle_gain,"['resistance_bands', 'kettlebell']",3,45,Minor knee pain
-506,506,58,female,168.78,beginner,muscle_gain,"['kettlebell', 'punching_bag', 'resistance_bands']",3,30,None
-507,507,27,male,181.4,intermediate,muscle_gain,"['kettlebell', 'dumbbells', 'punching_bag']",4,60,None
-508,508,62,male,166.92,intermediate,general_fitness,['bodyweight'],5,30,None
-509,509,64,female,160.79,beginner,muscle_gain,"['kettlebell', 'bodyweight']",5,60,None
-510,510,58,female,184.75,intermediate,weight_loss,"['dumbbells', 'kettlebell']",3,45,None
-511,511,59,male,180.34,beginner,weight_loss,['punching_bag'],3,60,None
-512,512,18,male,167.51,intermediate,muscle_gain,['kettlebell'],4,45,None
-513,513,65,female,158.16,beginner,weight_loss,"['kettlebell', 'dumbbells', 'resistance_bands']",3,30,None
-514,514,56,female,172.5,intermediate,weight_loss,['bodyweight'],3,30,None
-515,515,56,male,158.11,beginner,skill_boxing,['dumbbells'],4,45,None
-516,516,31,male,173.95,intermediate,weight_loss,"['bodyweight', 'resistance_bands', 'dumbbells']",3,30,None
-517,517,50,male,169.0,intermediate,muscle_gain,"['resistance_bands', 'bodyweight', 'dumbbells']",4,45,None
-518,518,37,male,166.77,intermediate,muscle_gain,['punching_bag'],4,30,None
-519,519,57,male,152.4,intermediate,skill_boxing,"['punching_bag', 'kettlebell', 'resistance_bands']",3,60,None
-520,520,63,female,184.46,beginner,general_fitness,['kettlebell'],3,30,None
-521,521,45,female,150.1,beginner,muscle_gain,['dumbbells'],4,60,None
-522,522,37,male,184.56,intermediate,endurance,"['bodyweight', 'resistance_bands', 'punching_bag']",4,60,Minor knee pain
-523,523,27,female,182.24,intermediate,weight_loss,"['bodyweight', 'punching_bag']",3,30,None
-524,524,64,female,172.07,beginner,general_fitness,"['kettlebell', 'bodyweight', 'resistance_bands']",3,30,None
-525,525,42,female,164.51,beginner,general_fitness,"['bodyweight', 'kettlebell']",3,60,None
-526,526,53,female,189.16,beginner,muscle_gain,"['bodyweight', 'dumbbells']",5,30,None
-527,527,37,male,156.91,intermediate,muscle_gain,"['bodyweight', 'resistance_bands', 'dumbbells']",5,60,None
-528,528,52,male,167.37,intermediate,general_fitness,"['resistance_bands', 'dumbbells', 'kettlebell']",4,30,Minor knee pain
-529,529,62,male,158.26,beginner,weight_loss,['punching_bag'],5,60,Minor knee pain
-530,530,41,female,158.28,advanced,weight_loss,"['resistance_bands', 'bodyweight', 'punching_bag']",3,45,None
-531,531,20,male,168.4,beginner,weight_loss,"['dumbbells', 'bodyweight', 'resistance_bands']",5,30,None
-532,532,39,female,152.53,intermediate,endurance,['bodyweight'],3,45,None
-533,533,44,male,169.9,beginner,muscle_gain,"['bodyweight', 'resistance_bands', 'kettlebell']",5,60,None
-534,534,44,male,170.62,beginner,weight_loss,"['bodyweight', 'dumbbells']",4,30,Minor knee pain
-535,535,33,female,172.28,beginner,muscle_gain,"['punching_bag', 'bodyweight']",3,45,None
-536,536,26,male,167.33,intermediate,weight_loss,['resistance_bands'],5,30,None
-537,537,43,female,151.54,beginner,muscle_gain,['resistance_bands'],4,45,None
-538,538,57,male,182.35,beginner,weight_loss,"['dumbbells', 'resistance_bands', 'kettlebell']",3,30,None
-539,539,28,female,174.53,intermediate,weight_loss,"['dumbbells', 'punching_bag']",4,60,None
-540,540,23,female,162.2,beginner,endurance,['resistance_bands'],4,30,None
-541,541,21,female,151.12,intermediate,muscle_gain,"['dumbbells', 'bodyweight']",3,30,None
-542,542,30,male,179.01,intermediate,endurance,['resistance_bands'],3,60,None
-543,543,49,female,178.54,beginner,general_fitness,['kettlebell'],4,30,Minor knee pain
-544,544,36,male,184.26,intermediate,muscle_gain,"['kettlebell', 'bodyweight', 'resistance_bands']",3,60,None
-545,545,46,female,169.72,beginner,weight_loss,['resistance_bands'],3,30,None
-546,546,33,female,165.38,advanced,weight_loss,"['dumbbells', 'resistance_bands']",4,60,Minor knee pain
-547,547,48,male,178.33,intermediate,weight_loss,"['kettlebell', 'resistance_bands', 'punching_bag']",4,45,None
-548,548,36,male,185.72,beginner,endurance,"['punching_bag', 'dumbbells', 'bodyweight']",5,45,Minor knee pain
-549,549,35,male,175.92,beginner,weight_loss,['punching_bag'],3,60,Minor knee pain
-550,550,42,male,184.93,beginner,skill_boxing,"['resistance_bands', 'kettlebell']",5,60,None
-551,551,42,male,181.91,intermediate,weight_loss,"['punching_bag', 'kettlebell', 'dumbbells']",3,30,None
-552,552,36,female,182.78,intermediate,endurance,"['punching_bag', 'kettlebell', 'dumbbells']",5,30,None
-553,553,62,male,154.43,intermediate,muscle_gain,['kettlebell'],5,45,None
-554,554,25,male,162.2,advanced,weight_loss,"['dumbbells', 'bodyweight']",5,60,None
-555,555,47,female,174.22,intermediate,weight_loss,"['bodyweight', 'dumbbells']",3,60,None
-556,556,21,male,188.83,intermediate,general_fitness,"['bodyweight', 'kettlebell']",3,60,None
-557,557,22,male,189.18,beginner,weight_loss,"['resistance_bands', 'bodyweight', 'punching_bag']",4,45,Minor knee pain
-558,558,38,male,163.46,intermediate,muscle_gain,"['resistance_bands', 'kettlebell']",4,45,None
-559,559,35,male,182.43,intermediate,weight_loss,"['resistance_bands', 'bodyweight']",4,30,Minor knee pain
-560,560,33,female,175.73,beginner,general_fitness,"['bodyweight', 'punching_bag', 'dumbbells']",3,30,None
-561,561,26,male,150.81,beginner,weight_loss,"['resistance_bands', 'punching_bag', 'bodyweight']",4,60,None
-562,562,24,male,163.85,intermediate,weight_loss,"['kettlebell', 'dumbbells', 'punching_bag']",5,60,None
-563,563,38,male,172.9,beginner,general_fitness,"['resistance_bands', 'kettlebell', 'dumbbells']",3,30,Minor knee pain
-564,564,55,male,164.25,intermediate,skill_boxing,['bodyweight'],4,30,None
-565,565,32,male,175.15,intermediate,weight_loss,"['bodyweight', 'kettlebell']",3,30,None
-566,566,33,female,179.3,beginner,muscle_gain,"['dumbbells', 'bodyweight', 'punching_bag']",4,45,None
-567,567,47,male,156.74,beginner,muscle_gain,['kettlebell'],4,60,None
-568,568,60,male,186.5,beginner,muscle_gain,"['resistance_bands', 'dumbbells']",3,60,None
-569,569,31,male,158.57,beginner,weight_loss,['resistance_bands'],3,30,None
-570,570,38,male,185.61,intermediate,endurance,"['bodyweight', 'resistance_bands']",4,45,None
-571,571,23,male,176.16,beginner,muscle_gain,"['punching_bag', 'bodyweight']",3,30,None
-572,572,48,female,176.56,intermediate,weight_loss,"['resistance_bands', 'punching_bag']",3,45,None
-573,573,46,male,176.06,beginner,weight_loss,"['bodyweight', 'kettlebell']",3,45,None
-574,574,29,male,171.06,intermediate,weight_loss,"['kettlebell', 'bodyweight']",3,45,None
-575,575,20,female,189.33,beginner,muscle_gain,"['punching_bag', 'bodyweight']",4,60,Minor knee pain
-576,576,42,male,182.28,intermediate,skill_boxing,['punching_bag'],4,45,None
-577,577,60,female,179.77,intermediate,weight_loss,"['kettlebell', 'dumbbells', 'resistance_bands']",5,30,None
-578,578,37,male,189.46,intermediate,weight_loss,"['kettlebell', 'bodyweight', 'punching_bag']",3,60,None
-579,579,57,female,180.09,beginner,muscle_gain,['resistance_bands'],4,60,None
-580,580,58,female,189.98,beginner,muscle_gain,"['resistance_bands', 'punching_bag']",3,30,None
-581,581,64,male,160.45,intermediate,endurance,"['kettlebell', 'dumbbells']",3,45,Minor knee pain
-582,582,41,male,161.44,intermediate,weight_loss,"['kettlebell', 'dumbbells']",4,30,None
-583,583,59,female,179.34,intermediate,endurance,"['resistance_bands', 'bodyweight', 'kettlebell']",4,45,None
-584,584,44,female,178.97,beginner,general_fitness,"['resistance_bands', 'dumbbells']",3,45,None
-585,585,29,male,170.92,intermediate,muscle_gain,"['resistance_bands', 'bodyweight', 'kettlebell']",3,60,None
-586,586,37,male,161.87,beginner,weight_loss,['punching_bag'],5,45,None
-587,587,47,female,155.4,beginner,muscle_gain,['bodyweight'],4,30,None
-588,588,57,female,184.51,beginner,weight_loss,"['dumbbells', 'kettlebell']",3,60,None
-589,589,54,male,155.75,beginner,muscle_gain,"['punching_bag', 'bodyweight', 'resistance_bands']",3,60,None
-590,590,42,female,184.14,intermediate,weight_loss,['punching_bag'],4,30,Minor knee pain
-591,591,47,male,153.78,intermediate,muscle_gain,"['resistance_bands', 'punching_bag', 'dumbbells']",3,45,None
-592,592,26,female,185.03,intermediate,weight_loss,['resistance_bands'],3,30,Minor knee pain
-593,593,22,male,170.3,advanced,weight_loss,['kettlebell'],5,45,None
-594,594,43,male,170.19,intermediate,weight_loss,"['resistance_bands', 'bodyweight']",3,30,None
-595,595,41,female,160.67,intermediate,weight_loss,"['kettlebell', 'punching_bag']",4,30,Minor knee pain
-596,596,53,male,159.35,beginner,endurance,['dumbbells'],4,45,None
-597,597,18,female,161.46,intermediate,weight_loss,"['dumbbells', 'bodyweight', 'kettlebell']",5,45,None
-598,598,50,male,176.66,beginner,skill_boxing,"['dumbbells', 'resistance_bands', 'kettlebell']",5,60,None
-599,599,29,female,166.28,advanced,weight_loss,"['bodyweight', 'resistance_bands', 'punching_bag']",4,45,None
-600,600,37,male,180.08,beginner,general_fitness,"['punching_bag', 'bodyweight']",3,45,None
-601,601,59,male,179.56,intermediate,weight_loss,"['bodyweight', 'punching_bag']",3,30,None
-602,602,31,male,162.37,beginner,weight_loss,"['dumbbells', 'punching_bag']",4,45,None
-603,603,38,female,183.66,intermediate,muscle_gain,['resistance_bands'],4,30,None
-604,604,62,male,175.4,beginner,weight_loss,"['resistance_bands', 'bodyweight']",3,60,None
-605,605,35,female,180.71,advanced,weight_loss,"['kettlebell', 'dumbbells']",3,60,None
-606,606,21,male,186.69,beginner,weight_loss,"['kettlebell', 'resistance_bands', 'punching_bag']",4,45,None
-607,607,60,female,150.38,beginner,muscle_gain,['kettlebell'],5,60,None
-608,608,58,male,170.78,beginner,skill_boxing,['bodyweight'],4,60,None
-609,609,38,male,154.94,intermediate,general_fitness,"['bodyweight', 'punching_bag']",5,60,None
-610,610,33,male,172.82,advanced,skill_boxing,['kettlebell'],4,60,None
-611,611,42,male,169.18,beginner,weight_loss,['kettlebell'],4,30,Minor knee pain
-612,612,22,male,156.14,intermediate,skill_boxing,"['punching_bag', 'kettlebell']",5,45,None
-613,613,63,male,173.92,intermediate,weight_loss,"['punching_bag', 'resistance_bands']",4,60,None
-614,614,51,male,172.64,beginner,weight_loss,"['kettlebell', 'resistance_bands', 'punching_bag']",4,60,Minor knee pain
-615,615,56,male,157.63,beginner,skill_boxing,['kettlebell'],5,30,Minor knee pain
-616,616,29,female,161.95,beginner,skill_boxing,"['bodyweight', 'punching_bag']",5,30,None
-617,617,64,female,184.59,beginner,general_fitness,['kettlebell'],5,60,None
-618,618,26,male,183.77,intermediate,skill_boxing,['punching_bag'],4,60,None
-619,619,25,female,171.52,beginner,weight_loss,"['resistance_bands', 'dumbbells']",3,30,None
-620,620,48,male,170.83,beginner,weight_loss,['kettlebell'],3,60,Minor knee pain
-621,621,21,female,171.47,intermediate,muscle_gain,"['resistance_bands', 'punching_bag']",3,60,None
-622,622,19,male,151.51,intermediate,weight_loss,"['punching_bag', 'bodyweight', 'dumbbells']",5,60,None
-623,623,41,female,165.73,beginner,endurance,['resistance_bands'],3,45,None
-624,624,42,male,188.4,intermediate,skill_boxing,"['resistance_bands', 'kettlebell']",5,45,None
-625,625,27,male,176.99,advanced,muscle_gain,"['bodyweight', 'dumbbells']",5,45,None
-626,626,21,male,182.16,intermediate,general_fitness,['kettlebell'],4,30,None
-627,627,65,female,180.1,advanced,muscle_gain,"['kettlebell', 'dumbbells']",4,60,None
-628,628,34,female,158.45,beginner,weight_loss,"['resistance_bands', 'punching_bag']",5,45,None
-629,629,34,female,160.62,beginner,muscle_gain,"['dumbbells', 'resistance_bands']",4,30,None
-630,630,55,female,165.07,beginner,muscle_gain,"['bodyweight', 'dumbbells']",4,60,None
-631,631,22,male,181.67,beginner,muscle_gain,['resistance_bands'],5,30,None
-632,632,62,female,172.41,beginner,muscle_gain,"['bodyweight', 'resistance_bands']",5,30,Minor knee pain
-633,633,37,male,187.76,beginner,weight_loss,"['resistance_bands', 'punching_bag', 'dumbbells']",4,30,Minor knee pain
-634,634,55,female,183.75,beginner,endurance,"['bodyweight', 'kettlebell']",3,60,None
-635,635,60,male,175.7,intermediate,muscle_gain,"['punching_bag', 'dumbbells']",5,60,None
-636,636,40,female,173.69,beginner,endurance,"['bodyweight', 'kettlebell']",4,60,None
-637,637,22,female,160.27,advanced,muscle_gain,"['bodyweight', 'kettlebell', 'dumbbells']",5,30,None
-638,638,62,female,156.5,beginner,muscle_gain,['kettlebell'],4,45,None
-639,639,53,female,159.46,intermediate,weight_loss,"['kettlebell', 'resistance_bands']",5,45,None
-640,640,46,male,166.98,beginner,weight_loss,"['dumbbells', 'punching_bag']",5,45,Minor knee pain
-641,641,48,male,150.96,beginner,skill_boxing,['bodyweight'],5,60,None
-642,642,19,female,172.81,advanced,weight_loss,"['punching_bag', 'dumbbells']",4,30,Minor knee pain
-643,643,43,male,185.02,intermediate,general_fitness,"['punching_bag', 'dumbbells', 'resistance_bands']",3,45,None
-644,644,48,male,152.04,intermediate,weight_loss,['bodyweight'],3,60,None
-645,645,65,male,174.82,intermediate,weight_loss,"['kettlebell', 'dumbbells', 'punching_bag']",4,30,None
-646,646,21,female,159.82,intermediate,weight_loss,"['kettlebell', 'bodyweight', 'punching_bag']",5,30,Minor knee pain
-647,647,29,male,176.57,beginner,muscle_gain,['punching_bag'],3,30,Minor knee pain
-648,648,42,female,177.55,beginner,weight_loss,"['punching_bag', 'bodyweight']",5,30,None
-649,649,39,female,172.85,beginner,muscle_gain,"['punching_bag', 'resistance_bands']",4,30,None
-650,650,21,female,182.07,intermediate,muscle_gain,"['bodyweight', 'punching_bag', 'kettlebell']",5,30,Minor knee pain
-651,651,58,female,160.09,beginner,weight_loss,"['dumbbells', 'bodyweight']",4,30,None
-652,652,64,female,169.58,intermediate,weight_loss,"['resistance_bands', 'punching_bag', 'bodyweight']",5,60,None
-653,653,42,female,168.62,intermediate,muscle_gain,['kettlebell'],4,60,None
-654,654,22,female,184.64,beginner,weight_loss,"['bodyweight', 'kettlebell', 'dumbbells']",3,60,None
-655,655,44,male,187.96,advanced,weight_loss,"['bodyweight', 'kettlebell']",4,60,None
-656,656,41,male,158.87,beginner,muscle_gain,['punching_bag'],3,45,None
-657,657,57,male,183.38,beginner,muscle_gain,"['resistance_bands', 'punching_bag', 'bodyweight']",3,45,None
-658,658,36,female,178.38,beginner,general_fitness,"['punching_bag', 'resistance_bands', 'bodyweight']",4,45,Minor knee pain
-659,659,38,male,150.45,advanced,general_fitness,['dumbbells'],4,45,None
-660,660,18,male,174.92,advanced,general_fitness,"['bodyweight', 'resistance_bands']",5,60,Minor knee pain
-661,661,43,female,181.99,intermediate,muscle_gain,['bodyweight'],5,30,None
-662,662,23,male,155.12,beginner,muscle_gain,"['kettlebell', 'resistance_bands']",3,30,None
-663,663,55,female,189.73,beginner,endurance,"['resistance_bands', 'kettlebell']",4,30,None
-664,664,19,male,159.69,intermediate,skill_boxing,['dumbbells'],5,30,None
-665,665,41,female,152.27,advanced,weight_loss,['kettlebell'],4,45,Minor knee pain
-666,666,41,female,183.09,intermediate,weight_loss,"['resistance_bands', 'bodyweight']",5,30,None
-667,667,40,female,181.02,intermediate,weight_loss,['dumbbells'],3,45,None
-668,668,61,female,158.66,intermediate,weight_loss,"['bodyweight', 'resistance_bands', 'punching_bag']",4,30,None
-669,669,56,female,176.18,beginner,muscle_gain,['bodyweight'],5,30,None
-670,670,61,female,173.89,beginner,weight_loss,['bodyweight'],5,30,None
-671,671,18,male,155.36,beginner,weight_loss,"['dumbbells', 'kettlebell']",4,60,None
-672,672,56,male,166.96,beginner,weight_loss,"['bodyweight', 'dumbbells']",3,60,Minor knee pain
-673,673,63,male,182.0,beginner,endurance,['bodyweight'],3,45,None
-674,674,26,male,155.18,beginner,general_fitness,['dumbbells'],4,30,Minor knee pain
-675,675,65,female,162.55,beginner,weight_loss,"['resistance_bands', 'kettlebell']",5,60,None
-676,676,28,female,169.25,intermediate,muscle_gain,"['dumbbells', 'punching_bag']",5,45,None
-677,677,48,female,157.1,intermediate,skill_boxing,"['kettlebell', 'dumbbells']",3,60,None
-678,678,26,male,154.73,beginner,weight_loss,['punching_bag'],3,30,None
-679,679,65,female,162.07,intermediate,weight_loss,"['dumbbells', 'punching_bag', 'kettlebell']",5,45,None
-680,680,57,female,177.51,intermediate,weight_loss,['kettlebell'],5,30,None
-681,681,62,female,166.92,intermediate,muscle_gain,"['bodyweight', 'kettlebell']",3,60,None
-682,682,56,male,158.28,intermediate,weight_loss,['kettlebell'],4,45,None
-683,683,18,female,163.82,advanced,muscle_gain,"['bodyweight', 'dumbbells', 'punching_bag']",4,60,None
-684,684,41,male,183.75,intermediate,general_fitness,['dumbbells'],5,45,Minor knee pain
-685,685,40,male,189.29,beginner,general_fitness,"['kettlebell', 'bodyweight', 'resistance_bands']",4,60,Minor knee pain
-686,686,27,female,171.17,intermediate,weight_loss,"['bodyweight', 'kettlebell', 'punching_bag']",5,60,None
-687,687,19,male,165.94,beginner,weight_loss,"['punching_bag', 'bodyweight', 'resistance_bands']",4,60,Minor knee pain
-688,688,65,female,182.5,beginner,muscle_gain,"['dumbbells', 'resistance_bands']",3,60,None
-689,689,46,male,150.72,beginner,weight_loss,"['kettlebell', 'resistance_bands']",5,60,None
-690,690,18,male,179.47,intermediate,skill_boxing,"['resistance_bands', 'punching_bag']",5,45,None
-691,691,45,female,178.36,advanced,weight_loss,"['punching_bag', 'dumbbells', 'kettlebell']",3,30,None
-692,692,49,female,154.14,intermediate,muscle_gain,"['dumbbells', 'resistance_bands', 'punching_bag']",4,45,None
-693,693,54,female,150.17,intermediate,weight_loss,"['punching_bag', 'dumbbells']",5,60,Minor knee pain
-694,694,33,male,177.38,intermediate,muscle_gain,['resistance_bands'],4,45,None
-695,695,34,male,150.49,beginner,general_fitness,"['dumbbells', 'resistance_bands', 'kettlebell']",5,60,None
-696,696,47,female,186.23,intermediate,endurance,"['dumbbells', 'bodyweight', 'kettlebell']",3,30,None
-697,697,37,male,185.56,beginner,skill_boxing,"['punching_bag', 'kettlebell']",4,45,None
-698,698,43,female,176.25,intermediate,general_fitness,['bodyweight'],5,60,Minor knee pain
-699,699,55,female,178.45,beginner,endurance,['resistance_bands'],3,45,None
-700,700,65,male,175.27,beginner,muscle_gain,['kettlebell'],3,45,Minor knee pain
-701,701,26,male,150.37,intermediate,muscle_gain,"['dumbbells', 'resistance_bands']",4,45,Minor knee pain
-702,702,41,female,171.93,intermediate,general_fitness,"['bodyweight', 'dumbbells', 'punching_bag']",5,30,None
-703,703,49,female,153.71,intermediate,muscle_gain,"['bodyweight', 'dumbbells']",3,60,None
-704,704,23,female,173.82,intermediate,weight_loss,['punching_bag'],3,30,None
-705,705,32,female,186.1,beginner,endurance,"['punching_bag', 'bodyweight', 'dumbbells']",3,45,None
-706,706,64,female,170.76,beginner,general_fitness,"['dumbbells', 'resistance_bands', 'bodyweight']",4,45,None
-707,707,65,female,186.97,beginner,weight_loss,"['punching_bag', 'kettlebell']",3,60,Minor knee pain
-708,708,26,male,165.11,intermediate,weight_loss,['resistance_bands'],4,30,None
-709,709,39,female,183.7,intermediate,weight_loss,"['kettlebell', 'dumbbells', 'bodyweight']",3,45,None
-710,710,64,male,150.28,beginner,weight_loss,"['punching_bag', 'resistance_bands']",3,60,None
-711,711,52,male,157.08,beginner,skill_boxing,"['resistance_bands', 'dumbbells', 'kettlebell']",3,45,None
-712,712,40,male,173.27,beginner,muscle_gain,"['punching_bag', 'dumbbells', 'kettlebell']",4,60,None
-713,713,56,male,166.82,intermediate,weight_loss,['resistance_bands'],3,45,None
-714,714,55,male,166.36,beginner,general_fitness,['bodyweight'],3,45,None
-715,715,44,male,177.18,beginner,general_fitness,"['kettlebell', 'punching_bag']",4,60,None
-716,716,21,female,184.77,beginner,muscle_gain,"['kettlebell', 'bodyweight', 'punching_bag']",5,60,None
-717,717,56,male,184.08,intermediate,weight_loss,"['punching_bag', 'resistance_bands', 'dumbbells']",4,30,None
-718,718,42,female,172.92,intermediate,endurance,"['kettlebell', 'bodyweight', 'resistance_bands']",3,45,Minor knee pain
-719,719,48,male,182.21,beginner,endurance,['punching_bag'],3,60,None
-720,720,40,female,178.58,beginner,weight_loss,['punching_bag'],4,45,Minor knee pain
-721,721,22,male,157.55,beginner,endurance,['bodyweight'],5,45,None
-722,722,29,male,188.54,beginner,weight_loss,['punching_bag'],5,60,None
-723,723,20,male,162.32,beginner,muscle_gain,"['dumbbells', 'bodyweight']",5,30,None
-724,724,34,male,188.89,beginner,weight_loss,"['resistance_bands', 'punching_bag']",3,30,Minor knee pain
-725,725,41,male,187.22,intermediate,muscle_gain,['punching_bag'],3,30,None
-726,726,36,female,185.11,beginner,weight_loss,"['punching_bag', 'bodyweight', 'resistance_bands']",4,60,None
-727,727,19,male,164.48,intermediate,muscle_gain,"['bodyweight', 'resistance_bands', 'kettlebell']",5,45,None
-728,728,64,female,178.93,beginner,muscle_gain,['dumbbells'],4,60,None
-729,729,39,male,151.12,advanced,muscle_gain,"['resistance_bands', 'bodyweight']",3,60,None
-730,730,19,female,150.04,intermediate,muscle_gain,"['resistance_bands', 'kettlebell']",3,60,None
-731,731,58,female,174.69,beginner,muscle_gain,['punching_bag'],5,45,None
-732,732,55,female,157.56,beginner,general_fitness,"['punching_bag', 'kettlebell']",5,30,Minor knee pain
-733,733,50,male,167.02,intermediate,muscle_gain,"['bodyweight', 'kettlebell']",4,30,Minor knee pain
-734,734,22,female,180.36,intermediate,skill_boxing,['bodyweight'],3,45,None
-735,735,35,male,189.59,beginner,endurance,"['dumbbells', 'bodyweight', 'kettlebell']",4,45,None
-736,736,31,female,184.95,intermediate,muscle_gain,"['resistance_bands', 'bodyweight', 'dumbbells']",3,30,Minor knee pain
-737,737,30,female,162.12,advanced,muscle_gain,['bodyweight'],4,30,None
-738,738,40,male,163.28,intermediate,weight_loss,['dumbbells'],3,60,Minor knee pain
-739,739,33,female,173.06,intermediate,weight_loss,"['kettlebell', 'resistance_bands']",4,60,None
-740,740,58,male,167.26,intermediate,general_fitness,['dumbbells'],5,45,None
-741,741,49,male,178.92,intermediate,weight_loss,"['bodyweight', 'dumbbells']",5,60,None
-742,742,52,male,165.34,beginner,general_fitness,['resistance_bands'],3,60,None
-743,743,43,male,173.51,intermediate,weight_loss,"['bodyweight', 'resistance_bands']",4,45,None
-744,744,49,male,168.89,intermediate,weight_loss,"['dumbbells', 'bodyweight']",3,30,None
-745,745,25,male,182.39,intermediate,weight_loss,"['punching_bag', 'dumbbells', 'resistance_bands']",3,30,None
-746,746,50,female,177.29,beginner,muscle_gain,['punching_bag'],5,45,Minor knee pain
-747,747,55,male,171.38,intermediate,weight_loss,"['punching_bag', 'resistance_bands']",4,60,None
-748,748,53,male,173.51,beginner,weight_loss,"['punching_bag', 'kettlebell']",3,30,None
-749,749,35,female,150.65,intermediate,weight_loss,"['resistance_bands', 'kettlebell']",4,30,None
-750,750,21,female,185.43,advanced,weight_loss,"['punching_bag', 'kettlebell', 'dumbbells']",3,60,None
-751,751,47,male,178.16,beginner,muscle_gain,"['bodyweight', 'resistance_bands']",4,30,None
-752,752,48,female,160.53,beginner,muscle_gain,"['kettlebell', 'bodyweight']",5,60,None
-753,753,50,female,179.27,intermediate,endurance,"['kettlebell', 'bodyweight', 'resistance_bands']",3,60,Minor knee pain
-754,754,37,female,165.87,beginner,weight_loss,['kettlebell'],4,30,None
-755,755,46,male,153.13,intermediate,weight_loss,"['dumbbells', 'kettlebell', 'punching_bag']",5,45,None
-756,756,19,male,152.98,intermediate,skill_boxing,"['dumbbells', 'punching_bag', 'bodyweight']",5,30,None
-757,757,22,female,168.06,beginner,weight_loss,['dumbbells'],4,45,None
-758,758,64,female,165.55,intermediate,weight_loss,"['resistance_bands', 'dumbbells', 'bodyweight']",4,30,None
-759,759,50,female,151.15,beginner,muscle_gain,"['bodyweight', 'punching_bag', 'dumbbells']",4,45,None
-760,760,50,female,175.12,advanced,muscle_gain,"['punching_bag', 'resistance_bands']",5,45,None
-761,761,19,male,155.83,beginner,weight_loss,"['dumbbells', 'resistance_bands', 'punching_bag']",4,45,None
-762,762,50,female,171.63,intermediate,weight_loss,"['bodyweight', 'resistance_bands', 'dumbbells']",4,60,None
-763,763,47,female,183.89,intermediate,weight_loss,"['bodyweight', 'resistance_bands']",3,45,None
-764,764,18,male,163.94,beginner,weight_loss,['punching_bag'],5,45,None
-765,765,49,male,175.5,beginner,weight_loss,"['punching_bag', 'kettlebell', 'dumbbells']",5,60,None
-766,766,57,female,179.41,advanced,weight_loss,"['resistance_bands', 'bodyweight']",4,45,Minor knee pain
-767,767,45,male,159.52,beginner,weight_loss,['dumbbells'],4,30,None
-768,768,55,male,157.67,beginner,weight_loss,"['dumbbells', 'punching_bag']",3,60,None
-769,769,33,male,187.88,beginner,weight_loss,"['bodyweight', 'dumbbells']",5,45,None
-770,770,25,male,187.74,beginner,weight_loss,"['resistance_bands', 'dumbbells', 'bodyweight']",5,30,None
-771,771,35,female,185.7,beginner,weight_loss,['kettlebell'],5,60,Minor knee pain
-772,772,45,female,167.84,beginner,muscle_gain,"['punching_bag', 'dumbbells', 'kettlebell']",5,30,Minor knee pain
-773,773,19,female,184.91,intermediate,weight_loss,"['bodyweight', 'resistance_bands', 'kettlebell']",3,45,None
-774,774,44,female,182.74,advanced,weight_loss,"['kettlebell', 'bodyweight', 'punching_bag']",3,30,None
-775,775,48,male,180.48,intermediate,weight_loss,['resistance_bands'],5,45,Minor knee pain
-776,776,50,female,155.13,beginner,general_fitness,"['punching_bag', 'dumbbells']",3,60,None
-777,777,62,female,181.86,beginner,muscle_gain,"['dumbbells', 'punching_bag', 'resistance_bands']",4,45,None
-778,778,43,female,182.76,intermediate,muscle_gain,"['bodyweight', 'punching_bag', 'dumbbells']",4,60,Minor knee pain
-779,779,26,female,179.5,intermediate,muscle_gain,"['kettlebell', 'resistance_bands']",4,60,Minor knee pain
-780,780,19,male,188.62,intermediate,general_fitness,['resistance_bands'],4,45,None
-781,781,42,female,175.86,beginner,endurance,['punching_bag'],4,60,None
-782,782,45,female,177.77,advanced,weight_loss,"['dumbbells', 'kettlebell', 'resistance_bands']",3,45,None
-783,783,48,female,174.72,beginner,weight_loss,"['bodyweight', 'kettlebell', 'resistance_bands']",3,60,None
-784,784,57,male,189.72,intermediate,weight_loss,"['punching_bag', 'dumbbells', 'bodyweight']",4,45,None
-785,785,24,female,174.42,advanced,muscle_gain,"['resistance_bands', 'bodyweight', 'punching_bag']",5,30,Minor knee pain
-786,786,24,male,162.77,beginner,weight_loss,"['kettlebell', 'bodyweight']",3,45,None
-787,787,50,female,189.27,intermediate,muscle_gain,"['bodyweight', 'punching_bag']",4,30,None
-788,788,26,female,181.86,intermediate,weight_loss,"['punching_bag', 'kettlebell']",3,45,None
-789,789,32,male,157.47,beginner,skill_boxing,['resistance_bands'],3,60,None
-790,790,48,male,155.15,intermediate,muscle_gain,['kettlebell'],4,30,None
-791,791,29,male,163.76,intermediate,weight_loss,['dumbbells'],3,30,None
-792,792,62,male,154.45,intermediate,weight_loss,"['dumbbells', 'punching_bag']",4,30,None
-793,793,57,female,171.51,beginner,muscle_gain,"['kettlebell', 'punching_bag', 'resistance_bands']",5,30,None
-794,794,34,female,163.29,intermediate,weight_loss,"['dumbbells', 'resistance_bands']",3,45,Minor knee pain
-795,795,21,male,182.93,intermediate,muscle_gain,"['dumbbells', 'kettlebell', 'punching_bag']",4,30,None
-796,796,40,male,182.52,intermediate,weight_loss,"['resistance_bands', 'kettlebell', 'punching_bag']",4,30,None
-797,797,41,male,152.6,intermediate,weight_loss,"['dumbbells', 'punching_bag', 'kettlebell']",4,60,None
-798,798,49,male,179.14,beginner,skill_boxing,"['resistance_bands', 'bodyweight']",4,45,None
-799,799,23,male,179.32,beginner,skill_boxing,"['dumbbells', 'resistance_bands', 'punching_bag']",5,30,None
-800,800,41,female,161.13,advanced,muscle_gain,"['punching_bag', 'bodyweight', 'kettlebell']",3,45,Minor knee pain
-801,801,23,male,184.23,intermediate,muscle_gain,['dumbbells'],4,60,None
-802,802,19,male,172.2,advanced,weight_loss,['kettlebell'],4,30,Minor knee pain
-803,803,41,female,175.64,intermediate,endurance,"['resistance_bands', 'punching_bag']",4,45,None
-804,804,40,male,154.43,beginner,muscle_gain,"['resistance_bands', 'kettlebell', 'bodyweight']",4,60,None
-805,805,41,female,183.72,beginner,muscle_gain,['dumbbells'],4,30,None
-806,806,18,female,182.01,beginner,weight_loss,"['resistance_bands', 'punching_bag']",5,45,None
-807,807,35,female,176.94,beginner,general_fitness,"['resistance_bands', 'kettlebell', 'dumbbells']",5,45,None
-808,808,29,male,162.41,beginner,weight_loss,['dumbbells'],3,60,None
-809,809,38,female,177.6,intermediate,weight_loss,"['punching_bag', 'dumbbells', 'bodyweight']",4,45,None
-810,810,33,male,150.78,beginner,weight_loss,"['bodyweight', 'punching_bag']",3,60,Minor knee pain
-811,811,21,male,160.74,beginner,muscle_gain,"['dumbbells', 'bodyweight', 'resistance_bands']",5,30,Minor knee pain
-812,812,62,female,182.76,intermediate,skill_boxing,"['kettlebell', 'dumbbells']",4,30,None
-813,813,26,female,166.59,beginner,weight_loss,"['dumbbells', 'kettlebell']",3,45,None
-814,814,31,male,175.7,intermediate,weight_loss,"['resistance_bands', 'punching_bag']",5,30,None
-815,815,39,male,161.21,intermediate,weight_loss,['punching_bag'],3,30,None
-816,816,50,female,152.98,intermediate,weight_loss,"['dumbbells', 'kettlebell', 'punching_bag']",3,45,None
-817,817,35,male,178.82,beginner,muscle_gain,"['kettlebell', 'dumbbells', 'resistance_bands']",3,45,None
-818,818,30,female,153.44,beginner,general_fitness,"['resistance_bands', 'kettlebell', 'punching_bag']",5,45,None
-819,819,29,female,180.9,intermediate,weight_loss,['dumbbells'],5,30,None
-820,820,59,female,164.03,beginner,endurance,['kettlebell'],3,30,None
-821,821,48,female,185.09,beginner,endurance,['resistance_bands'],4,45,None
-822,822,27,female,182.56,advanced,skill_boxing,['resistance_bands'],4,30,None
-823,823,47,male,169.53,intermediate,weight_loss,"['kettlebell', 'bodyweight', 'punching_bag']",4,60,Minor knee pain
-824,824,49,male,160.77,beginner,weight_loss,"['dumbbells', 'kettlebell']",4,30,None
-825,825,29,female,153.19,beginner,endurance,"['punching_bag', 'kettlebell', 'bodyweight']",4,30,None
-826,826,19,male,167.09,intermediate,weight_loss,['punching_bag'],3,30,None
-827,827,61,male,152.49,beginner,muscle_gain,"['kettlebell', 'dumbbells', 'resistance_bands']",5,30,None
-828,828,48,female,159.59,intermediate,muscle_gain,"['punching_bag', 'resistance_bands']",5,60,None
-829,829,28,female,189.53,beginner,weight_loss,"['kettlebell', 'dumbbells', 'bodyweight']",4,60,None
-830,830,28,male,168.77,advanced,muscle_gain,"['punching_bag', 'dumbbells']",4,60,Minor knee pain
-831,831,61,female,154.57,beginner,weight_loss,['resistance_bands'],5,60,None
-832,832,52,male,180.68,advanced,skill_boxing,"['bodyweight', 'resistance_bands']",5,60,None
-833,833,39,female,154.93,intermediate,skill_boxing,['kettlebell'],4,30,None
-834,834,37,female,169.62,beginner,skill_boxing,"['resistance_bands', 'punching_bag', 'dumbbells']",4,60,None
-835,835,43,male,150.84,advanced,weight_loss,"['bodyweight', 'kettlebell', 'resistance_bands']",4,45,None
-836,836,52,male,159.59,beginner,weight_loss,"['bodyweight', 'resistance_bands', 'kettlebell']",4,60,None
-837,837,34,male,172.9,beginner,weight_loss,"['kettlebell', 'bodyweight']",4,30,None
-838,838,47,female,151.21,intermediate,weight_loss,"['punching_bag', 'kettlebell']",5,60,None
-839,839,63,female,176.21,intermediate,general_fitness,"['punching_bag', 'dumbbells']",3,60,Minor knee pain
-840,840,57,female,179.82,beginner,muscle_gain,['bodyweight'],3,45,None
-841,841,34,female,173.76,beginner,weight_loss,['kettlebell'],5,60,Minor knee pain
-842,842,50,male,155.99,intermediate,muscle_gain,['resistance_bands'],3,30,None
-843,843,50,male,177.52,advanced,general_fitness,"['resistance_bands', 'dumbbells', 'kettlebell']",3,30,None
-844,844,26,male,150.96,intermediate,weight_loss,"['kettlebell', 'bodyweight', 'resistance_bands']",4,30,None
-845,845,24,female,156.5,intermediate,weight_loss,"['bodyweight', 'punching_bag', 'resistance_bands']",5,45,None
-846,846,48,male,171.12,beginner,weight_loss,"['dumbbells', 'bodyweight']",5,45,None
-847,847,33,male,185.44,beginner,weight_loss,"['dumbbells', 'bodyweight']",5,45,None
-848,848,61,female,150.38,intermediate,general_fitness,['punching_bag'],5,60,Minor knee pain
-849,849,42,female,150.36,beginner,weight_loss,['punching_bag'],5,30,None
-850,850,47,female,163.05,intermediate,weight_loss,"['punching_bag', 'bodyweight', 'resistance_bands']",5,60,None
-851,851,46,male,160.42,intermediate,weight_loss,"['dumbbells', 'bodyweight', 'kettlebell']",3,60,None
-852,852,53,female,163.6,beginner,muscle_gain,"['bodyweight', 'resistance_bands']",5,45,Minor knee pain
-853,853,52,female,153.45,beginner,skill_boxing,"['kettlebell', 'resistance_bands']",5,45,Minor knee pain
-854,854,19,female,159.71,beginner,skill_boxing,"['dumbbells', 'kettlebell']",3,45,None
-855,855,38,male,167.3,beginner,muscle_gain,['kettlebell'],5,60,None
-856,856,39,female,152.4,intermediate,muscle_gain,['kettlebell'],3,30,None
-857,857,53,female,167.65,intermediate,skill_boxing,"['bodyweight', 'punching_bag', 'dumbbells']",4,30,None
-858,858,54,female,180.0,beginner,muscle_gain,"['resistance_bands', 'punching_bag']",5,45,Minor knee pain
-859,859,49,male,158.9,beginner,general_fitness,"['dumbbells', 'punching_bag', 'kettlebell']",5,30,None
-860,860,41,male,188.99,beginner,weight_loss,['bodyweight'],3,30,None
-861,861,27,female,173.31,advanced,skill_boxing,"['punching_bag', 'bodyweight', 'kettlebell']",3,45,None
-862,862,21,female,177.87,advanced,weight_loss,"['kettlebell', 'punching_bag', 'dumbbells']",4,30,None
-863,863,62,female,178.21,advanced,muscle_gain,"['bodyweight', 'punching_bag']",4,60,None
-864,864,54,female,168.44,intermediate,general_fitness,"['punching_bag', 'dumbbells', 'resistance_bands']",5,60,None
-865,865,31,male,180.39,intermediate,weight_loss,"['kettlebell', 'bodyweight']",3,60,None
-866,866,35,female,176.05,advanced,weight_loss,['punching_bag'],3,45,None
-867,867,58,female,179.73,beginner,weight_loss,"['bodyweight', 'resistance_bands']",3,30,None
-868,868,48,female,152.73,intermediate,weight_loss,"['bodyweight', 'dumbbells']",5,45,None
-869,869,23,male,189.71,intermediate,weight_loss,"['kettlebell', 'punching_bag', 'bodyweight']",4,30,None
-870,870,43,male,171.31,beginner,muscle_gain,"['resistance_bands', 'dumbbells']",5,45,None
-871,871,58,female,162.85,beginner,muscle_gain,"['punching_bag', 'resistance_bands']",4,30,Minor knee pain
-872,872,42,male,178.97,beginner,general_fitness,"['dumbbells', 'punching_bag']",4,60,None
-873,873,32,male,170.39,beginner,muscle_gain,"['bodyweight', 'kettlebell', 'dumbbells']",5,60,None
-874,874,29,female,153.08,intermediate,general_fitness,['resistance_bands'],4,60,None
-875,875,27,female,162.76,advanced,muscle_gain,['punching_bag'],5,45,None
-876,876,61,male,188.55,intermediate,muscle_gain,"['bodyweight', 'dumbbells']",4,60,None
-877,877,42,male,164.01,intermediate,muscle_gain,"['dumbbells', 'punching_bag']",5,30,None
-878,878,24,female,170.39,beginner,weight_loss,['punching_bag'],5,60,None
-879,879,24,male,178.97,intermediate,weight_loss,"['resistance_bands', 'punching_bag']",5,30,None
-880,880,51,female,176.27,intermediate,weight_loss,"['bodyweight', 'dumbbells']",4,45,None
-881,881,24,male,159.22,beginner,muscle_gain,"['kettlebell', 'punching_bag', 'dumbbells']",5,45,None
-882,882,61,male,154.0,intermediate,skill_boxing,"['bodyweight', 'kettlebell']",4,60,None
-883,883,49,female,178.56,beginner,weight_loss,"['kettlebell', 'bodyweight']",4,60,None
-884,884,29,male,181.02,intermediate,weight_loss,"['dumbbells', 'kettlebell']",5,45,None
-885,885,54,female,153.69,intermediate,weight_loss,['punching_bag'],3,45,None
-886,886,36,male,174.31,advanced,general_fitness,"['kettlebell', 'resistance_bands', 'dumbbells']",5,45,None
-887,887,24,female,168.22,beginner,weight_loss,"['resistance_bands', 'punching_bag', 'kettlebell']",3,45,Minor knee pain
-888,888,39,male,178.75,beginner,weight_loss,"['dumbbells', 'punching_bag']",4,45,Minor knee pain
-889,889,49,male,165.98,beginner,weight_loss,"['punching_bag', 'kettlebell']",5,45,None
-890,890,42,male,158.37,beginner,muscle_gain,['dumbbells'],4,45,None
-891,891,52,male,166.91,intermediate,weight_loss,['kettlebell'],3,45,None
-892,892,56,female,170.37,beginner,muscle_gain,"['dumbbells', 'bodyweight']",3,45,None
-893,893,21,female,175.38,beginner,muscle_gain,"['kettlebell', 'bodyweight']",5,60,None
-894,894,30,female,162.23,intermediate,endurance,"['bodyweight', 'punching_bag']",5,45,Minor knee pain
-895,895,33,female,152.3,intermediate,weight_loss,['resistance_bands'],3,60,None
-896,896,65,male,185.29,beginner,skill_boxing,"['kettlebell', 'bodyweight', 'punching_bag']",3,30,None
-897,897,37,male,157.12,intermediate,muscle_gain,"['dumbbells', 'bodyweight']",3,30,None
-898,898,59,male,163.51,intermediate,muscle_gain,"['dumbbells', 'resistance_bands']",5,60,None
-899,899,41,female,170.57,intermediate,muscle_gain,"['punching_bag', 'resistance_bands', 'kettlebell']",5,60,None
-900,900,58,male,164.9,intermediate,skill_boxing,"['punching_bag', 'kettlebell']",5,30,None
-901,901,26,male,159.49,advanced,muscle_gain,['resistance_bands'],4,60,None
-902,902,31,male,171.55,beginner,weight_loss,"['dumbbells', 'punching_bag', 'kettlebell']",5,60,None
-903,903,20,male,178.19,beginner,weight_loss,['bodyweight'],3,45,None
-904,904,27,female,187.59,intermediate,weight_loss,['resistance_bands'],4,45,Minor knee pain
-905,905,50,female,170.78,intermediate,weight_loss,"['punching_bag', 'kettlebell', 'resistance_bands']",5,60,None
-906,906,40,female,154.69,beginner,weight_loss,"['bodyweight', 'resistance_bands', 'dumbbells']",5,45,None
-907,907,27,male,158.55,beginner,general_fitness,"['punching_bag', 'kettlebell', 'bodyweight']",3,60,None
-908,908,49,female,162.4,intermediate,general_fitness,"['dumbbells', 'resistance_bands']",3,45,None
-909,909,44,female,184.32,advanced,weight_loss,"['bodyweight', 'dumbbells', 'punching_bag']",3,30,None
-910,910,64,male,160.4,beginner,weight_loss,"['dumbbells', 'bodyweight', 'resistance_bands']",5,60,None
-911,911,40,female,179.19,beginner,weight_loss,"['punching_bag', 'bodyweight', 'dumbbells']",3,60,None
-912,912,32,female,155.58,beginner,general_fitness,"['resistance_bands', 'punching_bag', 'dumbbells']",4,60,None
-913,913,61,female,187.43,beginner,skill_boxing,['punching_bag'],5,30,None
-914,914,48,female,158.25,intermediate,muscle_gain,"['kettlebell', 'punching_bag']",4,30,Minor knee pain
-915,915,32,male,178.7,beginner,weight_loss,['dumbbells'],3,45,None
-916,916,33,female,180.55,beginner,muscle_gain,"['punching_bag', 'resistance_bands', 'dumbbells']",4,30,None
-917,917,49,male,163.79,beginner,muscle_gain,['punching_bag'],4,30,Minor knee pain
-918,918,28,male,152.51,beginner,weight_loss,['kettlebell'],5,30,None
-919,919,58,female,154.49,beginner,muscle_gain,"['bodyweight', 'dumbbells']",5,60,None
-920,920,19,male,176.65,advanced,muscle_gain,"['bodyweight', 'resistance_bands']",4,30,None
-921,921,41,male,162.98,beginner,weight_loss,"['resistance_bands', 'bodyweight', 'kettlebell']",5,45,Minor knee pain
-922,922,42,female,160.61,intermediate,weight_loss,"['resistance_bands', 'punching_bag']",4,45,None
-923,923,20,female,166.82,beginner,general_fitness,"['kettlebell', 'resistance_bands']",3,60,None
-924,924,51,female,173.68,beginner,weight_loss,"['punching_bag', 'resistance_bands', 'dumbbells']",5,45,None
-925,925,46,female,154.26,intermediate,muscle_gain,['dumbbells'],3,30,None
-926,926,36,male,158.01,intermediate,weight_loss,"['dumbbells', 'kettlebell', 'bodyweight']",5,30,None
-927,927,57,female,151.26,intermediate,weight_loss,"['dumbbells', 'bodyweight', 'punching_bag']",3,30,None
-928,928,40,male,155.68,beginner,endurance,"['kettlebell', 'dumbbells', 'resistance_bands']",3,60,Minor knee pain
-929,929,33,male,175.12,advanced,endurance,"['bodyweight', 'resistance_bands']",4,45,None
-930,930,64,male,169.21,intermediate,general_fitness,"['resistance_bands', 'kettlebell']",4,30,None
-931,931,40,female,154.61,intermediate,muscle_gain,"['dumbbells', 'kettlebell', 'punching_bag']",4,30,None
-932,932,53,female,164.14,beginner,endurance,['punching_bag'],4,60,None
-933,933,56,female,160.9,intermediate,weight_loss,"['bodyweight', 'resistance_bands']",4,45,None
-934,934,20,female,188.91,beginner,weight_loss,"['punching_bag', 'dumbbells']",4,30,None
-935,935,54,female,180.8,beginner,weight_loss,"['kettlebell', 'punching_bag', 'dumbbells']",4,60,None
-936,936,56,female,162.23,beginner,general_fitness,"['kettlebell', 'resistance_bands', 'dumbbells']",5,60,None
-937,937,62,male,164.95,intermediate,weight_loss,['punching_bag'],3,45,None
-938,938,23,male,161.46,beginner,general_fitness,"['kettlebell', 'resistance_bands', 'bodyweight']",4,30,None
-939,939,27,female,169.68,advanced,weight_loss,['dumbbells'],3,60,None
-940,940,28,female,164.86,beginner,weight_loss,"['dumbbells', 'kettlebell', 'resistance_bands']",3,60,None
-941,941,37,male,166.94,beginner,muscle_gain,"['dumbbells', 'resistance_bands']",5,45,None
-942,942,57,female,178.9,beginner,weight_loss,['bodyweight'],4,30,Minor knee pain
-943,943,58,female,161.31,beginner,endurance,['resistance_bands'],3,45,None
-944,944,20,male,167.19,intermediate,weight_loss,['kettlebell'],4,30,None
-945,945,52,male,153.05,beginner,weight_loss,['kettlebell'],5,30,Minor knee pain
-946,946,53,male,166.67,beginner,skill_boxing,"['kettlebell', 'resistance_bands']",4,30,None
-947,947,27,female,163.79,beginner,muscle_gain,"['bodyweight', 'punching_bag']",3,30,Minor knee pain
-948,948,36,male,156.05,beginner,weight_loss,"['kettlebell', 'punching_bag']",3,45,None
-949,949,42,male,163.5,beginner,muscle_gain,"['resistance_bands', 'kettlebell']",4,60,Minor knee pain
-950,950,25,male,183.95,advanced,muscle_gain,"['kettlebell', 'resistance_bands', 'dumbbells']",5,60,None
-951,951,59,female,165.12,intermediate,weight_loss,"['punching_bag', 'dumbbells']",3,30,None
-952,952,52,male,152.24,advanced,endurance,['dumbbells'],5,30,None
-953,953,55,male,168.17,beginner,endurance,"['resistance_bands', 'bodyweight']",5,60,Minor knee pain
-954,954,44,male,152.5,beginner,muscle_gain,['dumbbells'],3,45,None
-955,955,53,female,156.14,intermediate,endurance,"['dumbbells', 'bodyweight']",3,45,None
-956,956,35,male,153.3,beginner,weight_loss,"['resistance_bands', 'punching_bag']",5,30,Minor knee pain
-957,957,53,female,184.4,advanced,weight_loss,"['kettlebell', 'resistance_bands', 'punching_bag']",4,45,Minor knee pain
-958,958,21,female,175.82,beginner,skill_boxing,"['kettlebell', 'bodyweight']",5,45,None
-959,959,50,female,161.45,intermediate,skill_boxing,"['resistance_bands', 'punching_bag', 'bodyweight']",5,30,None
-960,960,37,male,150.85,beginner,weight_loss,"['kettlebell', 'dumbbells', 'resistance_bands']",4,60,None
-961,961,53,female,184.22,beginner,muscle_gain,"['bodyweight', 'resistance_bands', 'kettlebell']",4,30,Minor knee pain
-962,962,28,male,178.28,beginner,weight_loss,"['kettlebell', 'dumbbells']",5,45,None
-963,963,20,female,165.33,advanced,muscle_gain,"['punching_bag', 'bodyweight']",3,30,None
-964,964,44,male,166.33,intermediate,endurance,"['kettlebell', 'punching_bag']",5,45,None
-965,965,57,female,187.56,intermediate,general_fitness,['dumbbells'],5,60,None
-966,966,57,female,178.71,intermediate,weight_loss,['kettlebell'],3,45,None
-967,967,20,male,172.19,intermediate,general_fitness,"['resistance_bands', 'dumbbells', 'bodyweight']",3,45,None
-968,968,64,male,155.39,intermediate,muscle_gain,['resistance_bands'],5,45,None
-969,969,62,male,179.82,beginner,endurance,['punching_bag'],3,30,None
-970,970,31,female,161.37,advanced,general_fitness,['bodyweight'],4,45,None
-971,971,65,male,188.06,intermediate,general_fitness,['punching_bag'],5,45,Minor knee pain
-972,972,38,female,181.0,beginner,muscle_gain,"['dumbbells', 'resistance_bands']",3,45,None
-973,973,44,female,175.28,beginner,weight_loss,['resistance_bands'],3,30,None
-974,974,54,male,168.73,beginner,general_fitness,['bodyweight'],3,60,Minor knee pain
-975,975,25,male,181.83,intermediate,weight_loss,['resistance_bands'],4,30,None
-976,976,49,male,180.72,beginner,muscle_gain,"['bodyweight', 'punching_bag']",3,60,Minor knee pain
-977,977,63,female,185.57,beginner,muscle_gain,"['resistance_bands', 'kettlebell']",5,45,None
-978,978,45,female,164.63,beginner,general_fitness,"['kettlebell', 'resistance_bands']",3,45,None
-979,979,33,female,187.78,intermediate,general_fitness,"['dumbbells', 'kettlebell']",4,45,None
-980,980,19,female,167.47,beginner,endurance,['bodyweight'],3,30,None
-981,981,28,female,170.3,beginner,general_fitness,['bodyweight'],3,45,None
-982,982,50,male,183.74,intermediate,weight_loss,['dumbbells'],5,30,None
-983,983,26,female,152.91,beginner,muscle_gain,"['bodyweight', 'kettlebell', 'resistance_bands']",3,60,None
-984,984,30,male,171.8,intermediate,muscle_gain,['bodyweight'],5,30,None
-985,985,25,male,168.84,beginner,weight_loss,"['kettlebell', 'punching_bag', 'bodyweight']",4,45,None
-986,986,41,female,177.8,intermediate,weight_loss,['bodyweight'],4,30,None
-987,987,24,female,182.69,beginner,muscle_gain,"['kettlebell', 'dumbbells']",3,45,None
-988,988,29,female,168.46,intermediate,skill_boxing,['dumbbells'],3,30,None
-989,989,39,female,171.14,beginner,weight_loss,['resistance_bands'],4,45,None
-990,990,26,male,182.92,beginner,skill_boxing,"['bodyweight', 'punching_bag', 'resistance_bands']",3,30,None
-991,991,43,female,150.94,beginner,skill_boxing,['kettlebell'],3,30,None
-992,992,48,male,170.21,beginner,muscle_gain,"['resistance_bands', 'bodyweight']",5,30,Minor knee pain
-993,993,55,male,160.76,beginner,general_fitness,['punching_bag'],4,60,None
-994,994,20,female,177.54,beginner,general_fitness,"['resistance_bands', 'dumbbells']",3,30,None
-995,995,64,male,186.76,advanced,endurance,['dumbbells'],3,60,None
-996,996,62,male,164.81,beginner,muscle_gain,"['bodyweight', 'resistance_bands', 'kettlebell']",3,30,None
-997,997,58,male,168.89,beginner,general_fitness,['punching_bag'],5,45,None
-998,998,41,male,186.12,intermediate,muscle_gain,['bodyweight'],5,45,None
-999,999,46,male,169.19,intermediate,skill_boxing,['kettlebell'],3,30,None
-1000,1000,50,male,189.23,beginner,weight_loss,['kettlebell'],5,30,Minor knee pain
+1,1,65,male,178.23,intermediate,weight_loss,"['Dumbbell', 'Resistance Band', 'Kettlebell', 'Bodyweight']",4,60,None
+2,2,51,male,159.82,intermediate,muscle_gain,"['Punching Bag', 'Kettlebell', 'Bodyweight', 'Barbell']",5,30,None
+3,3,20,male,174.95,beginner,muscle_gain,"['Kettlebell', 'Bodyweight', 'Punching Bag']",4,60,None
+4,4,54,male,184.25,beginner,muscle_gain,"['Bodyweight', 'Kettlebell']",5,30,Minor knee pain
+5,5,33,male,172.12,beginner,weight_loss,"['Resistance Band', 'Bodyweight', 'Barbell']",4,60,Minor knee pain
+6,6,48,male,172.89,intermediate,weight_loss,"['Barbell', 'Bodyweight', 'Punching Bag', 'Dumbbell']",4,30,None
+7,7,20,female,169.53,intermediate,skill_boxing,"['Resistance Band', 'Barbell', 'Punching Bag']",5,60,None
+8,8,36,male,164.78,beginner,weight_loss,"['Resistance Band', 'Barbell', 'Bodyweight']",4,60,None
+9,9,32,female,153.11,intermediate,weight_loss,"['Resistance Band', 'Bodyweight', 'Kettlebell', 'Barbell']",4,45,None
+10,10,27,female,157.88,beginner,weight_loss,"['Barbell', 'Bodyweight', 'Dumbbell']",4,45,None
+11,11,36,female,182.28,advanced,muscle_gain,"['Resistance Band', 'Punching Bag', 'Bodyweight', 'Barbell']",4,30,None
+12,12,65,male,186.59,beginner,muscle_gain,"['Barbell', 'Dumbbell', 'Bodyweight']",5,30,None
+13,13,50,female,177.27,beginner,weight_loss,['Resistance Band'],5,60,None
+14,14,50,male,162.65,intermediate,skill_boxing,"['Resistance Band', 'Punching Bag']",3,30,None
+15,15,20,male,159.38,beginner,endurance,"['Resistance Band', 'Kettlebell']",3,60,Minor knee pain
+16,16,23,male,167.53,intermediate,general_fitness,"['Bodyweight', 'Resistance Band']",3,60,None
+17,17,65,female,151.5,intermediate,endurance,"['Kettlebell', 'Barbell', 'Bodyweight', 'Punching Bag']",4,45,None
+18,18,49,female,156.27,intermediate,muscle_gain,['Bodyweight'],3,45,None
+19,19,18,female,159.76,beginner,weight_loss,"['Barbell', 'Punching Bag', 'Bodyweight', 'Dumbbell']",4,30,None
+20,20,61,male,168.11,intermediate,general_fitness,"['Kettlebell', 'Punching Bag', 'Bodyweight']",3,45,None
+21,21,34,male,161.67,intermediate,weight_loss,"['Barbell', 'Bodyweight', 'Kettlebell', 'Resistance Band']",5,30,None
+22,22,21,female,170.12,beginner,weight_loss,"['Punching Bag', 'Bodyweight']",4,45,None
+23,23,37,male,167.77,advanced,skill_boxing,"['Punching Bag', 'Bodyweight', 'Resistance Band', 'Kettlebell']",4,30,Minor knee pain
+24,24,46,female,176.61,beginner,muscle_gain,['Kettlebell'],3,60,None
+25,25,40,male,160.3,beginner,weight_loss,"['Kettlebell', 'Barbell', 'Dumbbell']",5,45,None
+26,26,42,male,154.49,beginner,muscle_gain,"['Bodyweight', 'Punching Bag', 'Dumbbell', 'Resistance Band']",5,45,None
+27,27,24,male,171.04,advanced,weight_loss,"['Bodyweight', 'Punching Bag']",3,30,Minor knee pain
+28,28,26,female,183.27,beginner,general_fitness,"['Resistance Band', 'Punching Bag']",3,30,None
+29,29,36,male,166.24,beginner,muscle_gain,"['Resistance Band', 'Kettlebell', 'Punching Bag']",5,45,None
+30,30,31,male,154.04,intermediate,muscle_gain,"['Resistance Band', 'Bodyweight', 'Barbell', 'Punching Bag']",5,30,None
+31,31,21,female,180.11,beginner,skill_boxing,"['Kettlebell', 'Bodyweight', 'Barbell', 'Punching Bag']",4,60,Minor knee pain
+32,32,30,female,168.69,advanced,weight_loss,"['Kettlebell', 'Bodyweight', 'Resistance Band']",4,30,Minor knee pain
+33,33,59,male,166.09,beginner,weight_loss,"['Punching Bag', 'Barbell', 'Dumbbell']",3,45,None
+34,34,55,female,156.18,intermediate,muscle_gain,"['Dumbbell', 'Barbell']",5,30,None
+35,35,57,female,162.63,intermediate,weight_loss,['Barbell'],3,60,None
+36,36,47,male,180.89,beginner,weight_loss,"['Resistance Band', 'Punching Bag', 'Dumbbell']",4,60,None
+37,37,34,female,172.48,advanced,endurance,['Kettlebell'],5,45,None
+38,38,49,male,162.39,beginner,weight_loss,"['Bodyweight', 'Barbell']",5,30,None
+39,39,56,male,161.54,beginner,muscle_gain,['Barbell'],4,30,None
+40,40,35,male,180.91,beginner,skill_boxing,"['Punching Bag', 'Bodyweight', 'Kettlebell']",4,60,None
+41,41,61,male,171.86,beginner,weight_loss,['Bodyweight'],4,60,None
+42,42,53,male,185.94,advanced,general_fitness,"['Bodyweight', 'Dumbbell', 'Barbell']",4,30,None
+43,43,57,female,160.46,beginner,muscle_gain,"['Punching Bag', 'Barbell', 'Kettlebell']",3,45,None
+44,44,19,male,178.12,advanced,muscle_gain,"['Punching Bag', 'Dumbbell', 'Kettlebell', 'Bodyweight']",3,45,None
+45,45,19,male,178.81,intermediate,weight_loss,"['Bodyweight', 'Dumbbell', 'Barbell']",3,60,None
+46,46,42,male,162.63,intermediate,muscle_gain,"['Dumbbell', 'Barbell']",5,60,None
+47,47,21,male,162.42,beginner,weight_loss,"['Bodyweight', 'Punching Bag']",4,30,None
+48,48,30,female,186.42,beginner,weight_loss,"['Barbell', 'Resistance Band', 'Kettlebell', 'Bodyweight']",4,45,None
+49,49,40,male,185.11,beginner,muscle_gain,"['Punching Bag', 'Barbell']",5,60,None
+50,50,48,female,180.53,advanced,weight_loss,"['Punching Bag', 'Bodyweight', 'Resistance Band', 'Kettlebell']",3,60,None
+51,51,59,male,150.53,beginner,general_fitness,['Dumbbell'],3,30,None
+52,52,62,female,170.52,intermediate,muscle_gain,"['Dumbbell', 'Resistance Band', 'Punching Bag']",3,30,None
+53,53,32,female,155.85,beginner,weight_loss,"['Kettlebell', 'Resistance Band', 'Punching Bag', 'Barbell']",3,60,None
+54,54,42,female,166.06,beginner,weight_loss,"['Kettlebell', 'Punching Bag']",5,30,None
+55,55,50,male,151.29,intermediate,muscle_gain,"['Resistance Band', 'Barbell']",3,30,Minor knee pain
+56,56,48,female,154.72,beginner,endurance,['Dumbbell'],5,45,None
+57,57,51,female,189.21,beginner,weight_loss,"['Bodyweight', 'Resistance Band']",4,60,None
+58,58,38,female,166.37,beginner,endurance,"['Dumbbell', 'Punching Bag', 'Kettlebell']",5,60,Minor knee pain
+59,59,50,male,189.31,intermediate,weight_loss,"['Punching Bag', 'Kettlebell', 'Resistance Band', 'Barbell']",5,30,None
+60,60,55,male,180.18,intermediate,muscle_gain,"['Resistance Band', 'Bodyweight']",5,45,None
+61,61,54,male,178.26,beginner,endurance,['Resistance Band'],5,60,None
+62,62,29,female,165.88,beginner,general_fitness,"['Barbell', 'Kettlebell']",4,30,None
+63,63,51,female,167.15,beginner,muscle_gain,"['Dumbbell', 'Punching Bag', 'Kettlebell', 'Barbell']",5,45,None
+64,64,34,male,161.7,intermediate,muscle_gain,"['Barbell', 'Kettlebell']",4,45,Minor knee pain
+65,65,28,female,165.36,beginner,weight_loss,"['Dumbbell', 'Barbell', 'Resistance Band', 'Kettlebell']",5,45,None
+66,66,43,female,180.36,beginner,weight_loss,"['Dumbbell', 'Bodyweight', 'Barbell']",4,60,None
+67,67,38,female,172.75,intermediate,muscle_gain,['Resistance Band'],5,30,None
+68,68,38,male,182.74,beginner,endurance,"['Resistance Band', 'Bodyweight']",5,60,None
+69,69,61,female,152.28,beginner,weight_loss,"['Barbell', 'Dumbbell']",3,45,None
+70,70,63,male,163.51,beginner,weight_loss,"['Bodyweight', 'Punching Bag', 'Resistance Band']",4,60,Minor knee pain
+71,71,44,male,181.16,beginner,weight_loss,['Bodyweight'],5,45,None
+72,72,45,male,187.29,intermediate,endurance,"['Bodyweight', 'Kettlebell']",4,30,None
+73,73,35,female,169.72,advanced,weight_loss,['Punching Bag'],5,60,None
+74,74,21,male,168.87,beginner,muscle_gain,"['Dumbbell', 'Kettlebell', 'Bodyweight']",3,45,None
+75,75,42,female,186.94,beginner,muscle_gain,"['Bodyweight', 'Barbell']",4,60,None
+76,76,25,male,164.38,advanced,muscle_gain,"['Barbell', 'Resistance Band', 'Bodyweight', 'Dumbbell']",3,45,None
+77,77,24,female,185.26,beginner,weight_loss,"['Barbell', 'Resistance Band']",5,30,None
+78,78,45,male,170.93,beginner,skill_boxing,"['Bodyweight', 'Resistance Band', 'Punching Bag', 'Dumbbell']",4,45,Minor knee pain
+79,79,43,female,171.25,beginner,skill_boxing,"['Kettlebell', 'Bodyweight', 'Resistance Band', 'Dumbbell', 'Punching Bag']",5,30,None
+80,80,26,male,181.23,advanced,endurance,['Bodyweight'],3,60,None
+81,81,59,male,172.54,beginner,weight_loss,"['Barbell', 'Resistance Band', 'Punching Bag']",3,30,None
+82,82,55,female,163.84,beginner,weight_loss,"['Bodyweight', 'Punching Bag']",5,30,None
+83,83,28,male,186.7,beginner,muscle_gain,"['Resistance Band', 'Dumbbell', 'Bodyweight']",5,45,None
+84,84,47,male,173.04,beginner,general_fitness,"['Bodyweight', 'Barbell']",5,30,None
+85,85,28,male,174.97,beginner,muscle_gain,"['Dumbbell', 'Resistance Band']",5,45,Minor knee pain
+86,86,55,female,187.28,beginner,muscle_gain,['Dumbbell'],4,45,Minor knee pain
+87,87,45,male,153.02,beginner,endurance,"['Dumbbell', 'Kettlebell', 'Bodyweight']",5,60,None
+88,88,28,male,160.97,beginner,general_fitness,"['Barbell', 'Dumbbell', 'Resistance Band', 'Kettlebell']",5,30,None
+89,89,41,male,180.65,intermediate,weight_loss,"['Kettlebell', 'Resistance Band']",4,30,None
+90,90,18,male,171.41,beginner,muscle_gain,"['Dumbbell', 'Barbell', 'Resistance Band']",3,30,None
+91,91,38,female,165.85,intermediate,weight_loss,"['Resistance Band', 'Dumbbell', 'Kettlebell', 'Barbell']",3,30,None
+92,92,19,female,160.32,beginner,weight_loss,['Dumbbell'],4,60,None
+93,93,43,female,165.15,intermediate,weight_loss,"['Dumbbell', 'Resistance Band']",5,45,None
+94,94,59,male,171.95,beginner,weight_loss,"['Punching Bag', 'Kettlebell']",5,30,None
+95,95,22,female,165.88,intermediate,weight_loss,"['Punching Bag', 'Kettlebell', 'Dumbbell', 'Barbell']",3,60,None
+96,96,34,male,182.79,beginner,muscle_gain,"['Dumbbell', 'Resistance Band', 'Punching Bag']",5,60,None
+97,97,62,male,172.41,intermediate,weight_loss,"['Dumbbell', 'Bodyweight']",5,30,None
+98,98,49,male,171.66,advanced,general_fitness,['Bodyweight'],5,45,None
+99,99,27,male,166.82,intermediate,general_fitness,['Barbell'],5,45,Minor knee pain
+100,100,32,male,163.5,beginner,skill_boxing,"['Barbell', 'Punching Bag']",5,30,None
+101,101,61,female,154.17,advanced,weight_loss,"['Kettlebell', 'Barbell', 'Dumbbell']",5,45,None
+102,102,33,male,150.72,intermediate,endurance,['Bodyweight'],5,45,None
+103,103,28,male,173.79,beginner,weight_loss,['Punching Bag'],5,30,Minor knee pain
+104,104,26,female,185.57,beginner,weight_loss,"['Bodyweight', 'Kettlebell', 'Punching Bag']",4,60,None
+105,105,62,female,152.9,intermediate,muscle_gain,"['Punching Bag', 'Kettlebell', 'Dumbbell']",3,30,Minor knee pain
+106,106,47,female,174.04,beginner,weight_loss,"['Resistance Band', 'Kettlebell', 'Barbell', 'Punching Bag']",3,30,None
+107,107,22,male,182.74,beginner,general_fitness,['Punching Bag'],5,60,None
+108,108,52,male,152.31,intermediate,weight_loss,['Punching Bag'],3,45,Minor knee pain
+109,109,59,female,156.47,intermediate,weight_loss,"['Kettlebell', 'Barbell']",3,60,Minor knee pain
+110,110,34,male,151.06,intermediate,weight_loss,['Kettlebell'],3,60,None
+111,111,33,male,159.78,beginner,muscle_gain,"['Resistance Band', 'Punching Bag']",3,45,None
+112,112,40,female,158.89,beginner,muscle_gain,['Dumbbell'],3,45,Minor knee pain
+113,113,57,male,155.13,intermediate,skill_boxing,"['Kettlebell', 'Resistance Band', 'Punching Bag', 'Barbell']",4,30,None
+114,114,43,male,173.56,intermediate,muscle_gain,"['Resistance Band', 'Bodyweight']",4,30,None
+115,115,60,male,152.61,intermediate,weight_loss,"['Kettlebell', 'Barbell', 'Punching Bag', 'Dumbbell']",3,45,None
+116,116,60,female,167.23,intermediate,weight_loss,['Resistance Band'],4,30,None
+117,117,35,female,152.64,beginner,skill_boxing,"['Kettlebell', 'Resistance Band', 'Punching Bag']",4,30,Minor knee pain
+118,118,38,female,172.58,beginner,general_fitness,"['Resistance Band', 'Dumbbell']",4,60,None
+119,119,44,male,188.2,beginner,weight_loss,['Barbell'],5,60,None
+120,120,59,male,161.68,intermediate,skill_boxing,"['Punching Bag', 'Resistance Band', 'Dumbbell', 'Bodyweight']",4,45,None
+121,121,64,female,168.71,beginner,muscle_gain,"['Kettlebell', 'Barbell', 'Bodyweight', 'Punching Bag']",4,60,None
+122,122,43,male,186.4,advanced,muscle_gain,['Punching Bag'],4,45,None
+123,123,21,female,172.09,intermediate,skill_boxing,"['Barbell', 'Punching Bag']",5,60,None
+124,124,41,female,152.04,beginner,skill_boxing,"['Punching Bag', 'Barbell', 'Dumbbell']",4,30,None
+125,125,19,male,178.4,beginner,skill_boxing,"['Resistance Band', 'Dumbbell', 'Bodyweight', 'Punching Bag']",5,60,None
+126,126,39,female,158.23,beginner,muscle_gain,"['Barbell', 'Dumbbell', 'Bodyweight']",4,45,None
+127,127,49,female,156.64,beginner,muscle_gain,"['Resistance Band', 'Bodyweight', 'Punching Bag']",5,45,Minor knee pain
+128,128,46,female,175.01,beginner,muscle_gain,"['Bodyweight', 'Barbell', 'Resistance Band', 'Dumbbell']",3,45,Minor knee pain
+129,129,18,female,153.7,beginner,weight_loss,"['Barbell', 'Punching Bag']",3,60,None
+130,130,18,female,161.73,intermediate,weight_loss,"['Dumbbell', 'Bodyweight']",5,45,None
+131,131,44,female,178.89,intermediate,skill_boxing,"['Dumbbell', 'Barbell', 'Resistance Band', 'Punching Bag']",3,45,None
+132,132,53,male,150.41,beginner,muscle_gain,"['Bodyweight', 'Dumbbell', 'Resistance Band']",5,30,None
+133,133,38,female,167.92,beginner,muscle_gain,['Bodyweight'],3,60,None
+134,134,41,male,168.1,beginner,weight_loss,"['Dumbbell', 'Resistance Band', 'Kettlebell']",3,60,None
+135,135,58,female,176.44,beginner,weight_loss,['Kettlebell'],4,30,None
+136,136,58,female,187.14,intermediate,muscle_gain,"['Dumbbell', 'Punching Bag', 'Barbell', 'Bodyweight']",5,30,None
+137,137,51,female,188.42,intermediate,muscle_gain,"['Dumbbell', 'Resistance Band']",3,60,Minor knee pain
+138,138,28,male,153.86,beginner,weight_loss,"['Barbell', 'Bodyweight']",3,45,None
+139,139,45,female,161.73,intermediate,endurance,"['Punching Bag', 'Resistance Band']",4,45,None
+140,140,34,female,189.4,beginner,weight_loss,['Dumbbell'],4,45,None
+141,141,58,male,185.42,advanced,weight_loss,"['Bodyweight', 'Barbell']",5,60,None
+142,142,45,male,183.66,advanced,muscle_gain,"['Resistance Band', 'Dumbbell']",4,60,Minor knee pain
+143,143,57,male,178.75,beginner,skill_boxing,['Punching Bag'],3,30,None
+144,144,63,male,176.12,intermediate,general_fitness,"['Kettlebell', 'Resistance Band']",4,30,None
+145,145,25,female,171.98,beginner,skill_boxing,"['Bodyweight', 'Kettlebell', 'Punching Bag']",4,30,None
+146,146,39,male,184.63,beginner,skill_boxing,"['Dumbbell', 'Resistance Band', 'Kettlebell', 'Punching Bag']",5,60,None
+147,147,57,male,182.65,beginner,general_fitness,"['Resistance Band', 'Punching Bag', 'Kettlebell', 'Dumbbell']",4,60,None
+148,148,21,female,156.52,advanced,weight_loss,"['Resistance Band', 'Barbell', 'Punching Bag', 'Kettlebell']",4,30,None
+149,149,52,female,157.2,intermediate,endurance,['Resistance Band'],4,60,None
+150,150,24,male,166.36,intermediate,weight_loss,['Kettlebell'],3,60,None
+151,151,42,male,184.4,intermediate,muscle_gain,"['Dumbbell', 'Barbell']",3,60,None
+152,152,48,female,179.24,beginner,weight_loss,"['Resistance Band', 'Punching Bag']",5,30,None
+153,153,37,female,161.89,intermediate,general_fitness,['Bodyweight'],5,30,None
+154,154,47,female,181.4,beginner,muscle_gain,"['Bodyweight', 'Kettlebell', 'Punching Bag']",5,30,None
+155,155,50,female,185.95,beginner,muscle_gain,"['Resistance Band', 'Barbell', 'Bodyweight', 'Dumbbell']",5,30,None
+156,156,22,male,171.58,intermediate,general_fitness,"['Bodyweight', 'Barbell', 'Kettlebell']",3,60,None
+157,157,63,female,168.27,beginner,weight_loss,"['Dumbbell', 'Resistance Band']",4,30,None
+158,158,25,female,177.33,beginner,weight_loss,"['Barbell', 'Bodyweight']",4,45,None
+159,159,44,female,177.27,intermediate,weight_loss,"['Kettlebell', 'Bodyweight', 'Dumbbell']",4,60,None
+160,160,18,female,157.11,intermediate,weight_loss,"['Bodyweight', 'Punching Bag', 'Barbell']",5,45,None
+161,161,53,female,182.35,advanced,muscle_gain,['Kettlebell'],3,30,None
+162,162,24,female,151.08,beginner,muscle_gain,['Punching Bag'],4,30,None
+163,163,57,male,158.76,beginner,weight_loss,"['Punching Bag', 'Kettlebell', 'Bodyweight']",4,60,None
+164,164,29,female,177.94,intermediate,muscle_gain,"['Punching Bag', 'Dumbbell', 'Kettlebell', 'Resistance Band']",3,60,None
+165,165,19,male,168.21,advanced,weight_loss,['Dumbbell'],5,30,Minor knee pain
+166,166,49,male,177.93,beginner,weight_loss,"['Bodyweight', 'Barbell', 'Kettlebell']",5,30,Minor knee pain
+167,167,47,male,186.0,beginner,muscle_gain,"['Dumbbell', 'Bodyweight', 'Punching Bag', 'Kettlebell']",4,30,Minor knee pain
+168,168,40,male,162.05,beginner,weight_loss,"['Punching Bag', 'Resistance Band', 'Dumbbell', 'Barbell']",5,60,None
+169,169,49,male,162.98,advanced,muscle_gain,"['Barbell', 'Bodyweight']",5,60,None
+170,170,58,male,179.56,beginner,muscle_gain,"['Bodyweight', 'Resistance Band']",3,45,None
+171,171,34,male,163.43,beginner,muscle_gain,"['Resistance Band', 'Dumbbell']",4,60,Minor knee pain
+172,172,62,female,187.33,intermediate,weight_loss,['Resistance Band'],5,60,Minor knee pain
+173,173,39,female,175.75,intermediate,weight_loss,"['Barbell', 'Punching Bag', 'Resistance Band', 'Bodyweight']",3,45,None
+174,174,30,male,180.85,beginner,muscle_gain,"['Dumbbell', 'Kettlebell', 'Resistance Band', 'Punching Bag']",4,30,Minor knee pain
+175,175,25,male,178.9,intermediate,muscle_gain,"['Resistance Band', 'Bodyweight', 'Kettlebell']",5,30,None
+176,176,18,female,175.36,beginner,weight_loss,"['Punching Bag', 'Bodyweight', 'Dumbbell', 'Barbell']",5,45,Minor knee pain
+177,177,32,female,188.93,beginner,skill_boxing,"['Dumbbell', 'Punching Bag', 'Barbell']",3,45,None
+178,178,21,female,152.97,beginner,weight_loss,"['Barbell', 'Bodyweight', 'Resistance Band', 'Punching Bag']",5,60,None
+179,179,38,female,188.38,intermediate,weight_loss,"['Barbell', 'Punching Bag', 'Kettlebell']",3,45,Minor knee pain
+180,180,36,male,174.41,beginner,weight_loss,['Dumbbell'],3,30,None
+181,181,20,female,185.19,beginner,weight_loss,"['Punching Bag', 'Bodyweight', 'Resistance Band', 'Barbell']",4,30,None
+182,182,63,female,174.57,advanced,muscle_gain,"['Barbell', 'Resistance Band', 'Dumbbell', 'Punching Bag']",4,30,Minor knee pain
+183,183,48,male,167.18,beginner,muscle_gain,"['Resistance Band', 'Bodyweight', 'Barbell', 'Punching Bag']",3,60,None
+184,184,23,male,189.03,beginner,endurance,"['Punching Bag', 'Resistance Band', 'Bodyweight', 'Kettlebell']",4,45,None
+185,185,39,male,189.26,beginner,weight_loss,"['Punching Bag', 'Kettlebell']",3,60,Minor knee pain
+186,186,20,male,150.47,intermediate,weight_loss,"['Punching Bag', 'Kettlebell', 'Bodyweight', 'Dumbbell']",3,45,None
+187,187,57,female,152.53,beginner,muscle_gain,['Barbell'],5,45,None
+188,188,61,male,158.36,intermediate,muscle_gain,"['Kettlebell', 'Resistance Band']",5,30,Minor knee pain
+189,189,56,female,169.19,beginner,weight_loss,['Dumbbell'],3,30,None
+190,190,44,male,177.25,intermediate,general_fitness,"['Barbell', 'Resistance Band', 'Punching Bag', 'Kettlebell']",4,45,None
+191,191,50,male,157.06,beginner,muscle_gain,"['Punching Bag', 'Bodyweight', 'Dumbbell']",4,45,Minor knee pain
+192,192,36,male,173.08,intermediate,muscle_gain,"['Kettlebell', 'Dumbbell']",5,30,Minor knee pain
+193,193,63,male,181.18,beginner,weight_loss,['Dumbbell'],3,60,None
+194,194,45,female,162.82,beginner,general_fitness,['Bodyweight'],4,45,Minor knee pain
+195,195,38,female,181.58,intermediate,weight_loss,"['Bodyweight', 'Punching Bag', 'Dumbbell', 'Kettlebell']",5,60,None
+196,196,57,male,168.05,beginner,skill_boxing,"['Punching Bag', 'Barbell', 'Resistance Band']",3,60,None
+197,197,47,female,185.16,intermediate,muscle_gain,"['Barbell', 'Punching Bag', 'Dumbbell']",4,30,Minor knee pain
+198,198,36,female,166.51,beginner,general_fitness,"['Bodyweight', 'Resistance Band', 'Punching Bag']",4,60,None
+199,199,39,male,182.27,intermediate,endurance,['Resistance Band'],4,30,None
+200,200,27,female,158.66,beginner,weight_loss,['Punching Bag'],3,30,None
+201,201,56,male,169.8,advanced,muscle_gain,"['Resistance Band', 'Punching Bag', 'Kettlebell', 'Bodyweight']",4,60,None
+202,202,44,male,173.55,intermediate,muscle_gain,"['Kettlebell', 'Barbell', 'Bodyweight']",5,60,None
+203,203,28,female,155.25,intermediate,muscle_gain,"['Kettlebell', 'Dumbbell']",4,60,None
+204,204,21,male,181.86,advanced,skill_boxing,"['Dumbbell', 'Punching Bag']",4,30,None
+205,205,56,female,175.57,beginner,muscle_gain,"['Kettlebell', 'Dumbbell', 'Resistance Band']",4,45,Minor knee pain
+206,206,30,female,189.91,beginner,muscle_gain,"['Dumbbell', 'Bodyweight', 'Punching Bag']",4,30,None
+207,207,56,female,181.39,beginner,weight_loss,['Kettlebell'],5,30,Minor knee pain
+208,208,62,male,151.36,intermediate,weight_loss,['Kettlebell'],5,30,None
+209,209,35,female,156.48,beginner,muscle_gain,"['Bodyweight', 'Resistance Band']",5,60,None
+210,210,26,female,181.53,intermediate,weight_loss,"['Dumbbell', 'Barbell', 'Kettlebell', 'Bodyweight']",5,60,None
+211,211,27,male,183.86,advanced,weight_loss,"['Barbell', 'Bodyweight', 'Kettlebell']",3,30,None
+212,212,55,female,168.15,intermediate,weight_loss,"['Kettlebell', 'Bodyweight', 'Barbell', 'Punching Bag']",5,60,Minor knee pain
+213,213,64,male,183.87,intermediate,weight_loss,"['Punching Bag', 'Bodyweight']",4,45,None
+214,214,61,male,155.29,intermediate,skill_boxing,"['Punching Bag', 'Dumbbell', 'Barbell', 'Bodyweight']",3,30,None
+215,215,64,male,168.66,beginner,general_fitness,"['Barbell', 'Resistance Band', 'Punching Bag', 'Dumbbell']",3,45,Minor knee pain
+216,216,40,female,161.32,intermediate,skill_boxing,"['Kettlebell', 'Resistance Band', 'Dumbbell', 'Barbell', 'Punching Bag']",5,60,None
+217,217,52,male,177.09,beginner,weight_loss,"['Kettlebell', 'Dumbbell', 'Bodyweight', 'Punching Bag']",5,30,None
+218,218,38,female,178.35,intermediate,skill_boxing,"['Resistance Band', 'Dumbbell', 'Punching Bag']",4,30,None
+219,219,55,female,175.64,beginner,general_fitness,"['Punching Bag', 'Barbell', 'Dumbbell']",3,45,None
+220,220,20,male,185.73,beginner,muscle_gain,"['Dumbbell', 'Kettlebell']",5,60,None
+221,221,30,male,181.8,intermediate,general_fitness,"['Punching Bag', 'Barbell', 'Resistance Band', 'Dumbbell']",3,45,Minor knee pain
+222,222,33,female,184.62,intermediate,general_fitness,"['Dumbbell', 'Bodyweight', 'Kettlebell']",5,30,None
+223,223,65,male,164.86,intermediate,weight_loss,['Barbell'],3,45,None
+224,224,42,male,181.83,beginner,weight_loss,"['Barbell', 'Dumbbell']",3,45,None
+225,225,25,female,179.42,beginner,weight_loss,['Resistance Band'],3,60,Minor knee pain
+226,226,24,male,175.55,advanced,muscle_gain,"['Kettlebell', 'Bodyweight', 'Barbell', 'Punching Bag']",5,45,None
+227,227,45,male,158.85,beginner,muscle_gain,"['Dumbbell', 'Barbell', 'Kettlebell']",5,45,None
+228,228,59,male,185.92,beginner,muscle_gain,"['Barbell', 'Kettlebell', 'Resistance Band', 'Punching Bag']",5,45,None
+229,229,50,female,176.61,beginner,weight_loss,"['Barbell', 'Bodyweight']",4,60,None
+230,230,22,male,157.23,intermediate,muscle_gain,['Resistance Band'],3,45,None
+231,231,56,male,183.55,intermediate,general_fitness,"['Resistance Band', 'Dumbbell']",5,60,None
+232,232,52,male,151.37,beginner,muscle_gain,"['Dumbbell', 'Bodyweight', 'Barbell', 'Kettlebell']",4,30,None
+233,233,35,male,159.25,beginner,weight_loss,"['Punching Bag', 'Kettlebell', 'Resistance Band', 'Barbell']",5,60,None
+234,234,57,female,178.48,intermediate,muscle_gain,"['Dumbbell', 'Kettlebell', 'Barbell', 'Resistance Band']",4,30,None
+235,235,64,male,162.66,intermediate,weight_loss,"['Resistance Band', 'Dumbbell', 'Punching Bag']",5,30,None
+236,236,45,male,171.72,advanced,muscle_gain,['Barbell'],5,30,None
+237,237,61,female,183.71,beginner,endurance,"['Punching Bag', 'Barbell']",5,30,None
+238,238,47,male,155.48,intermediate,weight_loss,"['Punching Bag', 'Kettlebell']",4,60,None
+239,239,33,female,174.8,beginner,weight_loss,"['Punching Bag', 'Resistance Band', 'Bodyweight', 'Dumbbell']",3,45,None
+240,240,26,male,160.62,intermediate,muscle_gain,"['Dumbbell', 'Punching Bag', 'Resistance Band', 'Barbell']",5,45,None
+241,241,59,female,169.3,beginner,weight_loss,"['Kettlebell', 'Resistance Band', 'Barbell']",4,30,None
+242,242,24,female,180.65,beginner,muscle_gain,['Barbell'],3,60,None
+243,243,24,female,154.07,intermediate,muscle_gain,"['Barbell', 'Kettlebell', 'Bodyweight', 'Resistance Band']",4,60,Minor knee pain
+244,244,18,female,188.24,intermediate,weight_loss,"['Kettlebell', 'Resistance Band', 'Dumbbell', 'Bodyweight']",4,45,None
+245,245,54,female,179.42,beginner,weight_loss,"['Bodyweight', 'Punching Bag', 'Resistance Band']",5,30,Minor knee pain
+246,246,63,male,172.94,intermediate,weight_loss,['Barbell'],4,30,Minor knee pain
+247,247,41,male,156.97,intermediate,muscle_gain,"['Barbell', 'Dumbbell']",5,60,None
+248,248,50,female,170.84,intermediate,endurance,"['Dumbbell', 'Punching Bag']",3,30,Minor knee pain
+249,249,36,male,178.74,beginner,weight_loss,['Resistance Band'],3,45,None
+250,250,55,male,185.71,intermediate,general_fitness,"['Bodyweight', 'Resistance Band', 'Barbell']",4,30,None
+251,251,28,male,156.64,intermediate,skill_boxing,"['Resistance Band', 'Dumbbell', 'Barbell', 'Kettlebell', 'Punching Bag']",5,30,None
+252,252,40,female,156.69,intermediate,weight_loss,['Bodyweight'],4,45,Minor knee pain
+253,253,26,male,177.46,beginner,muscle_gain,['Barbell'],4,60,None
+254,254,20,male,187.32,beginner,endurance,"['Barbell', 'Dumbbell', 'Kettlebell', 'Punching Bag']",4,45,None
+255,255,49,male,156.01,intermediate,weight_loss,"['Barbell', 'Dumbbell', 'Resistance Band', 'Bodyweight']",4,60,None
+256,256,20,male,163.24,intermediate,general_fitness,"['Resistance Band', 'Punching Bag', 'Kettlebell']",3,45,None
+257,257,21,male,167.55,intermediate,general_fitness,"['Punching Bag', 'Resistance Band', 'Kettlebell']",3,60,None
+258,258,61,male,163.93,beginner,weight_loss,"['Punching Bag', 'Resistance Band', 'Dumbbell', 'Bodyweight']",5,30,None
+259,259,36,male,182.66,beginner,weight_loss,['Resistance Band'],3,30,None
+260,260,31,female,170.38,intermediate,weight_loss,"['Resistance Band', 'Kettlebell']",4,45,None
+261,261,58,male,165.27,beginner,muscle_gain,"['Punching Bag', 'Dumbbell', 'Bodyweight']",3,60,None
+262,262,37,female,167.71,beginner,weight_loss,['Bodyweight'],5,45,Minor knee pain
+263,263,24,female,178.75,intermediate,muscle_gain,['Bodyweight'],5,60,None
+264,264,54,male,187.19,beginner,muscle_gain,['Resistance Band'],5,60,Minor knee pain
+265,265,30,male,168.27,intermediate,weight_loss,['Dumbbell'],3,30,Minor knee pain
+266,266,25,male,156.51,beginner,weight_loss,"['Kettlebell', 'Dumbbell']",4,30,None
+267,267,43,female,180.09,beginner,weight_loss,"['Resistance Band', 'Kettlebell']",3,60,None
+268,268,22,female,174.32,intermediate,muscle_gain,['Punching Bag'],4,30,None
+269,269,53,female,164.42,intermediate,skill_boxing,"['Kettlebell', 'Bodyweight', 'Punching Bag']",5,60,None
+270,270,38,female,180.53,beginner,weight_loss,"['Bodyweight', 'Barbell', 'Punching Bag', 'Kettlebell']",5,30,None
+271,271,53,female,179.47,beginner,weight_loss,"['Punching Bag', 'Dumbbell']",4,45,None
+272,272,45,female,180.97,beginner,muscle_gain,"['Bodyweight', 'Punching Bag', 'Barbell']",3,30,None
+273,273,65,male,174.75,advanced,muscle_gain,['Barbell'],4,45,Minor knee pain
+274,274,30,male,168.93,beginner,weight_loss,"['Bodyweight', 'Barbell']",3,45,None
+275,275,28,male,179.89,intermediate,weight_loss,"['Bodyweight', 'Resistance Band', 'Punching Bag', 'Barbell']",5,45,None
+276,276,20,male,169.79,intermediate,skill_boxing,"['Bodyweight', 'Kettlebell', 'Punching Bag']",3,45,None
+277,277,21,female,184.94,beginner,muscle_gain,['Kettlebell'],5,60,Minor knee pain
+278,278,50,male,165.84,beginner,weight_loss,"['Punching Bag', 'Kettlebell', 'Resistance Band']",4,30,None
+279,279,35,male,173.54,intermediate,muscle_gain,"['Dumbbell', 'Punching Bag']",4,30,None
+280,280,49,male,155.59,intermediate,weight_loss,"['Barbell', 'Bodyweight', 'Resistance Band', 'Dumbbell']",3,45,None
+281,281,56,male,186.7,advanced,skill_boxing,"['Barbell', 'Punching Bag']",4,60,None
+282,282,63,female,163.32,beginner,muscle_gain,"['Resistance Band', 'Punching Bag', 'Bodyweight']",5,45,None
+283,283,45,female,167.02,beginner,weight_loss,"['Bodyweight', 'Barbell', 'Resistance Band', 'Kettlebell']",4,45,None
+284,284,27,male,185.31,intermediate,weight_loss,"['Kettlebell', 'Dumbbell']",4,30,None
+285,285,33,female,165.42,beginner,skill_boxing,"['Punching Bag', 'Resistance Band']",5,45,None
+286,286,39,female,186.6,advanced,muscle_gain,['Dumbbell'],3,30,None
+287,287,54,male,163.21,beginner,weight_loss,['Dumbbell'],5,45,None
+288,288,22,male,164.61,beginner,muscle_gain,"['Punching Bag', 'Barbell', 'Kettlebell']",5,60,None
+289,289,44,male,185.54,beginner,weight_loss,['Bodyweight'],5,60,None
+290,290,32,male,160.05,beginner,muscle_gain,"['Bodyweight', 'Punching Bag']",5,60,None
+291,291,63,male,174.07,advanced,muscle_gain,"['Dumbbell', 'Barbell']",4,45,None
+292,292,63,female,182.64,beginner,endurance,"['Punching Bag', 'Bodyweight', 'Barbell', 'Dumbbell']",5,45,None
+293,293,65,female,172.02,advanced,weight_loss,"['Kettlebell', 'Barbell', 'Punching Bag', 'Bodyweight']",4,30,None
+294,294,43,male,180.84,advanced,muscle_gain,"['Kettlebell', 'Punching Bag']",5,45,None
+295,295,44,male,165.92,intermediate,muscle_gain,"['Resistance Band', 'Barbell', 'Bodyweight']",4,45,None
+296,296,20,male,176.22,beginner,muscle_gain,['Barbell'],3,60,None
+297,297,53,male,177.27,beginner,weight_loss,"['Resistance Band', 'Kettlebell', 'Dumbbell']",3,60,None
+298,298,53,female,168.11,beginner,weight_loss,['Barbell'],3,45,None
+299,299,55,female,175.4,intermediate,weight_loss,['Kettlebell'],3,45,None
+300,300,50,female,167.62,beginner,skill_boxing,"['Bodyweight', 'Barbell', 'Kettlebell', 'Punching Bag']",5,45,None
+301,301,46,female,155.27,beginner,weight_loss,"['Barbell', 'Resistance Band', 'Punching Bag', 'Dumbbell']",4,30,None
+302,302,63,male,159.57,intermediate,endurance,"['Dumbbell', 'Barbell', 'Punching Bag', 'Resistance Band']",4,60,None
+303,303,24,male,184.48,beginner,weight_loss,['Punching Bag'],5,45,Minor knee pain
+304,304,18,female,180.57,intermediate,muscle_gain,"['Barbell', 'Punching Bag', 'Kettlebell', 'Bodyweight']",5,45,None
+305,305,48,female,173.3,beginner,muscle_gain,"['Punching Bag', 'Barbell']",5,60,None
+306,306,30,female,185.81,beginner,weight_loss,"['Bodyweight', 'Punching Bag', 'Kettlebell', 'Resistance Band']",5,60,Minor knee pain
+307,307,27,male,157.76,beginner,skill_boxing,"['Bodyweight', 'Dumbbell', 'Barbell', 'Punching Bag']",3,45,None
+308,308,54,female,165.76,beginner,endurance,"['Bodyweight', 'Resistance Band', 'Punching Bag']",5,30,Minor knee pain
+309,309,42,female,187.13,beginner,muscle_gain,"['Barbell', 'Bodyweight', 'Dumbbell', 'Kettlebell']",4,45,None
+310,310,60,female,180.41,beginner,endurance,"['Kettlebell', 'Punching Bag']",4,30,Minor knee pain
+311,311,48,male,166.32,beginner,general_fitness,['Punching Bag'],5,60,None
+312,312,41,male,182.2,advanced,weight_loss,"['Punching Bag', 'Kettlebell']",3,60,None
+313,313,56,male,165.59,beginner,endurance,['Resistance Band'],3,30,None
+314,314,50,female,158.02,beginner,general_fitness,"['Resistance Band', 'Punching Bag']",3,30,None
+315,315,55,male,184.77,advanced,endurance,['Dumbbell'],4,45,None
+316,316,45,female,167.12,beginner,weight_loss,"['Barbell', 'Bodyweight']",5,45,None
+317,317,29,male,188.42,beginner,muscle_gain,"['Kettlebell', 'Resistance Band', 'Barbell', 'Punching Bag']",4,60,None
+318,318,19,male,152.09,beginner,endurance,"['Barbell', 'Bodyweight']",5,30,None
+319,319,40,female,159.79,intermediate,muscle_gain,['Barbell'],3,60,None
+320,320,42,female,173.91,intermediate,general_fitness,"['Kettlebell', 'Dumbbell']",3,60,None
+321,321,55,male,150.28,beginner,general_fitness,"['Resistance Band', 'Kettlebell', 'Punching Bag', 'Barbell']",4,30,None
+322,322,57,male,164.76,beginner,weight_loss,"['Resistance Band', 'Dumbbell']",3,30,None
+323,323,59,female,153.76,intermediate,endurance,"['Bodyweight', 'Punching Bag', 'Kettlebell']",5,45,Minor knee pain
+324,324,24,female,161.32,intermediate,muscle_gain,"['Bodyweight', 'Dumbbell', 'Barbell', 'Kettlebell']",4,30,None
+325,325,31,female,171.25,advanced,muscle_gain,"['Barbell', 'Dumbbell', 'Bodyweight', 'Kettlebell']",4,60,None
+326,326,47,male,150.94,beginner,muscle_gain,"['Dumbbell', 'Resistance Band']",5,45,Minor knee pain
+327,327,56,male,168.93,intermediate,weight_loss,['Kettlebell'],3,60,Minor knee pain
+328,328,30,male,166.96,intermediate,muscle_gain,"['Barbell', 'Punching Bag', 'Dumbbell', 'Resistance Band']",4,30,None
+329,329,26,male,183.58,intermediate,weight_loss,"['Kettlebell', 'Dumbbell']",5,45,None
+330,330,64,male,184.92,intermediate,muscle_gain,"['Punching Bag', 'Bodyweight']",5,60,None
+331,331,48,male,174.77,advanced,weight_loss,"['Kettlebell', 'Bodyweight']",5,60,Minor knee pain
+332,332,28,female,166.72,advanced,skill_boxing,"['Resistance Band', 'Dumbbell', 'Punching Bag', 'Barbell']",4,60,Minor knee pain
+333,333,31,male,154.41,intermediate,general_fitness,['Punching Bag'],5,30,None
+334,334,47,female,166.25,intermediate,muscle_gain,"['Bodyweight', 'Barbell', 'Resistance Band']",4,30,None
+335,335,59,male,188.7,intermediate,weight_loss,"['Resistance Band', 'Barbell', 'Bodyweight', 'Punching Bag']",3,30,None
+336,336,45,male,177.33,beginner,general_fitness,"['Kettlebell', 'Bodyweight', 'Barbell']",5,30,None
+337,337,63,female,187.67,intermediate,weight_loss,"['Punching Bag', 'Bodyweight', 'Resistance Band']",4,60,Minor knee pain
+338,338,53,male,166.37,intermediate,endurance,['Barbell'],4,60,Minor knee pain
+339,339,49,female,157.4,advanced,skill_boxing,"['Resistance Band', 'Dumbbell', 'Barbell', 'Punching Bag']",5,30,Minor knee pain
+340,340,20,female,178.71,beginner,weight_loss,"['Punching Bag', 'Dumbbell', 'Resistance Band']",3,45,None
+341,341,39,female,188.83,beginner,weight_loss,['Dumbbell'],3,45,None
+342,342,36,female,187.24,beginner,weight_loss,"['Kettlebell', 'Resistance Band', 'Punching Bag', 'Barbell']",3,60,None
+343,343,47,male,154.08,intermediate,general_fitness,"['Dumbbell', 'Barbell', 'Punching Bag']",3,60,None
+344,344,23,male,179.38,intermediate,weight_loss,"['Dumbbell', 'Kettlebell']",5,60,None
+345,345,23,male,175.27,beginner,weight_loss,"['Bodyweight', 'Barbell', 'Punching Bag', 'Dumbbell']",4,45,None
+346,346,28,female,159.14,advanced,weight_loss,"['Resistance Band', 'Bodyweight']",3,45,None
+347,347,47,female,182.84,intermediate,muscle_gain,"['Kettlebell', 'Bodyweight']",4,45,Minor knee pain
+348,348,18,female,181.4,intermediate,muscle_gain,"['Kettlebell', 'Resistance Band', 'Bodyweight', 'Punching Bag']",4,60,None
+349,349,58,female,168.43,beginner,skill_boxing,"['Bodyweight', 'Punching Bag', 'Resistance Band']",3,30,None
+350,350,32,female,155.95,intermediate,endurance,"['Barbell', 'Bodyweight']",5,45,None
+351,351,29,female,186.35,beginner,muscle_gain,"['Punching Bag', 'Dumbbell', 'Resistance Band', 'Kettlebell']",3,30,None
+352,352,46,female,181.87,beginner,endurance,['Barbell'],5,60,Minor knee pain
+353,353,19,male,184.12,intermediate,muscle_gain,"['Resistance Band', 'Kettlebell', 'Bodyweight', 'Barbell']",3,30,None
+354,354,53,male,150.5,beginner,weight_loss,"['Barbell', 'Bodyweight', 'Dumbbell']",3,30,Minor knee pain
+355,355,47,female,152.59,advanced,weight_loss,"['Dumbbell', 'Bodyweight', 'Barbell']",5,45,None
+356,356,53,female,167.44,intermediate,muscle_gain,"['Kettlebell', 'Resistance Band', 'Punching Bag']",4,60,None
+357,357,63,male,171.37,beginner,endurance,"['Kettlebell', 'Bodyweight', 'Resistance Band']",3,45,None
+358,358,56,male,172.0,intermediate,muscle_gain,"['Resistance Band', 'Dumbbell', 'Barbell']",4,45,Minor knee pain
+359,359,23,female,181.87,intermediate,muscle_gain,"['Dumbbell', 'Kettlebell']",4,45,None
+360,360,51,male,170.75,advanced,muscle_gain,['Kettlebell'],3,45,None
+361,361,49,male,154.24,beginner,skill_boxing,"['Dumbbell', 'Punching Bag']",3,45,Minor knee pain
+362,362,63,male,175.49,beginner,weight_loss,['Bodyweight'],4,60,Minor knee pain
+363,363,63,male,176.96,intermediate,endurance,"['Bodyweight', 'Resistance Band', 'Kettlebell']",3,60,None
+364,364,47,female,152.99,beginner,endurance,"['Bodyweight', 'Barbell', 'Kettlebell', 'Punching Bag']",4,60,None
+365,365,59,male,166.87,intermediate,weight_loss,"['Kettlebell', 'Bodyweight', 'Punching Bag', 'Barbell']",4,60,None
+366,366,23,female,154.7,beginner,muscle_gain,['Kettlebell'],5,45,None
+367,367,39,female,163.5,beginner,weight_loss,"['Bodyweight', 'Resistance Band', 'Dumbbell']",4,45,None
+368,368,64,female,151.89,beginner,muscle_gain,"['Dumbbell', 'Resistance Band', 'Kettlebell', 'Barbell']",4,30,Minor knee pain
+369,369,60,female,161.4,intermediate,muscle_gain,"['Resistance Band', 'Punching Bag', 'Dumbbell', 'Barbell']",4,30,None
+370,370,19,male,160.43,beginner,weight_loss,"['Bodyweight', 'Kettlebell', 'Barbell']",5,60,None
+371,371,32,female,188.46,beginner,endurance,"['Kettlebell', 'Barbell', 'Bodyweight', 'Punching Bag']",3,30,Minor knee pain
+372,372,34,male,188.65,intermediate,general_fitness,['Dumbbell'],3,30,None
+373,373,42,male,184.95,intermediate,weight_loss,"['Barbell', 'Resistance Band']",3,45,None
+374,374,49,female,167.07,beginner,endurance,"['Kettlebell', 'Barbell', 'Bodyweight', 'Resistance Band']",3,45,Minor knee pain
+375,375,23,female,185.5,intermediate,weight_loss,['Bodyweight'],5,30,Minor knee pain
+376,376,45,male,165.44,beginner,weight_loss,"['Resistance Band', 'Dumbbell', 'Barbell', 'Bodyweight']",3,45,None
+377,377,20,male,187.62,beginner,weight_loss,"['Dumbbell', 'Kettlebell']",4,45,None
+378,378,48,male,166.62,intermediate,skill_boxing,"['Barbell', 'Punching Bag']",3,60,None
+379,379,28,female,153.26,intermediate,weight_loss,"['Kettlebell', 'Punching Bag', 'Bodyweight', 'Dumbbell']",5,30,None
+380,380,40,female,156.0,beginner,endurance,"['Punching Bag', 'Kettlebell']",4,30,Minor knee pain
+381,381,41,female,157.67,advanced,muscle_gain,"['Barbell', 'Dumbbell', 'Kettlebell', 'Resistance Band']",4,60,None
+382,382,22,male,177.75,beginner,weight_loss,"['Barbell', 'Resistance Band', 'Bodyweight', 'Punching Bag']",5,45,None
+383,383,50,female,152.15,intermediate,weight_loss,"['Punching Bag', 'Barbell', 'Bodyweight', 'Resistance Band']",5,45,None
+384,384,43,female,180.5,intermediate,weight_loss,"['Punching Bag', 'Resistance Band', 'Bodyweight', 'Dumbbell']",3,60,None
+385,385,45,male,158.34,intermediate,weight_loss,"['Dumbbell', 'Bodyweight', 'Barbell', 'Resistance Band']",4,45,Minor knee pain
+386,386,35,male,176.9,intermediate,weight_loss,['Bodyweight'],3,45,None
+387,387,57,male,159.5,intermediate,general_fitness,['Bodyweight'],5,60,None
+388,388,63,female,170.83,intermediate,muscle_gain,"['Barbell', 'Punching Bag', 'Kettlebell', 'Bodyweight']",4,30,Minor knee pain
+389,389,51,female,162.6,beginner,weight_loss,"['Bodyweight', 'Kettlebell', 'Barbell', 'Dumbbell']",3,30,Minor knee pain
+390,390,39,female,164.38,beginner,muscle_gain,"['Punching Bag', 'Dumbbell', 'Bodyweight', 'Barbell']",4,60,None
+391,391,42,male,169.76,beginner,skill_boxing,"['Dumbbell', 'Punching Bag']",3,30,None
+392,392,61,male,158.75,intermediate,weight_loss,"['Kettlebell', 'Dumbbell', 'Bodyweight', 'Punching Bag']",4,60,Minor knee pain
+393,393,45,male,158.59,beginner,general_fitness,"['Kettlebell', 'Dumbbell', 'Barbell']",5,30,None
+394,394,27,male,186.94,intermediate,skill_boxing,"['Dumbbell', 'Resistance Band', 'Barbell', 'Punching Bag']",4,30,None
+395,395,34,male,174.95,intermediate,weight_loss,"['Kettlebell', 'Resistance Band']",4,60,None
+396,396,39,female,167.47,beginner,endurance,"['Barbell', 'Dumbbell', 'Bodyweight', 'Kettlebell']",5,60,None
+397,397,39,male,174.96,beginner,muscle_gain,"['Barbell', 'Dumbbell']",3,60,None
+398,398,46,female,180.28,beginner,weight_loss,"['Resistance Band', 'Bodyweight', 'Kettlebell', 'Punching Bag']",3,30,None
+399,399,62,male,156.52,intermediate,muscle_gain,"['Kettlebell', 'Punching Bag']",4,60,None
+400,400,28,female,175.32,beginner,muscle_gain,"['Punching Bag', 'Barbell']",4,30,None
+401,401,21,male,182.76,beginner,muscle_gain,"['Kettlebell', 'Punching Bag', 'Dumbbell', 'Resistance Band']",5,30,None
+402,402,61,female,189.02,intermediate,general_fitness,"['Resistance Band', 'Punching Bag', 'Kettlebell', 'Bodyweight']",3,45,None
+403,403,40,male,181.49,beginner,endurance,"['Kettlebell', 'Barbell', 'Bodyweight', 'Punching Bag']",5,30,Minor knee pain
+404,404,42,male,154.6,beginner,muscle_gain,"['Dumbbell', 'Kettlebell']",5,45,None
+405,405,20,male,164.97,beginner,endurance,['Bodyweight'],3,45,None
+406,406,33,female,162.1,beginner,weight_loss,"['Punching Bag', 'Bodyweight']",5,60,None
+407,407,39,female,157.02,beginner,endurance,"['Punching Bag', 'Kettlebell']",3,60,None
+408,408,61,female,169.36,intermediate,muscle_gain,"['Punching Bag', 'Barbell']",4,30,None
+409,409,53,female,162.19,intermediate,weight_loss,"['Dumbbell', 'Bodyweight', 'Punching Bag']",4,45,None
+410,410,49,female,172.54,intermediate,muscle_gain,"['Barbell', 'Bodyweight', 'Dumbbell', 'Punching Bag']",4,60,None
+411,411,47,female,178.14,intermediate,general_fitness,['Barbell'],3,60,None
+412,412,57,female,189.81,intermediate,weight_loss,"['Kettlebell', 'Punching Bag', 'Resistance Band']",5,30,None
+413,413,64,female,181.38,intermediate,muscle_gain,"['Resistance Band', 'Dumbbell', 'Barbell', 'Punching Bag']",4,60,None
+414,414,44,female,157.1,beginner,weight_loss,"['Barbell', 'Kettlebell', 'Dumbbell']",4,60,None
+415,415,63,male,152.68,beginner,skill_boxing,"['Barbell', 'Punching Bag']",4,30,None
+416,416,22,male,186.02,intermediate,endurance,"['Dumbbell', 'Kettlebell', 'Barbell']",4,60,None
+417,417,25,male,162.48,beginner,endurance,['Kettlebell'],5,45,None
+418,418,60,female,177.86,beginner,weight_loss,"['Kettlebell', 'Dumbbell', 'Bodyweight', 'Barbell']",5,30,None
+419,419,33,male,189.43,intermediate,weight_loss,"['Barbell', 'Bodyweight', 'Resistance Band']",4,30,None
+420,420,38,male,154.64,intermediate,muscle_gain,"['Resistance Band', 'Punching Bag', 'Barbell']",5,60,None
+421,421,64,female,156.57,advanced,muscle_gain,['Resistance Band'],4,45,Minor knee pain
+422,422,20,female,167.25,beginner,general_fitness,"['Punching Bag', 'Bodyweight', 'Dumbbell', 'Resistance Band']",4,45,None
+423,423,19,male,151.98,intermediate,muscle_gain,"['Kettlebell', 'Dumbbell', 'Barbell', 'Resistance Band']",5,60,None
+424,424,19,male,166.25,beginner,muscle_gain,"['Resistance Band', 'Kettlebell', 'Dumbbell', 'Punching Bag']",3,45,None
+425,425,27,male,158.35,intermediate,muscle_gain,"['Resistance Band', 'Bodyweight']",4,30,None
+426,426,44,female,165.65,advanced,muscle_gain,"['Bodyweight', 'Kettlebell', 'Punching Bag', 'Barbell']",4,30,None
+427,427,37,female,169.83,beginner,muscle_gain,"['Resistance Band', 'Barbell']",3,45,None
+428,428,34,male,168.01,beginner,weight_loss,"['Resistance Band', 'Kettlebell', 'Dumbbell', 'Barbell']",5,30,None
+429,429,30,female,178.03,advanced,weight_loss,['Punching Bag'],3,30,None
+430,430,22,female,175.66,intermediate,muscle_gain,"['Bodyweight', 'Barbell', 'Dumbbell']",3,45,None
+431,431,46,female,169.0,beginner,weight_loss,['Bodyweight'],5,30,Minor knee pain
+432,432,46,male,157.76,beginner,weight_loss,"['Dumbbell', 'Resistance Band', 'Barbell', 'Bodyweight']",4,30,None
+433,433,39,female,155.42,beginner,skill_boxing,"['Barbell', 'Punching Bag', 'Kettlebell']",4,30,None
+434,434,25,male,152.66,beginner,general_fitness,['Punching Bag'],4,60,Minor knee pain
+435,435,30,male,180.65,beginner,weight_loss,"['Barbell', 'Resistance Band', 'Dumbbell', 'Punching Bag']",4,30,Minor knee pain
+436,436,33,female,187.88,beginner,muscle_gain,['Dumbbell'],5,60,Minor knee pain
+437,437,37,female,163.72,intermediate,muscle_gain,['Resistance Band'],5,60,None
+438,438,60,female,188.16,beginner,general_fitness,"['Punching Bag', 'Bodyweight']",3,60,None
+439,439,63,female,157.76,intermediate,weight_loss,['Barbell'],4,30,None
+440,440,24,female,167.66,advanced,skill_boxing,"['Bodyweight', 'Punching Bag']",5,45,None
+441,441,58,female,184.24,intermediate,general_fitness,['Dumbbell'],5,45,None
+442,442,34,male,184.4,beginner,endurance,"['Bodyweight', 'Resistance Band', 'Punching Bag', 'Barbell']",4,30,None
+443,443,57,female,187.69,intermediate,muscle_gain,"['Resistance Band', 'Punching Bag']",4,30,Minor knee pain
+444,444,45,male,172.18,beginner,weight_loss,"['Dumbbell', 'Punching Bag']",5,45,None
+445,445,52,female,189.02,beginner,skill_boxing,"['Bodyweight', 'Punching Bag']",4,45,Minor knee pain
+446,446,58,female,186.1,beginner,weight_loss,"['Punching Bag', 'Bodyweight']",5,30,None
+447,447,47,female,179.97,beginner,skill_boxing,"['Kettlebell', 'Bodyweight', 'Punching Bag']",4,30,None
+448,448,35,female,184.13,advanced,muscle_gain,"['Resistance Band', 'Punching Bag', 'Kettlebell', 'Bodyweight']",4,45,None
+449,449,34,female,161.23,beginner,endurance,"['Barbell', 'Resistance Band']",3,60,None
+450,450,21,female,176.82,intermediate,muscle_gain,"['Barbell', 'Resistance Band', 'Dumbbell']",4,60,None
+451,451,40,male,177.59,intermediate,weight_loss,"['Dumbbell', 'Punching Bag']",4,45,None
+452,452,34,male,173.81,beginner,muscle_gain,"['Barbell', 'Dumbbell', 'Bodyweight', 'Punching Bag']",5,60,None
+453,453,52,female,152.22,intermediate,endurance,"['Bodyweight', 'Barbell', 'Dumbbell', 'Resistance Band']",5,60,None
+454,454,43,male,183.16,beginner,endurance,"['Punching Bag', 'Bodyweight']",5,60,Minor knee pain
+455,455,52,male,173.87,intermediate,weight_loss,"['Resistance Band', 'Bodyweight', 'Punching Bag']",5,30,None
+456,456,28,female,177.63,beginner,weight_loss,['Punching Bag'],4,45,None
+457,457,50,female,188.76,beginner,muscle_gain,"['Punching Bag', 'Bodyweight', 'Dumbbell', 'Resistance Band']",5,60,None
+458,458,21,female,186.86,beginner,weight_loss,"['Resistance Band', 'Dumbbell']",4,60,None
+459,459,35,female,184.43,advanced,weight_loss,"['Bodyweight', 'Kettlebell', 'Resistance Band', 'Punching Bag']",4,45,None
+460,460,43,male,180.85,intermediate,general_fitness,"['Bodyweight', 'Barbell']",4,30,None
+461,461,19,female,168.75,beginner,muscle_gain,"['Kettlebell', 'Dumbbell', 'Resistance Band']",4,30,None
+462,462,43,female,166.02,beginner,weight_loss,"['Bodyweight', 'Dumbbell', 'Barbell']",3,60,None
+463,463,39,female,182.59,beginner,muscle_gain,"['Punching Bag', 'Resistance Band']",5,30,None
+464,464,34,male,161.08,intermediate,skill_boxing,"['Punching Bag', 'Barbell', 'Bodyweight']",5,45,None
+465,465,56,male,150.9,beginner,weight_loss,"['Barbell', 'Kettlebell', 'Bodyweight']",3,60,None
+466,466,27,female,172.89,intermediate,muscle_gain,"['Kettlebell', 'Resistance Band']",3,30,Minor knee pain
+467,467,23,male,157.57,intermediate,weight_loss,"['Resistance Band', 'Barbell']",4,45,None
+468,468,57,female,161.32,beginner,weight_loss,"['Barbell', 'Dumbbell', 'Resistance Band']",3,60,None
+469,469,25,male,179.5,intermediate,general_fitness,"['Bodyweight', 'Punching Bag']",4,30,None
+470,470,57,female,181.17,intermediate,muscle_gain,"['Dumbbell', 'Barbell', 'Kettlebell', 'Punching Bag']",4,45,Minor knee pain
+471,471,35,male,185.18,intermediate,skill_boxing,"['Punching Bag', 'Kettlebell', 'Resistance Band']",4,45,Minor knee pain
+472,472,36,male,183.96,beginner,endurance,"['Resistance Band', 'Barbell']",5,30,Minor knee pain
+473,473,53,female,176.62,intermediate,weight_loss,"['Resistance Band', 'Bodyweight', 'Punching Bag']",5,60,None
+474,474,36,male,186.63,intermediate,muscle_gain,"['Kettlebell', 'Resistance Band']",4,45,Minor knee pain
+475,475,50,male,189.35,beginner,skill_boxing,"['Dumbbell', 'Punching Bag']",4,45,Minor knee pain
+476,476,19,male,180.57,intermediate,skill_boxing,"['Dumbbell', 'Punching Bag']",5,60,None
+477,477,54,female,171.59,intermediate,general_fitness,"['Resistance Band', 'Barbell']",3,45,None
+478,478,54,male,168.36,beginner,weight_loss,['Barbell'],4,30,None
+479,479,44,male,162.67,intermediate,weight_loss,['Kettlebell'],4,60,None
+480,480,42,male,177.61,intermediate,weight_loss,['Barbell'],3,60,None
+481,481,20,female,155.21,beginner,general_fitness,['Punching Bag'],5,45,None
+482,482,25,male,171.97,advanced,weight_loss,"['Resistance Band', 'Kettlebell', 'Bodyweight']",4,60,None
+483,483,35,female,172.59,advanced,weight_loss,"['Bodyweight', 'Punching Bag', 'Dumbbell', 'Barbell']",5,30,Minor knee pain
+484,484,19,female,160.17,advanced,weight_loss,"['Barbell', 'Kettlebell', 'Resistance Band', 'Bodyweight']",4,30,None
+485,485,50,male,168.16,intermediate,weight_loss,"['Resistance Band', 'Kettlebell', 'Dumbbell', 'Bodyweight']",5,60,None
+486,486,27,female,175.91,beginner,weight_loss,['Bodyweight'],3,30,Minor knee pain
+487,487,18,female,184.32,intermediate,weight_loss,['Punching Bag'],3,60,None
+488,488,20,female,179.2,advanced,skill_boxing,"['Barbell', 'Dumbbell', 'Punching Bag']",5,45,Minor knee pain
+489,489,34,female,165.54,beginner,general_fitness,"['Resistance Band', 'Punching Bag']",5,30,None
+490,490,24,male,187.35,beginner,weight_loss,"['Resistance Band', 'Dumbbell']",4,45,None
+491,491,44,female,162.06,intermediate,weight_loss,['Bodyweight'],4,45,None
+492,492,22,female,188.74,intermediate,weight_loss,"['Kettlebell', 'Bodyweight', 'Resistance Band']",5,45,None
+493,493,56,female,160.22,intermediate,weight_loss,"['Resistance Band', 'Punching Bag', 'Bodyweight']",3,45,None
+494,494,48,female,164.46,beginner,muscle_gain,['Dumbbell'],4,45,Minor knee pain
+495,495,20,male,162.52,advanced,muscle_gain,"['Punching Bag', 'Resistance Band', 'Kettlebell', 'Barbell']",5,45,None
+496,496,39,male,151.47,beginner,general_fitness,"['Bodyweight', 'Barbell', 'Punching Bag', 'Resistance Band']",5,30,Minor knee pain
+497,497,26,male,170.38,intermediate,skill_boxing,"['Kettlebell', 'Barbell', 'Punching Bag']",5,45,None
+498,498,64,female,157.91,intermediate,weight_loss,"['Barbell', 'Bodyweight', 'Resistance Band', 'Dumbbell']",3,60,None
+499,499,64,female,155.44,intermediate,muscle_gain,"['Barbell', 'Kettlebell']",5,45,None
+500,500,23,female,161.98,intermediate,endurance,"['Kettlebell', 'Punching Bag', 'Dumbbell']",3,45,None
+501,501,32,female,166.08,intermediate,weight_loss,"['Resistance Band', 'Bodyweight']",4,60,None
+502,502,56,male,178.01,advanced,weight_loss,"['Kettlebell', 'Punching Bag']",4,30,None
+503,503,46,female,167.59,advanced,muscle_gain,"['Dumbbell', 'Punching Bag', 'Resistance Band']",5,30,Minor knee pain
+504,504,64,male,159.82,intermediate,weight_loss,"['Dumbbell', 'Kettlebell', 'Bodyweight']",4,60,None
+505,505,34,female,189.86,intermediate,weight_loss,"['Dumbbell', 'Resistance Band', 'Kettlebell', 'Punching Bag']",4,45,None
+506,506,41,male,182.03,intermediate,muscle_gain,"['Bodyweight', 'Punching Bag', 'Resistance Band']",5,30,None
+507,507,63,male,176.93,beginner,weight_loss,['Resistance Band'],3,60,Minor knee pain
+508,508,41,female,178.32,intermediate,endurance,"['Bodyweight', 'Barbell', 'Punching Bag', 'Dumbbell']",3,30,None
+509,509,60,male,151.37,intermediate,muscle_gain,"['Kettlebell', 'Barbell', 'Punching Bag', 'Bodyweight']",4,60,Minor knee pain
+510,510,36,male,151.89,beginner,endurance,"['Dumbbell', 'Bodyweight', 'Barbell', 'Kettlebell']",3,60,None
+511,511,65,male,178.7,advanced,muscle_gain,"['Barbell', 'Resistance Band']",3,45,Minor knee pain
+512,512,56,female,153.92,beginner,muscle_gain,"['Bodyweight', 'Dumbbell', 'Kettlebell']",4,60,None
+513,513,19,male,186.83,beginner,weight_loss,"['Punching Bag', 'Kettlebell', 'Dumbbell']",3,60,None
+514,514,36,female,174.08,beginner,general_fitness,"['Kettlebell', 'Barbell', 'Dumbbell']",4,60,None
+515,515,60,male,159.29,beginner,muscle_gain,"['Dumbbell', 'Punching Bag']",5,30,None
+516,516,20,female,173.73,intermediate,weight_loss,"['Resistance Band', 'Kettlebell']",3,45,None
+517,517,64,male,173.9,beginner,muscle_gain,"['Punching Bag', 'Barbell', 'Kettlebell']",4,45,Minor knee pain
+518,518,60,male,167.27,intermediate,muscle_gain,"['Bodyweight', 'Barbell']",5,30,Minor knee pain
+519,519,19,male,175.13,beginner,muscle_gain,"['Resistance Band', 'Punching Bag']",3,30,None
+520,520,61,female,154.52,advanced,skill_boxing,"['Barbell', 'Punching Bag']",4,45,None
+521,521,49,male,165.74,beginner,muscle_gain,"['Resistance Band', 'Punching Bag', 'Kettlebell']",3,45,Minor knee pain
+522,522,26,female,188.96,beginner,muscle_gain,"['Punching Bag', 'Kettlebell', 'Dumbbell']",5,45,None
+523,523,50,female,159.03,beginner,weight_loss,"['Barbell', 'Resistance Band', 'Bodyweight', 'Punching Bag']",3,60,None
+524,524,55,female,167.0,intermediate,muscle_gain,"['Dumbbell', 'Punching Bag', 'Resistance Band']",3,45,None
+525,525,33,male,156.17,beginner,weight_loss,"['Resistance Band', 'Barbell', 'Kettlebell']",5,45,None
+526,526,29,female,162.61,advanced,weight_loss,['Barbell'],5,30,None
+527,527,36,female,173.12,intermediate,endurance,"['Punching Bag', 'Barbell']",4,30,None
+528,528,54,male,160.48,beginner,muscle_gain,"['Bodyweight', 'Barbell', 'Punching Bag']",3,60,None
+529,529,37,male,159.85,intermediate,muscle_gain,"['Bodyweight', 'Dumbbell', 'Barbell']",4,60,None
+530,530,61,female,185.7,beginner,muscle_gain,"['Resistance Band', 'Bodyweight', 'Dumbbell', 'Punching Bag']",3,30,None
+531,531,36,female,186.46,beginner,muscle_gain,"['Kettlebell', 'Dumbbell', 'Barbell']",4,45,None
+532,532,49,male,178.71,intermediate,general_fitness,"['Kettlebell', 'Punching Bag', 'Dumbbell']",3,45,None
+533,533,20,female,155.11,beginner,weight_loss,['Barbell'],3,45,None
+534,534,63,female,188.3,intermediate,muscle_gain,"['Punching Bag', 'Resistance Band', 'Barbell']",3,30,Minor knee pain
+535,535,53,female,156.43,intermediate,muscle_gain,"['Resistance Band', 'Punching Bag']",5,45,None
+536,536,44,female,183.46,beginner,muscle_gain,"['Bodyweight', 'Punching Bag', 'Kettlebell', 'Resistance Band']",4,45,None
+537,537,61,female,182.13,advanced,skill_boxing,"['Bodyweight', 'Barbell', 'Punching Bag']",3,45,Minor knee pain
+538,538,56,male,167.28,beginner,weight_loss,['Dumbbell'],4,45,Minor knee pain
+539,539,55,female,184.32,intermediate,muscle_gain,"['Resistance Band', 'Punching Bag', 'Kettlebell']",3,60,None
+540,540,31,female,172.52,beginner,weight_loss,"['Resistance Band', 'Bodyweight', 'Kettlebell']",4,30,None
+541,541,46,male,175.44,intermediate,endurance,"['Dumbbell', 'Punching Bag', 'Bodyweight']",3,45,None
+542,542,51,male,179.97,beginner,weight_loss,"['Bodyweight', 'Punching Bag', 'Barbell']",3,30,None
+543,543,32,male,155.57,beginner,weight_loss,"['Resistance Band', 'Punching Bag', 'Bodyweight', 'Barbell']",5,45,Minor knee pain
+544,544,27,male,174.89,intermediate,weight_loss,"['Barbell', 'Punching Bag', 'Kettlebell', 'Bodyweight']",3,30,None
+545,545,25,male,178.09,intermediate,weight_loss,['Punching Bag'],3,30,None
+546,546,20,female,158.44,beginner,weight_loss,"['Kettlebell', 'Bodyweight', 'Resistance Band']",5,30,None
+547,547,52,male,187.34,intermediate,muscle_gain,"['Resistance Band', 'Dumbbell', 'Bodyweight']",4,60,None
+548,548,59,female,150.98,intermediate,endurance,"['Dumbbell', 'Barbell', 'Punching Bag']",4,30,None
+549,549,51,male,187.25,intermediate,weight_loss,"['Resistance Band', 'Bodyweight', 'Punching Bag', 'Barbell']",3,30,None
+550,550,34,female,167.56,advanced,muscle_gain,"['Resistance Band', 'Kettlebell', 'Barbell']",3,60,Minor knee pain
+551,551,43,female,181.34,intermediate,muscle_gain,"['Dumbbell', 'Bodyweight', 'Kettlebell']",5,45,None
+552,552,42,male,167.56,advanced,muscle_gain,"['Punching Bag', 'Bodyweight', 'Resistance Band']",5,30,Minor knee pain
+553,553,46,female,176.75,advanced,weight_loss,['Kettlebell'],4,45,None
+554,554,21,male,186.44,beginner,weight_loss,"['Kettlebell', 'Barbell']",4,45,None
+555,555,62,female,155.94,beginner,muscle_gain,"['Punching Bag', 'Resistance Band']",3,60,None
+556,556,42,female,188.01,advanced,endurance,['Resistance Band'],5,45,None
+557,557,50,male,159.03,beginner,general_fitness,"['Barbell', 'Punching Bag']",4,45,None
+558,558,29,male,167.47,advanced,weight_loss,['Bodyweight'],4,60,None
+559,559,40,male,183.82,beginner,weight_loss,"['Dumbbell', 'Kettlebell', 'Barbell', 'Resistance Band']",5,45,None
+560,560,34,male,151.48,beginner,weight_loss,['Kettlebell'],5,60,Minor knee pain
+561,561,25,male,163.99,intermediate,skill_boxing,"['Kettlebell', 'Barbell', 'Resistance Band', 'Punching Bag']",5,60,None
+562,562,27,male,156.06,beginner,weight_loss,"['Punching Bag', 'Bodyweight', 'Resistance Band']",5,60,Minor knee pain
+563,563,34,female,165.63,beginner,endurance,['Barbell'],3,60,None
+564,564,30,female,153.71,intermediate,endurance,"['Resistance Band', 'Dumbbell']",4,60,None
+565,565,20,female,181.95,advanced,skill_boxing,"['Punching Bag', 'Bodyweight']",5,45,Minor knee pain
+566,566,52,male,168.25,beginner,weight_loss,"['Kettlebell', 'Dumbbell']",5,30,None
+567,567,41,female,186.14,beginner,muscle_gain,"['Dumbbell', 'Punching Bag']",5,60,Minor knee pain
+568,568,35,male,172.92,beginner,general_fitness,['Barbell'],5,45,Minor knee pain
+569,569,49,male,153.45,intermediate,weight_loss,"['Kettlebell', 'Punching Bag']",3,30,None
+570,570,31,male,165.45,intermediate,endurance,"['Dumbbell', 'Kettlebell', 'Bodyweight', 'Resistance Band']",5,30,None
+571,571,45,male,172.4,intermediate,endurance,['Bodyweight'],3,45,None
+572,572,33,female,175.16,beginner,weight_loss,"['Punching Bag', 'Barbell', 'Bodyweight']",5,45,None
+573,573,56,female,166.72,beginner,muscle_gain,"['Punching Bag', 'Dumbbell', 'Kettlebell']",4,30,None
+574,574,63,female,164.42,intermediate,weight_loss,"['Punching Bag', 'Kettlebell', 'Barbell', 'Bodyweight']",3,60,None
+575,575,41,female,163.93,intermediate,weight_loss,"['Dumbbell', 'Bodyweight']",4,45,None
+576,576,40,female,180.99,beginner,weight_loss,"['Bodyweight', 'Resistance Band', 'Barbell', 'Kettlebell']",5,30,None
+577,577,40,male,153.61,advanced,general_fitness,"['Resistance Band', 'Bodyweight']",5,60,None
+578,578,18,male,171.48,intermediate,skill_boxing,"['Resistance Band', 'Dumbbell', 'Kettlebell', 'Bodyweight', 'Punching Bag']",3,30,None
+579,579,31,male,166.43,beginner,weight_loss,"['Barbell', 'Dumbbell', 'Kettlebell']",4,45,Minor knee pain
+580,580,27,male,152.36,beginner,muscle_gain,"['Resistance Band', 'Dumbbell', 'Barbell', 'Kettlebell']",3,45,None
+581,581,60,male,150.17,advanced,muscle_gain,"['Barbell', 'Dumbbell']",3,60,None
+582,582,57,male,157.2,beginner,muscle_gain,"['Resistance Band', 'Dumbbell', 'Punching Bag', 'Barbell']",3,30,None
+583,583,22,male,163.19,beginner,muscle_gain,"['Dumbbell', 'Resistance Band', 'Kettlebell', 'Punching Bag']",5,30,Minor knee pain
+584,584,36,male,185.63,advanced,general_fitness,"['Bodyweight', 'Kettlebell', 'Barbell', 'Dumbbell']",5,45,None
+585,585,63,male,173.69,intermediate,muscle_gain,"['Bodyweight', 'Punching Bag', 'Resistance Band']",5,30,None
+586,586,35,female,163.19,beginner,weight_loss,"['Barbell', 'Resistance Band']",3,45,None
+587,587,22,female,189.58,advanced,weight_loss,"['Bodyweight', 'Kettlebell', 'Barbell']",3,45,Minor knee pain
+588,588,18,female,151.99,intermediate,weight_loss,['Punching Bag'],5,60,None
+589,589,49,male,156.92,intermediate,muscle_gain,"['Bodyweight', 'Dumbbell', 'Barbell', 'Kettlebell']",4,60,Minor knee pain
+590,590,57,female,167.65,intermediate,weight_loss,"['Resistance Band', 'Kettlebell', 'Barbell', 'Dumbbell']",3,45,None
+591,591,33,male,152.66,beginner,muscle_gain,"['Bodyweight', 'Punching Bag', 'Kettlebell']",4,30,None
+592,592,62,male,180.88,beginner,skill_boxing,"['Punching Bag', 'Resistance Band', 'Kettlebell', 'Dumbbell']",5,60,None
+593,593,18,female,169.35,beginner,general_fitness,"['Dumbbell', 'Resistance Band', 'Punching Bag', 'Barbell']",4,45,None
+594,594,47,female,177.01,beginner,muscle_gain,"['Kettlebell', 'Resistance Band', 'Dumbbell']",5,45,None
+595,595,41,male,153.67,advanced,muscle_gain,"['Resistance Band', 'Punching Bag']",4,60,Minor knee pain
+596,596,48,female,183.1,beginner,general_fitness,"['Kettlebell', 'Punching Bag']",5,45,None
+597,597,55,female,189.3,beginner,muscle_gain,"['Kettlebell', 'Resistance Band', 'Bodyweight', 'Barbell']",3,60,None
+598,598,37,male,178.21,beginner,general_fitness,"['Resistance Band', 'Barbell', 'Punching Bag']",3,60,None
+599,599,41,female,168.45,advanced,muscle_gain,"['Kettlebell', 'Punching Bag', 'Bodyweight', 'Dumbbell']",4,45,None
+600,600,42,male,171.37,beginner,muscle_gain,"['Punching Bag', 'Dumbbell', 'Barbell', 'Resistance Band']",5,60,None
+601,601,20,female,156.36,intermediate,endurance,['Kettlebell'],3,60,None
+602,602,20,female,187.79,advanced,endurance,['Bodyweight'],5,45,None
+603,603,24,male,162.72,intermediate,weight_loss,"['Dumbbell', 'Punching Bag', 'Kettlebell']",4,45,None
+604,604,49,male,163.86,beginner,weight_loss,"['Bodyweight', 'Punching Bag']",4,30,Minor knee pain
+605,605,24,male,164.32,intermediate,weight_loss,"['Barbell', 'Resistance Band', 'Dumbbell', 'Punching Bag']",5,45,Minor knee pain
+606,606,27,female,168.07,intermediate,weight_loss,"['Punching Bag', 'Barbell', 'Resistance Band', 'Bodyweight']",5,30,None
+607,607,49,male,187.58,advanced,endurance,"['Kettlebell', 'Bodyweight', 'Punching Bag', 'Dumbbell']",5,60,None
+608,608,41,female,181.5,intermediate,general_fitness,"['Dumbbell', 'Kettlebell', 'Resistance Band']",4,45,Minor knee pain
+609,609,50,male,189.62,beginner,endurance,"['Kettlebell', 'Punching Bag', 'Bodyweight', 'Dumbbell']",3,60,None
+610,610,40,female,189.8,beginner,weight_loss,"['Kettlebell', 'Resistance Band', 'Bodyweight', 'Punching Bag']",4,60,Minor knee pain
+611,611,24,male,176.65,intermediate,muscle_gain,"['Resistance Band', 'Bodyweight']",3,30,None
+612,612,32,female,156.76,beginner,skill_boxing,"['Punching Bag', 'Kettlebell', 'Bodyweight']",5,45,None
+613,613,39,male,155.14,intermediate,skill_boxing,"['Resistance Band', 'Punching Bag']",3,30,Minor knee pain
+614,614,29,female,179.64,beginner,general_fitness,['Barbell'],5,60,Minor knee pain
+615,615,34,male,176.7,intermediate,endurance,"['Dumbbell', 'Resistance Band', 'Kettlebell', 'Punching Bag']",3,30,None
+616,616,35,male,154.51,intermediate,weight_loss,"['Kettlebell', 'Resistance Band', 'Barbell']",5,45,None
+617,617,22,female,181.79,intermediate,skill_boxing,"['Dumbbell', 'Punching Bag']",5,30,None
+618,618,28,male,189.79,beginner,muscle_gain,['Resistance Band'],3,45,None
+619,619,34,female,163.81,intermediate,general_fitness,"['Barbell', 'Dumbbell']",4,45,None
+620,620,45,male,187.46,intermediate,muscle_gain,"['Punching Bag', 'Resistance Band', 'Bodyweight']",3,60,None
+621,621,26,male,184.92,intermediate,endurance,['Kettlebell'],5,30,None
+622,622,64,male,189.2,beginner,skill_boxing,"['Barbell', 'Kettlebell', 'Dumbbell', 'Bodyweight', 'Punching Bag']",4,60,None
+623,623,29,male,172.91,beginner,muscle_gain,"['Resistance Band', 'Dumbbell']",5,30,None
+624,624,65,female,188.86,intermediate,endurance,"['Bodyweight', 'Kettlebell', 'Dumbbell']",5,60,None
+625,625,31,male,181.6,intermediate,muscle_gain,"['Punching Bag', 'Dumbbell']",3,30,None
+626,626,53,female,170.36,intermediate,general_fitness,"['Bodyweight', 'Barbell', 'Dumbbell', 'Resistance Band']",3,45,None
+627,627,49,female,188.14,beginner,skill_boxing,"['Barbell', 'Punching Bag']",3,60,None
+628,628,41,male,153.32,intermediate,weight_loss,['Kettlebell'],3,60,None
+629,629,60,male,174.61,intermediate,muscle_gain,['Resistance Band'],5,45,Minor knee pain
+630,630,64,female,166.42,intermediate,weight_loss,['Kettlebell'],3,30,None
+631,631,63,female,171.19,intermediate,general_fitness,"['Barbell', 'Bodyweight', 'Punching Bag', 'Kettlebell']",4,60,Minor knee pain
+632,632,31,male,167.24,intermediate,general_fitness,"['Kettlebell', 'Barbell']",4,60,None
+633,633,30,female,172.54,intermediate,weight_loss,"['Dumbbell', 'Barbell']",5,30,None
+634,634,39,female,184.07,intermediate,muscle_gain,"['Resistance Band', 'Dumbbell']",5,60,None
+635,635,65,male,171.2,intermediate,weight_loss,['Dumbbell'],5,60,None
+636,636,29,female,156.0,intermediate,skill_boxing,"['Resistance Band', 'Punching Bag', 'Kettlebell', 'Dumbbell']",4,60,None
+637,637,46,male,171.41,intermediate,muscle_gain,"['Dumbbell', 'Punching Bag', 'Barbell']",4,60,None
+638,638,31,male,159.93,intermediate,muscle_gain,"['Barbell', 'Kettlebell', 'Resistance Band']",3,60,None
+639,639,26,male,182.83,beginner,skill_boxing,"['Resistance Band', 'Barbell', 'Punching Bag', 'Bodyweight']",5,45,None
+640,640,24,female,175.6,beginner,skill_boxing,"['Resistance Band', 'Bodyweight', 'Kettlebell', 'Punching Bag']",4,60,None
+641,641,23,female,173.33,beginner,weight_loss,"['Resistance Band', 'Barbell', 'Bodyweight', 'Dumbbell']",4,45,None
+642,642,46,female,172.44,intermediate,weight_loss,['Dumbbell'],4,60,None
+643,643,46,female,154.12,beginner,general_fitness,"['Barbell', 'Bodyweight', 'Resistance Band', 'Dumbbell']",3,30,None
+644,644,23,male,187.17,beginner,weight_loss,['Dumbbell'],3,60,Minor knee pain
+645,645,45,male,169.04,intermediate,weight_loss,"['Dumbbell', 'Bodyweight', 'Punching Bag']",3,30,Minor knee pain
+646,646,51,male,153.72,intermediate,general_fitness,"['Dumbbell', 'Kettlebell', 'Bodyweight']",4,45,Minor knee pain
+647,647,47,female,189.01,beginner,skill_boxing,"['Kettlebell', 'Dumbbell', 'Bodyweight', 'Punching Bag']",5,45,None
+648,648,26,female,155.28,beginner,weight_loss,"['Bodyweight', 'Dumbbell', 'Kettlebell', 'Punching Bag']",3,30,Minor knee pain
+649,649,43,male,184.05,beginner,muscle_gain,['Resistance Band'],4,30,None
+650,650,28,female,157.07,beginner,weight_loss,['Kettlebell'],5,45,None
+651,651,56,male,168.99,beginner,endurance,"['Bodyweight', 'Resistance Band']",5,45,None
+652,652,30,female,156.68,beginner,endurance,"['Resistance Band', 'Kettlebell', 'Bodyweight', 'Dumbbell']",5,45,None
+653,653,58,male,169.54,beginner,muscle_gain,"['Punching Bag', 'Resistance Band']",5,30,None
+654,654,38,female,152.94,beginner,weight_loss,"['Dumbbell', 'Punching Bag', 'Bodyweight']",5,30,None
+655,655,36,male,186.44,advanced,muscle_gain,"['Kettlebell', 'Punching Bag', 'Barbell']",5,30,None
+656,656,44,male,167.9,intermediate,skill_boxing,"['Bodyweight', 'Barbell', 'Punching Bag']",5,30,None
+657,657,35,male,160.11,intermediate,muscle_gain,"['Punching Bag', 'Kettlebell']",4,45,None
+658,658,55,male,169.84,intermediate,skill_boxing,"['Barbell', 'Dumbbell', 'Resistance Band', 'Punching Bag']",3,60,None
+659,659,60,female,169.9,advanced,weight_loss,"['Barbell', 'Punching Bag']",4,45,None
+660,660,48,female,180.51,beginner,weight_loss,"['Kettlebell', 'Resistance Band', 'Punching Bag']",4,60,None
+661,661,46,male,176.17,beginner,muscle_gain,['Barbell'],3,60,None
+662,662,54,female,158.03,beginner,general_fitness,"['Bodyweight', 'Punching Bag', 'Resistance Band']",3,45,None
+663,663,61,female,186.39,intermediate,endurance,"['Resistance Band', 'Bodyweight', 'Punching Bag', 'Kettlebell']",5,30,None
+664,664,38,female,150.25,beginner,muscle_gain,"['Resistance Band', 'Punching Bag']",4,60,None
+665,665,46,male,176.2,beginner,muscle_gain,['Dumbbell'],3,60,None
+666,666,65,male,158.53,beginner,weight_loss,['Punching Bag'],3,45,Minor knee pain
+667,667,18,female,183.47,intermediate,muscle_gain,"['Barbell', 'Resistance Band']",5,45,None
+668,668,19,male,170.61,beginner,weight_loss,['Bodyweight'],5,60,None
+669,669,42,male,189.21,beginner,general_fitness,"['Bodyweight', 'Barbell']",4,60,None
+670,670,64,female,178.8,advanced,weight_loss,"['Punching Bag', 'Bodyweight', 'Kettlebell', 'Barbell']",4,45,None
+671,671,43,male,185.76,intermediate,weight_loss,"['Punching Bag', 'Bodyweight', 'Dumbbell', 'Resistance Band']",4,30,None
+672,672,27,male,186.2,beginner,weight_loss,"['Kettlebell', 'Resistance Band', 'Bodyweight', 'Punching Bag']",4,30,None
+673,673,39,male,177.73,intermediate,weight_loss,"['Bodyweight', 'Kettlebell', 'Barbell', 'Resistance Band']",5,30,None
+674,674,36,male,150.53,intermediate,endurance,"['Barbell', 'Punching Bag', 'Dumbbell']",3,60,None
+675,675,59,female,180.64,intermediate,skill_boxing,"['Punching Bag', 'Dumbbell']",5,30,None
+676,676,61,male,176.62,beginner,general_fitness,"['Punching Bag', 'Resistance Band']",3,30,None
+677,677,65,male,182.99,intermediate,weight_loss,"['Kettlebell', 'Bodyweight']",4,60,None
+678,678,48,female,150.27,beginner,muscle_gain,"['Kettlebell', 'Resistance Band']",5,30,Minor knee pain
+679,679,47,female,187.05,intermediate,endurance,['Punching Bag'],5,45,None
+680,680,28,female,181.89,beginner,endurance,"['Bodyweight', 'Resistance Band', 'Kettlebell']",4,45,None
+681,681,40,female,182.58,intermediate,weight_loss,"['Bodyweight', 'Kettlebell', 'Resistance Band', 'Dumbbell']",3,60,None
+682,682,32,female,151.54,intermediate,muscle_gain,"['Bodyweight', 'Barbell', 'Kettlebell']",5,60,None
+683,683,62,male,183.4,beginner,muscle_gain,"['Kettlebell', 'Bodyweight', 'Barbell', 'Dumbbell']",5,30,Minor knee pain
+684,684,50,male,165.93,beginner,weight_loss,['Bodyweight'],3,45,Minor knee pain
+685,685,49,male,158.65,intermediate,weight_loss,"['Barbell', 'Kettlebell', 'Bodyweight', 'Resistance Band']",5,45,Minor knee pain
+686,686,57,male,179.01,intermediate,general_fitness,"['Bodyweight', 'Resistance Band', 'Dumbbell', 'Barbell']",4,30,None
+687,687,65,male,178.88,beginner,muscle_gain,"['Kettlebell', 'Bodyweight', 'Dumbbell']",3,60,None
+688,688,60,female,157.77,intermediate,weight_loss,"['Resistance Band', 'Punching Bag', 'Bodyweight']",4,45,None
+689,689,50,female,188.25,intermediate,weight_loss,"['Kettlebell', 'Resistance Band', 'Bodyweight', 'Dumbbell']",5,60,None
+690,690,51,male,151.14,advanced,weight_loss,['Bodyweight'],5,60,None
+691,691,59,male,189.52,intermediate,general_fitness,['Punching Bag'],3,30,Minor knee pain
+692,692,28,male,185.64,beginner,weight_loss,['Barbell'],5,45,Minor knee pain
+693,693,58,male,150.14,beginner,endurance,['Dumbbell'],5,60,None
+694,694,31,female,170.71,advanced,endurance,['Kettlebell'],5,45,None
+695,695,34,male,168.91,beginner,weight_loss,"['Dumbbell', 'Punching Bag', 'Bodyweight', 'Resistance Band']",5,30,None
+696,696,56,male,167.45,beginner,general_fitness,['Barbell'],5,45,None
+697,697,45,male,186.65,beginner,endurance,"['Barbell', 'Bodyweight']",3,45,Minor knee pain
+698,698,58,female,174.92,beginner,muscle_gain,"['Barbell', 'Bodyweight', 'Dumbbell', 'Kettlebell']",3,45,None
+699,699,57,female,155.28,intermediate,weight_loss,"['Resistance Band', 'Bodyweight']",3,30,None
+700,700,48,male,183.33,intermediate,general_fitness,"['Resistance Band', 'Punching Bag']",4,60,None
+701,701,29,female,166.88,intermediate,skill_boxing,"['Bodyweight', 'Dumbbell', 'Barbell', 'Resistance Band', 'Punching Bag']",3,60,None
+702,702,50,female,176.68,beginner,muscle_gain,['Kettlebell'],3,45,None
+703,703,30,male,181.6,intermediate,skill_boxing,"['Resistance Band', 'Punching Bag']",3,60,None
+704,704,22,male,173.56,beginner,general_fitness,['Bodyweight'],3,60,None
+705,705,18,female,156.99,beginner,general_fitness,"['Punching Bag', 'Kettlebell']",5,60,Minor knee pain
+706,706,47,male,158.8,intermediate,endurance,"['Barbell', 'Punching Bag']",3,45,None
+707,707,53,female,164.21,intermediate,general_fitness,['Bodyweight'],3,30,None
+708,708,28,female,159.43,advanced,skill_boxing,"['Resistance Band', 'Dumbbell', 'Punching Bag']",3,30,None
+709,709,20,female,156.04,beginner,weight_loss,"['Bodyweight', 'Dumbbell', 'Barbell']",4,45,None
+710,710,43,female,159.25,intermediate,muscle_gain,['Barbell'],3,30,Minor knee pain
+711,711,30,female,188.71,beginner,general_fitness,"['Punching Bag', 'Barbell']",5,30,None
+712,712,23,male,176.82,beginner,weight_loss,"['Resistance Band', 'Barbell', 'Dumbbell', 'Punching Bag']",3,45,Minor knee pain
+713,713,48,female,166.16,beginner,general_fitness,"['Barbell', 'Kettlebell']",3,30,None
+714,714,53,female,161.79,beginner,skill_boxing,['Punching Bag'],4,60,None
+715,715,21,male,181.45,beginner,weight_loss,['Dumbbell'],3,30,None
+716,716,34,male,177.45,beginner,endurance,"['Barbell', 'Punching Bag', 'Dumbbell', 'Kettlebell']",3,45,Minor knee pain
+717,717,25,female,187.7,beginner,weight_loss,['Punching Bag'],4,30,Minor knee pain
+718,718,19,male,173.39,beginner,muscle_gain,"['Barbell', 'Dumbbell', 'Bodyweight']",5,45,Minor knee pain
+719,719,32,male,176.91,beginner,weight_loss,['Bodyweight'],3,60,None
+720,720,25,female,183.35,intermediate,muscle_gain,"['Punching Bag', 'Bodyweight', 'Barbell', 'Kettlebell']",4,60,Minor knee pain
+721,721,42,female,151.64,beginner,endurance,['Resistance Band'],4,30,None
+722,722,33,female,162.52,intermediate,weight_loss,"['Bodyweight', 'Resistance Band', 'Kettlebell']",5,60,None
+723,723,50,female,172.82,intermediate,weight_loss,"['Kettlebell', 'Resistance Band', 'Barbell', 'Dumbbell']",5,45,None
+724,724,21,female,150.91,intermediate,muscle_gain,"['Dumbbell', 'Barbell', 'Resistance Band']",5,30,None
+725,725,39,male,151.89,beginner,weight_loss,"['Punching Bag', 'Barbell', 'Bodyweight']",5,30,None
+726,726,18,male,153.09,intermediate,weight_loss,"['Resistance Band', 'Punching Bag']",5,45,None
+727,727,36,female,155.71,intermediate,skill_boxing,"['Barbell', 'Dumbbell', 'Bodyweight', 'Punching Bag']",3,30,None
+728,728,46,female,154.14,intermediate,general_fitness,['Bodyweight'],3,30,None
+729,729,37,female,171.55,beginner,muscle_gain,['Resistance Band'],5,60,None
+730,730,53,male,162.67,intermediate,weight_loss,"['Bodyweight', 'Punching Bag', 'Kettlebell']",4,45,None
+731,731,46,male,177.85,beginner,general_fitness,['Barbell'],4,45,None
+732,732,48,male,168.65,beginner,general_fitness,"['Dumbbell', 'Bodyweight']",4,60,Minor knee pain
+733,733,32,male,157.29,intermediate,endurance,"['Bodyweight', 'Kettlebell', 'Punching Bag', 'Dumbbell']",5,45,None
+734,734,44,male,180.54,beginner,weight_loss,"['Dumbbell', 'Kettlebell']",3,45,None
+735,735,47,male,175.46,intermediate,muscle_gain,"['Punching Bag', 'Kettlebell', 'Resistance Band', 'Bodyweight']",5,30,None
+736,736,27,female,187.36,beginner,weight_loss,"['Barbell', 'Resistance Band', 'Dumbbell', 'Kettlebell']",3,45,Minor knee pain
+737,737,31,male,181.46,intermediate,weight_loss,"['Bodyweight', 'Punching Bag', 'Resistance Band']",3,45,None
+738,738,56,male,179.76,beginner,muscle_gain,"['Dumbbell', 'Punching Bag', 'Resistance Band', 'Bodyweight']",5,30,Minor knee pain
+739,739,40,female,151.39,intermediate,weight_loss,"['Punching Bag', 'Kettlebell', 'Bodyweight', 'Resistance Band']",3,60,None
+740,740,49,male,176.89,intermediate,muscle_gain,"['Bodyweight', 'Dumbbell', 'Punching Bag']",5,45,None
+741,741,42,female,167.46,intermediate,muscle_gain,"['Barbell', 'Resistance Band', 'Dumbbell', 'Bodyweight']",5,45,None
+742,742,24,female,181.17,intermediate,muscle_gain,['Bodyweight'],4,30,None
+743,743,27,female,178.75,intermediate,general_fitness,"['Bodyweight', 'Barbell', 'Dumbbell', 'Resistance Band']",3,45,None
+744,744,25,female,164.12,intermediate,endurance,"['Barbell', 'Resistance Band', 'Kettlebell']",5,60,None
+745,745,45,female,169.37,intermediate,weight_loss,"['Resistance Band', 'Kettlebell']",4,30,Minor knee pain
+746,746,20,male,184.07,beginner,weight_loss,"['Punching Bag', 'Dumbbell', 'Bodyweight']",4,45,None
+747,747,45,male,169.35,beginner,muscle_gain,"['Punching Bag', 'Barbell']",3,60,None
+748,748,65,male,183.64,intermediate,weight_loss,['Resistance Band'],4,45,None
+749,749,18,female,177.21,intermediate,skill_boxing,"['Dumbbell', 'Punching Bag', 'Kettlebell', 'Bodyweight']",5,45,None
+750,750,46,male,185.33,beginner,skill_boxing,"['Barbell', 'Punching Bag']",4,60,None
+751,751,31,male,167.98,intermediate,weight_loss,"['Bodyweight', 'Barbell', 'Resistance Band', 'Dumbbell']",3,60,Minor knee pain
+752,752,31,female,176.5,beginner,weight_loss,"['Barbell', 'Dumbbell', 'Bodyweight']",4,60,Minor knee pain
+753,753,26,male,168.61,beginner,weight_loss,['Barbell'],3,60,None
+754,754,60,male,182.52,intermediate,muscle_gain,"['Resistance Band', 'Kettlebell', 'Bodyweight']",3,60,None
+755,755,53,male,183.28,beginner,weight_loss,['Kettlebell'],5,30,None
+756,756,20,female,150.62,intermediate,weight_loss,"['Bodyweight', 'Dumbbell']",5,60,Minor knee pain
+757,757,29,female,152.76,beginner,weight_loss,"['Bodyweight', 'Punching Bag']",3,45,None
+758,758,36,male,172.71,beginner,muscle_gain,"['Kettlebell', 'Punching Bag', 'Bodyweight']",3,30,None
+759,759,61,male,182.96,intermediate,muscle_gain,"['Barbell', 'Punching Bag', 'Kettlebell', 'Resistance Band']",4,45,None
+760,760,39,female,170.42,beginner,general_fitness,"['Bodyweight', 'Barbell']",4,30,None
+761,761,43,female,159.96,intermediate,general_fitness,"['Dumbbell', 'Bodyweight', 'Barbell', 'Kettlebell']",4,30,None
+762,762,53,female,168.88,intermediate,weight_loss,['Dumbbell'],5,60,None
+763,763,22,male,175.82,beginner,weight_loss,"['Dumbbell', 'Resistance Band']",4,60,None
+764,764,43,female,156.91,beginner,general_fitness,['Barbell'],4,45,None
+765,765,55,male,179.08,beginner,muscle_gain,"['Punching Bag', 'Kettlebell']",3,30,Minor knee pain
+766,766,40,male,174.66,advanced,endurance,"['Punching Bag', 'Bodyweight', 'Barbell']",3,60,None
+767,767,44,female,152.5,beginner,weight_loss,"['Punching Bag', 'Kettlebell']",4,45,None
+768,768,18,male,161.83,intermediate,muscle_gain,['Barbell'],5,45,Minor knee pain
+769,769,58,male,189.63,beginner,weight_loss,['Barbell'],4,45,None
+770,770,35,female,183.61,advanced,general_fitness,"['Punching Bag', 'Dumbbell', 'Barbell', 'Bodyweight']",4,60,None
+771,771,32,female,159.66,beginner,muscle_gain,"['Resistance Band', 'Punching Bag', 'Barbell', 'Bodyweight']",5,30,None
+772,772,63,male,154.36,intermediate,weight_loss,['Dumbbell'],4,60,None
+773,773,44,female,182.76,intermediate,general_fitness,['Kettlebell'],3,45,None
+774,774,63,male,175.13,advanced,muscle_gain,"['Punching Bag', 'Kettlebell', 'Bodyweight', 'Barbell']",3,60,None
+775,775,43,female,164.25,beginner,endurance,"['Resistance Band', 'Bodyweight']",5,60,Minor knee pain
+776,776,61,female,152.51,beginner,weight_loss,['Resistance Band'],5,60,Minor knee pain
+777,777,46,female,156.76,intermediate,weight_loss,"['Kettlebell', 'Bodyweight', 'Punching Bag']",3,60,Minor knee pain
+778,778,34,female,154.29,advanced,skill_boxing,"['Barbell', 'Bodyweight', 'Punching Bag', 'Dumbbell']",4,60,None
+779,779,18,female,157.31,beginner,weight_loss,"['Resistance Band', 'Bodyweight', 'Punching Bag']",4,45,None
+780,780,21,male,183.6,intermediate,weight_loss,"['Kettlebell', 'Resistance Band']",3,60,None
+781,781,65,male,158.82,beginner,muscle_gain,"['Punching Bag', 'Bodyweight']",4,45,None
+782,782,48,male,153.16,beginner,weight_loss,"['Dumbbell', 'Resistance Band', 'Bodyweight']",4,60,None
+783,783,63,female,178.59,beginner,weight_loss,"['Punching Bag', 'Dumbbell']",3,30,None
+784,784,52,male,151.49,beginner,muscle_gain,"['Resistance Band', 'Barbell', 'Kettlebell', 'Bodyweight']",5,45,None
+785,785,46,male,172.76,intermediate,weight_loss,"['Punching Bag', 'Dumbbell']",5,45,None
+786,786,50,female,152.51,beginner,muscle_gain,"['Bodyweight', 'Dumbbell', 'Punching Bag']",4,45,None
+787,787,63,male,160.11,advanced,muscle_gain,"['Barbell', 'Punching Bag', 'Bodyweight', 'Dumbbell']",3,30,None
+788,788,61,male,156.3,intermediate,muscle_gain,"['Kettlebell', 'Resistance Band', 'Punching Bag']",5,30,None
+789,789,24,female,180.99,beginner,general_fitness,"['Resistance Band', 'Bodyweight', 'Dumbbell']",5,45,None
+790,790,43,female,161.65,beginner,muscle_gain,"['Dumbbell', 'Kettlebell', 'Resistance Band']",3,45,Minor knee pain
+791,791,64,female,177.19,intermediate,endurance,"['Dumbbell', 'Kettlebell', 'Resistance Band', 'Barbell']",3,30,None
+792,792,54,female,189.14,intermediate,weight_loss,"['Bodyweight', 'Barbell', 'Resistance Band']",4,60,None
+793,793,57,female,183.33,intermediate,weight_loss,"['Punching Bag', 'Bodyweight', 'Kettlebell']",3,60,Minor knee pain
+794,794,55,male,172.39,intermediate,muscle_gain,"['Kettlebell', 'Punching Bag', 'Resistance Band']",5,30,None
+795,795,21,male,168.39,intermediate,muscle_gain,"['Dumbbell', 'Punching Bag', 'Barbell', 'Kettlebell']",3,45,None
+796,796,19,male,182.44,beginner,weight_loss,"['Kettlebell', 'Resistance Band']",4,45,None
+797,797,58,male,150.57,intermediate,muscle_gain,"['Barbell', 'Punching Bag', 'Dumbbell', 'Bodyweight']",4,45,None
+798,798,20,male,161.15,intermediate,general_fitness,"['Dumbbell', 'Bodyweight']",3,45,None
+799,799,19,male,161.63,intermediate,skill_boxing,"['Dumbbell', 'Punching Bag']",3,60,Minor knee pain
+800,800,25,male,152.42,beginner,weight_loss,"['Barbell', 'Bodyweight', 'Punching Bag']",5,60,None
+801,801,60,female,167.64,beginner,weight_loss,"['Punching Bag', 'Resistance Band', 'Kettlebell']",3,60,None
+802,802,27,female,167.58,beginner,muscle_gain,"['Barbell', 'Bodyweight', 'Punching Bag', 'Resistance Band']",4,45,None
+803,803,28,female,186.95,advanced,weight_loss,"['Dumbbell', 'Barbell', 'Bodyweight', 'Punching Bag']",5,45,None
+804,804,37,male,151.88,intermediate,muscle_gain,"['Bodyweight', 'Dumbbell']",3,30,Minor knee pain
+805,805,58,male,176.18,intermediate,weight_loss,"['Barbell', 'Kettlebell', 'Dumbbell']",4,45,None
+806,806,44,female,153.68,intermediate,muscle_gain,"['Punching Bag', 'Dumbbell', 'Resistance Band']",4,30,Minor knee pain
+807,807,64,male,172.58,advanced,general_fitness,['Resistance Band'],3,45,None
+808,808,56,male,153.66,beginner,weight_loss,"['Punching Bag', 'Bodyweight', 'Dumbbell', 'Barbell']",3,60,None
+809,809,36,male,163.52,beginner,general_fitness,"['Barbell', 'Resistance Band', 'Dumbbell']",3,45,None
+810,810,62,male,184.7,beginner,muscle_gain,"['Kettlebell', 'Dumbbell']",3,45,None
+811,811,50,male,179.36,intermediate,endurance,"['Kettlebell', 'Resistance Band', 'Dumbbell', 'Punching Bag']",4,45,Minor knee pain
+812,812,24,female,151.08,beginner,muscle_gain,"['Dumbbell', 'Barbell', 'Punching Bag', 'Kettlebell']",3,45,None
+813,813,64,female,159.37,intermediate,skill_boxing,"['Barbell', 'Punching Bag']",4,30,None
+814,814,20,male,164.48,advanced,weight_loss,"['Punching Bag', 'Barbell', 'Dumbbell', 'Kettlebell']",3,45,Minor knee pain
+815,815,50,male,184.47,intermediate,muscle_gain,['Punching Bag'],3,60,None
+816,816,42,male,180.54,intermediate,muscle_gain,['Punching Bag'],4,30,None
+817,817,61,male,187.36,beginner,weight_loss,['Punching Bag'],5,45,None
+818,818,53,female,154.7,beginner,muscle_gain,"['Dumbbell', 'Resistance Band', 'Kettlebell', 'Bodyweight']",3,60,Minor knee pain
+819,819,65,female,151.15,intermediate,weight_loss,"['Barbell', 'Punching Bag']",4,60,None
+820,820,61,female,156.94,intermediate,muscle_gain,"['Kettlebell', 'Barbell', 'Punching Bag']",3,60,None
+821,821,24,male,160.22,beginner,weight_loss,['Dumbbell'],3,60,None
+822,822,21,female,152.63,beginner,endurance,"['Barbell', 'Kettlebell', 'Resistance Band', 'Bodyweight']",4,60,None
+823,823,61,male,161.11,intermediate,skill_boxing,"['Punching Bag', 'Barbell', 'Dumbbell', 'Resistance Band']",4,30,None
+824,824,23,male,167.03,advanced,skill_boxing,"['Punching Bag', 'Dumbbell', 'Bodyweight']",3,45,None
+825,825,48,female,159.14,intermediate,general_fitness,"['Punching Bag', 'Bodyweight', 'Resistance Band']",5,45,None
+826,826,49,male,169.0,beginner,weight_loss,"['Barbell', 'Kettlebell']",3,45,None
+827,827,65,male,158.81,intermediate,weight_loss,"['Bodyweight', 'Barbell']",5,30,None
+828,828,32,male,170.41,advanced,weight_loss,"['Resistance Band', 'Punching Bag', 'Kettlebell']",3,30,Minor knee pain
+829,829,44,female,160.98,beginner,general_fitness,"['Bodyweight', 'Punching Bag', 'Kettlebell', 'Barbell']",5,45,None
+830,830,20,male,159.64,beginner,weight_loss,"['Punching Bag', 'Dumbbell', 'Kettlebell', 'Bodyweight']",3,60,None
+831,831,37,female,153.44,intermediate,skill_boxing,"['Barbell', 'Punching Bag']",5,60,Minor knee pain
+832,832,36,female,166.9,beginner,general_fitness,"['Bodyweight', 'Dumbbell']",3,60,None
+833,833,47,female,152.14,beginner,general_fitness,['Resistance Band'],5,60,Minor knee pain
+834,834,26,female,151.88,intermediate,endurance,"['Kettlebell', 'Bodyweight', 'Dumbbell', 'Resistance Band']",5,60,None
+835,835,56,male,155.86,beginner,weight_loss,"['Kettlebell', 'Punching Bag']",3,60,Minor knee pain
+836,836,39,female,174.22,intermediate,general_fitness,"['Barbell', 'Punching Bag', 'Kettlebell', 'Resistance Band']",3,45,None
+837,837,41,male,176.29,beginner,endurance,"['Punching Bag', 'Kettlebell']",3,60,None
+838,838,40,male,167.79,intermediate,endurance,"['Dumbbell', 'Resistance Band', 'Punching Bag', 'Kettlebell']",4,60,Minor knee pain
+839,839,38,male,162.33,beginner,weight_loss,['Bodyweight'],3,30,Minor knee pain
+840,840,53,male,171.53,beginner,skill_boxing,"['Dumbbell', 'Punching Bag']",4,60,None
+841,841,63,male,179.23,beginner,general_fitness,"['Kettlebell', 'Barbell', 'Resistance Band', 'Dumbbell']",4,30,None
+842,842,53,male,165.68,intermediate,endurance,"['Kettlebell', 'Punching Bag']",5,30,None
+843,843,27,female,169.81,beginner,muscle_gain,"['Punching Bag', 'Dumbbell']",3,30,Minor knee pain
+844,844,32,male,168.81,intermediate,weight_loss,"['Punching Bag', 'Barbell', 'Bodyweight', 'Resistance Band']",5,45,None
+845,845,52,male,173.49,beginner,muscle_gain,"['Kettlebell', 'Bodyweight', 'Barbell', 'Resistance Band']",3,30,Minor knee pain
+846,846,58,female,181.95,intermediate,weight_loss,"['Bodyweight', 'Dumbbell']",3,45,None
+847,847,54,male,151.73,beginner,muscle_gain,['Barbell'],4,30,None
+848,848,37,male,173.25,intermediate,muscle_gain,['Punching Bag'],3,60,None
+849,849,37,female,188.39,intermediate,skill_boxing,"['Punching Bag', 'Dumbbell', 'Resistance Band', 'Bodyweight']",5,60,None
+850,850,63,female,169.59,beginner,weight_loss,"['Dumbbell', 'Bodyweight', 'Kettlebell']",4,60,None
+851,851,62,female,163.79,beginner,muscle_gain,['Resistance Band'],3,60,None
+852,852,29,male,182.64,beginner,weight_loss,"['Barbell', 'Kettlebell', 'Dumbbell', 'Punching Bag']",4,45,None
+853,853,45,female,170.92,intermediate,weight_loss,"['Kettlebell', 'Resistance Band', 'Punching Bag', 'Barbell']",3,45,None
+854,854,59,female,185.73,beginner,weight_loss,['Resistance Band'],4,45,None
+855,855,61,female,160.19,beginner,weight_loss,"['Bodyweight', 'Punching Bag', 'Kettlebell']",5,60,None
+856,856,42,female,166.59,beginner,weight_loss,"['Bodyweight', 'Kettlebell', 'Punching Bag']",3,60,Minor knee pain
+857,857,58,male,183.51,beginner,weight_loss,"['Kettlebell', 'Resistance Band']",5,45,Minor knee pain
+858,858,55,male,152.23,intermediate,muscle_gain,"['Bodyweight', 'Dumbbell']",4,30,Minor knee pain
+859,859,44,female,177.6,intermediate,weight_loss,"['Bodyweight', 'Barbell']",4,60,None
+860,860,46,female,153.51,beginner,weight_loss,"['Bodyweight', 'Dumbbell']",3,30,None
+861,861,18,female,185.44,intermediate,endurance,"['Bodyweight', 'Kettlebell']",4,60,None
+862,862,30,male,152.1,beginner,endurance,"['Dumbbell', 'Bodyweight', 'Barbell']",3,45,None
+863,863,54,female,170.22,intermediate,weight_loss,"['Dumbbell', 'Resistance Band', 'Barbell']",3,45,None
+864,864,43,female,173.74,intermediate,weight_loss,"['Resistance Band', 'Dumbbell', 'Barbell', 'Kettlebell']",5,30,None
+865,865,42,male,174.37,beginner,endurance,"['Dumbbell', 'Punching Bag']",3,45,None
+866,866,26,male,157.94,beginner,skill_boxing,"['Barbell', 'Bodyweight', 'Kettlebell', 'Punching Bag']",3,45,Minor knee pain
+867,867,60,male,152.49,advanced,weight_loss,"['Kettlebell', 'Barbell']",5,45,None
+868,868,29,female,153.84,beginner,weight_loss,['Punching Bag'],4,30,None
+869,869,29,female,165.61,intermediate,weight_loss,['Bodyweight'],5,60,None
+870,870,62,male,161.34,intermediate,weight_loss,['Resistance Band'],4,30,None
+871,871,50,male,163.4,intermediate,general_fitness,"['Bodyweight', 'Dumbbell']",4,30,None
+872,872,58,male,177.63,beginner,muscle_gain,['Resistance Band'],3,60,None
+873,873,63,male,150.98,intermediate,endurance,"['Punching Bag', 'Kettlebell', 'Bodyweight', 'Barbell']",5,45,None
+874,874,26,male,175.95,beginner,muscle_gain,"['Kettlebell', 'Resistance Band', 'Punching Bag', 'Barbell']",4,45,None
+875,875,50,female,150.21,intermediate,weight_loss,"['Barbell', 'Punching Bag']",4,45,None
+876,876,65,female,178.96,beginner,muscle_gain,"['Kettlebell', 'Punching Bag', 'Bodyweight', 'Resistance Band']",3,30,Minor knee pain
+877,877,22,male,186.27,beginner,muscle_gain,['Bodyweight'],3,45,None
+878,878,54,female,171.55,intermediate,endurance,['Barbell'],5,45,None
+879,879,31,female,176.89,intermediate,muscle_gain,"['Kettlebell', 'Resistance Band', 'Dumbbell']",5,60,None
+880,880,40,female,177.82,advanced,weight_loss,"['Dumbbell', 'Punching Bag']",4,60,None
+881,881,25,female,187.9,advanced,muscle_gain,"['Dumbbell', 'Bodyweight', 'Resistance Band', 'Barbell']",4,60,None
+882,882,54,male,163.73,intermediate,weight_loss,"['Kettlebell', 'Bodyweight', 'Resistance Band']",5,30,None
+883,883,41,male,188.57,beginner,weight_loss,"['Punching Bag', 'Barbell', 'Kettlebell']",4,60,None
+884,884,31,female,150.5,intermediate,muscle_gain,"['Barbell', 'Punching Bag', 'Dumbbell']",5,45,Minor knee pain
+885,885,39,female,152.8,intermediate,muscle_gain,"['Barbell', 'Resistance Band']",5,45,Minor knee pain
+886,886,37,female,177.03,beginner,general_fitness,['Punching Bag'],3,60,Minor knee pain
+887,887,51,male,155.5,beginner,muscle_gain,"['Resistance Band', 'Kettlebell', 'Punching Bag', 'Bodyweight']",3,60,None
+888,888,25,male,168.82,beginner,weight_loss,"['Dumbbell', 'Punching Bag', 'Resistance Band', 'Barbell']",4,60,None
+889,889,22,male,161.89,beginner,muscle_gain,['Punching Bag'],4,30,Minor knee pain
+890,890,24,female,162.89,intermediate,endurance,['Resistance Band'],4,45,Minor knee pain
+891,891,54,male,176.82,intermediate,general_fitness,"['Punching Bag', 'Resistance Band', 'Dumbbell', 'Barbell']",3,45,None
+892,892,27,female,177.14,beginner,endurance,"['Punching Bag', 'Resistance Band']",5,45,None
+893,893,59,female,179.95,beginner,endurance,['Punching Bag'],5,45,None
+894,894,53,female,173.58,beginner,general_fitness,"['Barbell', 'Resistance Band', 'Punching Bag', 'Kettlebell']",4,30,None
+895,895,61,male,161.43,beginner,muscle_gain,['Resistance Band'],5,45,None
+896,896,45,female,169.82,beginner,weight_loss,['Kettlebell'],4,45,None
+897,897,24,male,171.77,beginner,muscle_gain,"['Kettlebell', 'Dumbbell', 'Resistance Band']",4,30,None
+898,898,43,male,189.68,intermediate,muscle_gain,['Dumbbell'],3,30,None
+899,899,43,male,171.65,intermediate,muscle_gain,"['Punching Bag', 'Bodyweight', 'Barbell']",5,30,None
+900,900,52,male,150.73,beginner,general_fitness,['Bodyweight'],5,45,None
+901,901,49,female,153.26,advanced,skill_boxing,"['Dumbbell', 'Punching Bag']",4,60,None
+902,902,55,female,156.22,beginner,muscle_gain,"['Dumbbell', 'Punching Bag', 'Resistance Band', 'Kettlebell']",4,45,None
+903,903,54,male,189.2,intermediate,weight_loss,"['Resistance Band', 'Punching Bag', 'Dumbbell']",4,60,None
+904,904,38,female,188.98,beginner,muscle_gain,['Dumbbell'],4,45,None
+905,905,52,female,165.85,intermediate,muscle_gain,"['Dumbbell', 'Barbell']",4,30,None
+906,906,33,male,159.82,beginner,endurance,['Dumbbell'],4,45,None
+907,907,42,male,160.16,beginner,weight_loss,['Punching Bag'],3,60,None
+908,908,37,male,180.14,beginner,weight_loss,['Barbell'],3,60,None
+909,909,51,male,172.17,beginner,endurance,"['Punching Bag', 'Barbell', 'Bodyweight']",3,45,None
+910,910,18,male,174.48,beginner,weight_loss,['Barbell'],4,30,None
+911,911,65,female,169.08,intermediate,endurance,"['Punching Bag', 'Bodyweight']",3,45,None
+912,912,63,male,178.23,beginner,muscle_gain,"['Dumbbell', 'Bodyweight', 'Punching Bag']",5,30,None
+913,913,42,male,178.64,intermediate,weight_loss,['Dumbbell'],4,60,None
+914,914,39,female,170.89,intermediate,general_fitness,"['Dumbbell', 'Kettlebell']",5,45,None
+915,915,62,female,161.47,intermediate,endurance,"['Bodyweight', 'Barbell', 'Punching Bag', 'Resistance Band']",3,60,Minor knee pain
+916,916,59,male,168.63,intermediate,endurance,['Resistance Band'],3,45,None
+917,917,28,male,171.87,beginner,weight_loss,['Barbell'],3,60,None
+918,918,35,male,152.41,beginner,muscle_gain,"['Punching Bag', 'Barbell']",5,30,None
+919,919,57,male,159.2,beginner,muscle_gain,['Resistance Band'],5,45,None
+920,920,35,male,152.71,beginner,endurance,"['Resistance Band', 'Barbell', 'Kettlebell', 'Punching Bag']",5,60,None
+921,921,26,male,179.57,beginner,endurance,"['Barbell', 'Bodyweight']",4,60,None
+922,922,36,female,171.87,intermediate,skill_boxing,"['Barbell', 'Resistance Band', 'Bodyweight', 'Punching Bag']",5,60,Minor knee pain
+923,923,32,male,153.32,beginner,weight_loss,"['Resistance Band', 'Kettlebell', 'Bodyweight', 'Dumbbell']",5,60,None
+924,924,21,female,177.29,beginner,general_fitness,"['Resistance Band', 'Bodyweight', 'Dumbbell', 'Barbell']",5,30,None
+925,925,58,female,188.23,beginner,general_fitness,['Punching Bag'],3,30,None
+926,926,59,female,162.05,beginner,endurance,"['Kettlebell', 'Dumbbell']",5,30,None
+927,927,37,female,181.26,beginner,muscle_gain,"['Dumbbell', 'Punching Bag']",5,30,Minor knee pain
+928,928,28,female,164.06,intermediate,weight_loss,['Bodyweight'],4,45,None
+929,929,41,male,170.52,beginner,skill_boxing,"['Barbell', 'Resistance Band', 'Dumbbell', 'Punching Bag']",3,45,None
+930,930,41,female,174.42,beginner,endurance,"['Dumbbell', 'Punching Bag', 'Bodyweight']",3,30,None
+931,931,36,female,150.3,intermediate,muscle_gain,"['Dumbbell', 'Resistance Band', 'Bodyweight', 'Kettlebell']",3,60,Minor knee pain
+932,932,24,female,151.09,beginner,muscle_gain,"['Kettlebell', 'Bodyweight', 'Dumbbell']",3,45,None
+933,933,47,male,189.73,beginner,muscle_gain,"['Kettlebell', 'Dumbbell', 'Punching Bag']",3,45,None
+934,934,61,male,173.14,advanced,weight_loss,['Kettlebell'],3,45,None
+935,935,45,female,171.5,intermediate,muscle_gain,['Resistance Band'],4,45,None
+936,936,43,male,160.93,beginner,general_fitness,"['Resistance Band', 'Bodyweight', 'Dumbbell', 'Barbell']",5,60,None
+937,937,59,male,150.41,beginner,weight_loss,"['Kettlebell', 'Bodyweight', 'Barbell', 'Punching Bag']",4,60,Minor knee pain
+938,938,33,female,186.17,intermediate,endurance,"['Barbell', 'Punching Bag', 'Bodyweight']",5,60,Minor knee pain
+939,939,65,male,174.39,intermediate,weight_loss,"['Dumbbell', 'Resistance Band', 'Punching Bag']",4,45,Minor knee pain
+940,940,21,female,163.57,intermediate,weight_loss,"['Bodyweight', 'Kettlebell']",4,60,None
+941,941,27,male,156.37,beginner,muscle_gain,['Barbell'],3,30,None
+942,942,48,male,158.26,beginner,weight_loss,"['Resistance Band', 'Bodyweight']",5,60,None
+943,943,26,male,186.98,intermediate,muscle_gain,['Punching Bag'],5,30,Minor knee pain
+944,944,51,male,176.86,beginner,general_fitness,"['Kettlebell', 'Barbell']",5,60,None
+945,945,56,female,172.97,beginner,weight_loss,"['Dumbbell', 'Resistance Band']",3,60,None
+946,946,34,male,155.64,intermediate,weight_loss,"['Bodyweight', 'Kettlebell', 'Punching Bag', 'Resistance Band']",5,60,Minor knee pain
+947,947,20,female,153.94,beginner,general_fitness,"['Barbell', 'Resistance Band']",5,60,None
+948,948,34,male,164.13,beginner,muscle_gain,"['Barbell', 'Bodyweight', 'Resistance Band', 'Kettlebell']",5,45,None
+949,949,18,male,153.26,intermediate,weight_loss,"['Bodyweight', 'Kettlebell', 'Dumbbell', 'Resistance Band']",5,45,None
+950,950,65,male,152.19,advanced,general_fitness,"['Punching Bag', 'Resistance Band']",5,30,Minor knee pain
+951,951,20,male,174.11,beginner,weight_loss,['Punching Bag'],4,30,Minor knee pain
+952,952,58,male,167.55,intermediate,weight_loss,"['Bodyweight', 'Barbell', 'Punching Bag', 'Resistance Band']",4,45,Minor knee pain
+953,953,65,male,186.0,intermediate,weight_loss,"['Kettlebell', 'Barbell', 'Bodyweight']",5,30,None
+954,954,24,female,189.39,intermediate,weight_loss,"['Dumbbell', 'Bodyweight']",4,30,None
+955,955,29,female,174.73,advanced,weight_loss,"['Kettlebell', 'Punching Bag', 'Barbell']",5,60,None
+956,956,27,female,182.58,advanced,muscle_gain,"['Dumbbell', 'Kettlebell']",4,45,None
+957,957,58,male,169.32,intermediate,muscle_gain,"['Punching Bag', 'Dumbbell', 'Resistance Band', 'Bodyweight']",5,60,Minor knee pain
+958,958,19,female,155.19,intermediate,muscle_gain,"['Punching Bag', 'Kettlebell', 'Resistance Band', 'Bodyweight']",5,60,Minor knee pain
+959,959,21,male,169.98,beginner,weight_loss,"['Dumbbell', 'Bodyweight', 'Punching Bag']",4,45,None
+960,960,25,male,189.26,intermediate,muscle_gain,['Barbell'],4,30,None
+961,961,51,male,152.08,beginner,weight_loss,"['Punching Bag', 'Bodyweight', 'Kettlebell', 'Resistance Band']",3,30,None
+962,962,23,female,165.06,beginner,skill_boxing,"['Bodyweight', 'Punching Bag']",3,60,None
+963,963,33,male,166.37,beginner,muscle_gain,['Bodyweight'],4,60,None
+964,964,62,male,179.29,intermediate,skill_boxing,"['Kettlebell', 'Punching Bag']",5,60,None
+965,965,45,male,159.09,beginner,muscle_gain,"['Bodyweight', 'Kettlebell', 'Barbell', 'Resistance Band']",4,45,None
+966,966,53,female,166.89,beginner,skill_boxing,"['Kettlebell', 'Punching Bag']",3,60,None
+967,967,64,male,152.95,intermediate,weight_loss,"['Resistance Band', 'Dumbbell', 'Barbell']",3,45,None
+968,968,43,female,184.88,beginner,muscle_gain,['Bodyweight'],4,45,None
+969,969,40,female,158.26,beginner,muscle_gain,['Resistance Band'],5,30,None
+970,970,62,female,160.72,beginner,weight_loss,['Dumbbell'],3,60,None
+971,971,60,male,188.72,beginner,weight_loss,"['Punching Bag', 'Resistance Band', 'Bodyweight']",4,45,None
+972,972,36,female,179.6,beginner,general_fitness,"['Barbell', 'Kettlebell', 'Bodyweight']",3,60,None
+973,973,59,male,151.9,beginner,skill_boxing,"['Kettlebell', 'Punching Bag']",4,60,None
+974,974,23,male,175.69,intermediate,muscle_gain,"['Punching Bag', 'Bodyweight', 'Kettlebell']",4,60,None
+975,975,51,male,187.22,beginner,muscle_gain,"['Barbell', 'Bodyweight', 'Punching Bag']",5,30,None
+976,976,38,female,189.44,intermediate,muscle_gain,"['Dumbbell', 'Punching Bag', 'Bodyweight']",5,30,None
+977,977,36,female,168.53,beginner,general_fitness,"['Punching Bag', 'Dumbbell', 'Resistance Band', 'Kettlebell']",4,45,Minor knee pain
+978,978,20,female,164.88,beginner,weight_loss,"['Bodyweight', 'Punching Bag', 'Dumbbell', 'Barbell']",4,30,None
+979,979,57,male,171.48,intermediate,general_fitness,"['Punching Bag', 'Bodyweight']",5,30,None
+980,980,50,female,165.17,beginner,endurance,"['Resistance Band', 'Kettlebell']",4,30,None
+981,981,52,female,154.39,intermediate,weight_loss,"['Dumbbell', 'Punching Bag', 'Barbell']",3,45,None
+982,982,57,female,158.66,intermediate,weight_loss,"['Punching Bag', 'Dumbbell', 'Resistance Band']",3,30,None
+983,983,21,male,156.74,advanced,weight_loss,"['Punching Bag', 'Kettlebell', 'Resistance Band', 'Bodyweight']",3,60,Minor knee pain
+984,984,18,female,161.3,beginner,general_fitness,"['Dumbbell', 'Barbell', 'Kettlebell', 'Resistance Band']",5,60,None
+985,985,54,male,174.15,beginner,weight_loss,['Bodyweight'],5,60,Minor knee pain
+986,986,53,male,181.82,beginner,muscle_gain,"['Dumbbell', 'Punching Bag', 'Kettlebell']",3,30,None
+987,987,63,female,161.58,beginner,muscle_gain,"['Bodyweight', 'Resistance Band', 'Barbell', 'Dumbbell']",5,45,None
+988,988,47,female,181.43,beginner,endurance,"['Barbell', 'Dumbbell', 'Punching Bag', 'Kettlebell']",4,60,Minor knee pain
+989,989,32,female,150.45,beginner,muscle_gain,"['Resistance Band', 'Bodyweight']",5,45,None
+990,990,31,female,161.37,intermediate,muscle_gain,"['Kettlebell', 'Punching Bag', 'Barbell', 'Dumbbell']",4,45,None
+991,991,23,female,154.66,beginner,muscle_gain,['Bodyweight'],5,30,None
+992,992,40,male,177.36,beginner,endurance,['Barbell'],4,60,Minor knee pain
+993,993,40,female,153.85,advanced,weight_loss,"['Barbell', 'Resistance Band', 'Punching Bag', 'Bodyweight']",3,60,None
+994,994,51,male,156.42,beginner,general_fitness,"['Bodyweight', 'Barbell', 'Kettlebell', 'Resistance Band']",3,30,Minor knee pain
+995,995,53,male,171.82,intermediate,muscle_gain,"['Dumbbell', 'Bodyweight']",5,30,Minor knee pain
+996,996,56,female,182.2,intermediate,muscle_gain,"['Bodyweight', 'Kettlebell']",3,30,Minor knee pain
+997,997,29,female,170.02,intermediate,muscle_gain,"['Dumbbell', 'Bodyweight', 'Kettlebell', 'Barbell']",5,30,None
+998,998,25,female,175.5,beginner,general_fitness,['Dumbbell'],5,45,None
+999,999,55,female,173.18,beginner,weight_loss,['Kettlebell'],3,30,None
+1000,1000,50,male,157.74,intermediate,muscle_gain,['Resistance Band'],4,30,None
