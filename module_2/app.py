@@ -341,4 +341,4 @@ def reset_stats():
     return jsonify(result)
 
 if __name__ == '__main__':
-    app.run(debug=True, host='0.0.0.0', threaded=True)
+    app.run(host="127.0.0.1", port=5000,debug=True)
