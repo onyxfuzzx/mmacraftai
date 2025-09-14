@@ -1,0 +1,30 @@
+{% extends "base.html" %}
+
+{% block content %}
+<div class="form-container">
+    <h2>Select Two Fighters</h2>
+    <form action="/predict" method="post">
+        <div class="form-group">
+            <label for="fighter_a">Fighter 1:</label>
+            <select id="fighter_a" name="fighter_a" required>
+                <option value="">Select a fighter</option>
+                {% for fighter in fighters %}
+                <option value="{{ fighter }}">{{ fighter }}</option>
+                {% endfor %}
+            </select>
+        </div>
+        
+        <div class="form-group">
+            <label for="fighter_b">Fighter 2:</label>
+            <select id="fighter_b" name="fighter_b" required>
+                <option value="">Select a fighter</option>
+                {% for fighter in fighters %}
+                <option value="{{ fighter }}">{{ fighter }}</option>
+                {% endfor %}
+            </select>
+        </div>
+        
+        <button type="submit">Predict Winner</button>
+    </form>
+</div>
+{% endblock %}

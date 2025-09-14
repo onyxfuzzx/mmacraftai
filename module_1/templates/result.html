@@ -1,0 +1,52 @@
+<!DOCTYPE html>
+<html lang="en">
+<head>
+    <meta charset="UTF-8">
+    <meta name="viewport" content="width=device-width, initial-scale=1.0">
+    <title>Your Training Plan - FightFitAI</title>
+    <link rel="stylesheet" href="{{ url_for('static', filename='style.css') }}">
+</head>
+<body>
+    <div class="container">
+        <h1>Your Personalized Training Plan</h1>
+        
+        <div class="bmi-section">
+            <h2>Your BMI: {{ results.bmi }}</h2>
+        </div>
+        
+        <div class="results-grid">
+            <div class="result-card">
+                <h3>Cardio Endurance</h3>
+                <p>{{ results.cardio }} sessions/month</p>
+            </div>
+            
+            <div class="result-card">
+                <h3>Skill Drills</h3>
+                <p>{{ results.skill }} sessions/month</p>
+            </div>
+            
+            <div class="result-card">
+                <h3>Strength Conditioning</h3>
+                <p>{{ results.strength }} sessions/month</p>
+            </div>
+            
+            <div class="result-card">
+                <h3>Agility & Mobility</h3>
+                <p>{{ results.agility }} sessions/month</p>
+            </div>
+            
+            <div class="result-card">
+                <h3>Recovery</h3>
+                <p>{{ results.recovery }} sessions/month</p>
+            </div>
+            
+            <div class="result-card">
+                <h3>Program Duration</h3>
+                <p>{{ results.duration }} months</p>
+            </div>
+        </div>
+        
+        <a href="/" class="back-button">Start Over</a>
+    </div>
+</body>
+</html>

@@ -1,0 +1,1001 @@
+Age,Gender,Height_cm,Weight_kg,BMI,Experience,Goal,Injury_History,Cardio_Endurance,Skill_Drills,Strength_Conditioning,Agility_Mobility,Recovery,Goal_Duration_Months
+24,Female,178,64,20.2,Beginner,Competition Prep,No,5,13,5,3,4,3
+38,Female,188,107,30.3,Beginner,Muscle Gain,Yes,4,6,9,5,6,9
+28,Female,173,102,34.1,Intermediate,Muscle Gain,Yes,5,5,9,5,6,9
+39,Male,151,73,32.0,Pro,Fight Conditioning,No,8,10,7,3,2,7
+23,Female,151,109,47.8,Pro,Flexibility,No,4,9,5,7,5,4
+29,Female,171,93,31.8,Beginner,Competition Prep,Yes,5,11,4,4,6,3
+27,Male,177,109,34.8,Beginner,Fight Conditioning,No,7,11,5,3,4,7
+32,Female,193,104,27.9,Intermediate,Endurance,No,14,7,4,3,2,6
+20,Male,186,100,28.9,Intermediate,Weight Loss,No,12,8,4,3,3,5
+24,Male,167,53,19.0,Pro,Flexibility,Yes,4,8,3,8,7,7
+31,Female,158,75,30.0,Intermediate,Endurance,No,14,7,4,3,2,7
+37,Male,177,96,30.6,Intermediate,Competition Prep,Yes,6,11,4,5,4,5
+29,Female,157,96,38.9,Advanced,Endurance,No,12,7,5,3,3,7
+34,Male,185,99,28.9,Beginner,Flexibility,No,4,9,4,7,6,5
+23,Female,191,53,14.5,Pro,Weight Loss,No,11,9,5,3,2,5
+35,Male,175,93,30.4,Pro,Endurance,Yes,12,6,3,4,5,7
+21,Female,163,80,30.1,Advanced,Muscle Gain,Yes,3,6,10,5,6,10
+25,Male,170,65,22.5,Beginner,Fight Conditioning,No,7,11,5,3,4,7
+32,Female,173,75,25.1,Beginner,Endurance,Yes,12,6,2,4,6,6
+26,Female,178,64,20.2,Advanced,Competition Prep,Yes,5,11,5,4,5,3
+24,Female,158,73,29.2,Advanced,Flexibility,Yes,3,8,3,9,7,7
+25,Male,173,60,20.0,Beginner,Flexibility,No,4,9,4,7,6,4
+25,Male,184,84,24.8,Pro,Weight Loss,Yes,11,8,3,4,4,5
+22,Female,191,88,24.1,Advanced,Muscle Gain,No,4,7,12,4,3,7
+24,Female,158,57,22.8,Advanced,Flexibility,Yes,3,8,3,9,7,5
+18,Female,172,73,24.7,Intermediate,Flexibility,Yes,5,7,2,9,7,6
+29,Male,189,71,19.9,Intermediate,Muscle Gain,Yes,5,5,9,5,6,9
+18,Male,184,86,25.4,Advanced,Muscle Gain,Yes,3,6,10,5,6,9
+18,Female,154,75,31.6,Pro,Endurance,Yes,12,6,3,4,5,8
+26,Female,164,64,23.8,Advanced,Endurance,Yes,12,6,3,4,5,7
+30,Female,181,88,26.9,Advanced,Muscle Gain,No,4,7,12,4,3,10
+21,Male,179,86,26.8,Advanced,Fight Conditioning,Yes,7,9,5,4,5,8
+28,Female,178,85,26.8,Beginner,Endurance,No,13,7,4,3,3,8
+36,Female,171,77,26.3,Intermediate,Competition Prep,No,7,12,6,3,2,4
+30,Male,155,77,32.0,Advanced,Weight Loss,Yes,10,8,3,4,5,6
+29,Male,169,79,27.7,Beginner,Fight Conditioning,No,7,11,5,3,4,8
+24,Male,182,50,15.1,Pro,Endurance,Yes,12,6,3,4,5,8
+37,Male,162,90,34.3,Pro,Flexibility,No,4,9,5,7,5,6
+23,Male,157,76,30.8,Pro,Competition Prep,Yes,6,11,5,4,4,4
+22,Female,182,100,30.2,Beginner,Fight Conditioning,No,7,11,5,3,4,9
+32,Female,181,81,24.7,Pro,Fight Conditioning,No,8,10,7,3,2,9
+34,Male,161,88,33.9,Intermediate,Endurance,Yes,14,5,2,5,4,8
+34,Female,186,98,28.3,Intermediate,Endurance,Yes,14,5,2,5,4,8
+34,Male,151,51,22.4,Intermediate,Endurance,No,14,7,4,3,2,7
+22,Female,181,82,25.0,Intermediate,Flexibility,No,5,8,4,8,5,6
+19,Male,193,75,20.1,Intermediate,Fight Conditioning,Yes,8,9,4,5,4,9
+21,Male,160,105,41.0,Beginner,Flexibility,Yes,4,8,2,9,7,4
+23,Female,173,54,18.0,Pro,Flexibility,Yes,4,8,3,8,7,5
+23,Male,171,60,20.5,Beginner,Endurance,No,13,7,4,3,3,6
+23,Male,165,78,28.7,Pro,Competition Prep,No,6,12,7,3,2,5
+21,Female,168,75,26.6,Intermediate,Endurance,Yes,14,5,2,5,4,8
+36,Female,169,81,28.4,Intermediate,Muscle Gain,Yes,5,5,9,5,6,7
+18,Female,189,88,24.6,Intermediate,Flexibility,Yes,5,7,2,9,7,7
+18,Female,160,77,30.1,Beginner,Endurance,Yes,12,6,2,4,6,6
+35,Male,172,80,27.0,Intermediate,Weight Loss,Yes,12,7,2,5,4,6
+20,Male,156,109,44.8,Beginner,Endurance,Yes,12,6,2,4,6,6
+37,Female,151,50,21.9,Advanced,Flexibility,No,4,9,5,7,5,7
+22,Male,186,81,23.4,Pro,Fight Conditioning,No,8,10,7,3,2,8
+26,Female,190,84,23.3,Advanced,Endurance,Yes,12,6,3,4,5,8
+37,Male,173,103,34.4,Intermediate,Flexibility,No,5,8,4,8,5,7
+37,Male,160,98,38.3,Intermediate,Endurance,No,14,7,4,3,2,7
+25,Male,169,84,29.4,Pro,Muscle Gain,Yes,4,6,10,5,5,7
+20,Male,174,78,25.8,Beginner,Muscle Gain,No,4,7,11,4,4,12
+35,Male,151,103,45.2,Beginner,Weight Loss,No,11,9,4,3,3,6
+26,Female,185,82,24.0,Pro,Fight Conditioning,Yes,8,9,5,4,4,6
+31,Male,170,97,33.6,Intermediate,Weight Loss,No,12,8,4,3,3,6
+25,Female,156,52,21.4,Beginner,Muscle Gain,No,4,7,11,4,4,7
+33,Male,161,108,41.7,Pro,Fight Conditioning,No,8,10,7,3,2,7
+39,Male,179,87,27.2,Pro,Endurance,Yes,12,6,3,4,5,6
+36,Male,157,76,30.8,Pro,Endurance,No,13,7,5,3,2,7
+38,Male,179,82,25.6,Intermediate,Muscle Gain,Yes,5,5,9,5,6,7
+22,Male,168,53,18.8,Intermediate,Muscle Gain,No,5,7,11,4,3,7
+34,Male,193,77,20.7,Advanced,Flexibility,No,4,9,5,7,5,4
+31,Male,155,84,35.0,Pro,Fight Conditioning,Yes,8,9,5,4,4,6
+22,Male,173,78,26.1,Pro,Weight Loss,Yes,11,8,3,4,4,6
+38,Female,180,84,25.9,Beginner,Competition Prep,Yes,5,11,4,4,6,3
+37,Female,170,81,28.0,Advanced,Competition Prep,Yes,5,11,5,4,5,5
+35,Male,174,91,30.1,Intermediate,Fight Conditioning,No,8,10,6,3,3,7
+20,Female,189,95,26.6,Beginner,Flexibility,No,4,9,4,7,6,7
+32,Female,171,72,24.6,Pro,Weight Loss,No,11,9,5,3,2,5
+27,Male,151,75,32.9,Beginner,Muscle Gain,Yes,4,6,9,5,6,7
+26,Male,192,103,27.9,Intermediate,Flexibility,Yes,5,7,2,9,7,5
+20,Male,174,73,24.1,Pro,Fight Conditioning,No,8,10,7,3,2,9
+24,Female,185,94,27.5,Beginner,Flexibility,Yes,4,8,2,9,7,4
+25,Male,165,63,23.1,Advanced,Muscle Gain,Yes,3,6,10,5,6,9
+32,Female,177,83,26.5,Pro,Competition Prep,Yes,6,11,5,4,4,5
+39,Female,174,107,35.3,Advanced,Muscle Gain,Yes,3,6,10,5,6,11
+39,Male,171,98,33.5,Intermediate,Fight Conditioning,No,8,10,6,3,3,7
+23,Female,164,103,38.3,Beginner,Endurance,Yes,12,6,2,4,6,6
+18,Female,157,102,41.4,Advanced,Endurance,Yes,12,6,3,4,5,6
+24,Male,153,55,23.5,Intermediate,Flexibility,No,5,8,4,8,5,7
+37,Female,179,96,30.0,Beginner,Competition Prep,Yes,5,11,4,4,6,5
+25,Male,165,62,22.8,Beginner,Flexibility,Yes,4,8,2,9,7,7
+27,Male,179,68,21.2,Intermediate,Flexibility,No,5,8,4,8,5,7
+36,Female,177,107,34.2,Pro,Competition Prep,No,6,12,7,3,2,3
+38,Female,172,58,19.6,Advanced,Fight Conditioning,Yes,7,9,5,4,5,6
+18,Female,150,96,42.7,Advanced,Weight Loss,No,11,9,5,3,2,6
+39,Male,174,89,29.4,Pro,Competition Prep,Yes,6,11,5,4,4,3
+18,Female,165,88,32.3,Pro,Fight Conditioning,Yes,8,9,5,4,4,7
+20,Male,161,75,28.9,Beginner,Weight Loss,Yes,11,8,2,4,5,5
+39,Female,178,63,19.9,Intermediate,Competition Prep,No,7,12,6,3,2,3
+32,Female,179,95,29.6,Intermediate,Endurance,No,14,7,4,3,2,6
+29,Female,165,75,27.5,Advanced,Muscle Gain,Yes,3,6,10,5,6,11
+24,Female,185,82,24.0,Intermediate,Muscle Gain,Yes,5,5,9,5,6,12
+22,Female,172,107,36.2,Intermediate,Fight Conditioning,No,8,10,6,3,3,7
+22,Male,185,83,24.3,Beginner,Weight Loss,No,11,9,4,3,3,5
+27,Female,168,107,37.9,Advanced,Fight Conditioning,No,7,11,7,3,2,9
+22,Male,194,53,14.1,Pro,Fight Conditioning,No,8,10,7,3,2,6
+37,Male,173,61,20.4,Advanced,Fight Conditioning,No,7,11,7,3,2,8
+18,Female,182,100,30.2,Pro,Muscle Gain,No,4,7,12,3,4,11
+29,Male,152,50,21.6,Advanced,Fight Conditioning,No,7,11,7,3,2,9
+27,Male,192,93,25.2,Intermediate,Flexibility,Yes,5,7,2,9,7,4
+29,Female,180,95,29.3,Advanced,Weight Loss,Yes,10,8,3,4,5,5
+36,Female,184,72,21.3,Pro,Flexibility,No,4,9,5,7,5,5
+25,Male,178,75,23.7,Advanced,Weight Loss,No,11,9,5,3,2,6
+19,Male,190,56,15.5,Pro,Weight Loss,No,11,9,5,3,2,6
+38,Female,194,60,15.9,Advanced,Fight Conditioning,No,7,11,7,3,2,9
+21,Female,174,70,23.1,Pro,Flexibility,Yes,4,8,3,8,7,4
+21,Male,159,86,34.0,Beginner,Flexibility,No,4,9,4,7,6,7
+20,Female,184,97,28.7,Intermediate,Fight Conditioning,No,8,10,6,3,3,7
+34,Female,188,81,22.9,Advanced,Competition Prep,No,5,12,7,3,3,3
+29,Male,162,72,27.4,Advanced,Fight Conditioning,No,7,11,7,3,2,8
+26,Female,179,66,20.6,Intermediate,Weight Loss,No,12,8,4,3,3,6
+37,Female,174,71,23.5,Intermediate,Muscle Gain,Yes,5,5,9,5,6,9
+36,Female,185,61,17.8,Pro,Flexibility,No,4,9,5,7,5,4
+36,Male,161,58,22.4,Beginner,Endurance,Yes,12,6,2,4,6,7
+37,Female,168,107,37.9,Advanced,Flexibility,No,4,9,5,7,5,4
+20,Male,161,74,28.5,Intermediate,Endurance,Yes,14,5,2,5,4,8
+38,Female,185,102,29.8,Intermediate,Weight Loss,No,12,8,4,3,3,5
+30,Male,191,107,29.3,Advanced,Endurance,No,12,7,5,3,3,8
+22,Female,184,72,21.3,Intermediate,Competition Prep,Yes,6,11,4,5,4,5
+28,Male,167,96,34.4,Beginner,Competition Prep,Yes,5,11,4,4,6,3
+27,Male,193,66,17.7,Pro,Competition Prep,Yes,6,11,5,4,4,4
+24,Male,162,89,33.9,Beginner,Fight Conditioning,Yes,7,10,4,4,5,6
+35,Male,176,107,34.5,Beginner,Flexibility,No,4,9,4,7,6,4
+22,Female,187,68,19.4,Advanced,Endurance,No,12,7,5,3,3,6
+39,Female,166,56,20.3,Beginner,Muscle Gain,Yes,4,6,9,5,6,11
+21,Male,185,55,16.1,Advanced,Muscle Gain,No,4,7,12,4,3,9
+29,Female,188,76,21.5,Intermediate,Fight Conditioning,Yes,8,9,4,5,4,7
+36,Male,188,52,14.7,Intermediate,Fight Conditioning,No,8,10,6,3,3,6
+35,Male,177,107,34.2,Intermediate,Fight Conditioning,Yes,8,9,4,5,4,9
+25,Female,190,88,24.4,Intermediate,Flexibility,No,5,8,4,8,5,6
+30,Female,177,106,33.8,Advanced,Flexibility,Yes,3,8,3,9,7,4
+18,Male,187,102,29.2,Intermediate,Competition Prep,Yes,6,11,4,5,4,4
+29,Female,194,81,21.5,Pro,Endurance,Yes,12,6,3,4,5,6
+32,Female,170,65,22.5,Advanced,Endurance,Yes,12,6,3,4,5,6
+28,Male,186,85,24.6,Beginner,Weight Loss,Yes,11,8,2,4,5,5
+37,Female,167,96,34.4,Advanced,Weight Loss,Yes,10,8,3,4,5,5
+31,Female,164,80,29.7,Beginner,Weight Loss,Yes,11,8,2,4,5,5
+39,Female,152,65,28.1,Pro,Weight Loss,Yes,11,8,3,4,4,5
+29,Female,159,81,32.0,Pro,Muscle Gain,Yes,4,6,10,5,5,10
+38,Female,157,107,43.4,Pro,Fight Conditioning,No,8,10,7,3,2,9
+25,Female,177,77,24.6,Advanced,Flexibility,Yes,3,8,3,9,7,4
+21,Male,176,103,33.3,Pro,Weight Loss,No,11,9,5,3,2,5
+18,Male,169,62,21.7,Intermediate,Flexibility,No,5,8,4,8,5,7
+30,Female,184,55,16.2,Intermediate,Flexibility,No,5,8,4,8,5,6
+22,Male,174,51,16.8,Advanced,Flexibility,No,4,9,5,7,5,7
+35,Female,194,54,14.3,Pro,Weight Loss,Yes,11,8,3,4,4,6
+18,Male,167,81,29.0,Advanced,Flexibility,No,4,9,5,7,5,6
+38,Male,175,74,24.2,Pro,Muscle Gain,No,4,7,12,3,4,9
+34,Male,162,82,31.2,Advanced,Endurance,No,12,7,5,3,3,6
+20,Female,150,70,31.1,Advanced,Endurance,Yes,12,6,3,4,5,6
+22,Male,180,54,16.7,Advanced,Weight Loss,Yes,10,8,3,4,5,5
+38,Male,172,86,29.1,Beginner,Endurance,No,13,7,4,3,3,6
+27,Male,159,68,26.9,Advanced,Fight Conditioning,No,7,11,7,3,2,6
+31,Male,158,95,38.1,Intermediate,Endurance,No,14,7,4,3,2,8
+30,Female,162,53,20.2,Beginner,Weight Loss,Yes,11,8,2,4,5,5
+34,Male,189,81,22.7,Beginner,Fight Conditioning,Yes,7,10,4,4,5,9
+25,Male,188,75,21.2,Beginner,Competition Prep,Yes,5,11,4,4,6,4
+39,Female,152,108,46.7,Intermediate,Endurance,Yes,14,5,2,5,4,6
+39,Female,193,54,14.5,Pro,Endurance,Yes,12,6,3,4,5,7
+34,Female,172,64,21.6,Beginner,Weight Loss,Yes,11,8,2,4,5,5
+31,Female,151,60,26.3,Pro,Flexibility,No,4,9,5,7,5,6
+23,Male,183,87,26.0,Advanced,Weight Loss,No,11,9,5,3,2,6
+35,Female,179,64,20.0,Beginner,Flexibility,Yes,4,8,2,9,7,6
+19,Female,187,82,23.4,Beginner,Endurance,No,13,7,4,3,3,7
+27,Female,166,54,19.6,Pro,Endurance,Yes,12,6,3,4,5,7
+34,Male,159,66,26.1,Beginner,Weight Loss,No,11,9,4,3,3,6
+22,Female,183,55,16.4,Pro,Fight Conditioning,Yes,8,9,5,4,4,7
+30,Male,192,92,25.0,Advanced,Weight Loss,No,11,9,5,3,2,5
+32,Female,172,104,35.2,Advanced,Weight Loss,No,11,9,5,3,2,6
+33,Male,157,53,21.5,Pro,Competition Prep,No,6,12,7,3,2,3
+20,Male,181,52,15.9,Advanced,Weight Loss,Yes,10,8,3,4,5,5
+35,Male,168,70,24.8,Pro,Competition Prep,Yes,6,11,5,4,4,4
+27,Male,171,70,23.9,Intermediate,Muscle Gain,Yes,5,5,9,5,6,7
+22,Male,190,61,16.9,Intermediate,Endurance,No,14,7,4,3,2,7
+19,Male,163,75,28.2,Intermediate,Muscle Gain,Yes,5,5,9,5,6,9
+26,Male,175,106,34.6,Beginner,Flexibility,No,4,9,4,7,6,5
+32,Female,179,92,28.7,Intermediate,Endurance,Yes,14,5,2,5,4,6
+21,Female,150,57,25.3,Advanced,Weight Loss,Yes,10,8,3,4,5,5
+37,Female,164,96,35.7,Advanced,Weight Loss,No,11,9,5,3,2,6
+31,Female,173,51,17.0,Intermediate,Fight Conditioning,No,8,10,6,3,3,7
+31,Female,156,52,21.4,Intermediate,Endurance,Yes,14,5,2,5,4,8
+32,Male,194,67,17.8,Beginner,Endurance,Yes,12,6,2,4,6,7
+20,Male,164,74,27.5,Beginner,Flexibility,Yes,4,8,2,9,7,7
+27,Female,188,106,30.0,Beginner,Fight Conditioning,No,7,11,5,3,4,8
+39,Female,175,93,30.4,Pro,Endurance,No,13,7,5,3,2,6
+30,Female,169,74,25.9,Advanced,Fight Conditioning,Yes,7,9,5,4,5,7
+20,Male,190,94,26.0,Advanced,Competition Prep,Yes,5,11,5,4,5,5
+21,Male,171,83,28.4,Advanced,Fight Conditioning,No,7,11,7,3,2,9
+36,Female,191,90,24.7,Advanced,Fight Conditioning,Yes,7,9,5,4,5,7
+37,Male,175,83,27.1,Pro,Weight Loss,No,11,9,5,3,2,6
+30,Male,155,86,35.8,Beginner,Fight Conditioning,No,7,11,5,3,4,6
+38,Female,171,70,23.9,Pro,Endurance,No,13,7,5,3,2,7
+33,Female,153,79,33.7,Advanced,Endurance,No,12,7,5,3,3,7
+26,Male,152,100,43.3,Beginner,Competition Prep,No,5,13,5,3,4,5
+23,Female,151,69,30.3,Advanced,Competition Prep,No,5,12,7,3,3,5
+21,Male,164,55,20.4,Intermediate,Endurance,Yes,14,5,2,5,4,6
+23,Male,151,64,28.1,Advanced,Muscle Gain,No,4,7,12,4,3,8
+36,Male,194,93,24.7,Intermediate,Endurance,No,14,7,4,3,2,7
+39,Male,153,68,29.0,Intermediate,Weight Loss,No,12,8,4,3,3,5
+37,Male,161,96,37.0,Pro,Fight Conditioning,Yes,8,9,5,4,4,7
+31,Male,187,86,24.6,Beginner,Endurance,Yes,12,6,2,4,6,8
+21,Female,162,92,35.1,Pro,Endurance,Yes,12,6,3,4,5,6
+23,Male,159,54,21.4,Intermediate,Fight Conditioning,Yes,8,9,4,5,4,9
+19,Female,162,89,33.9,Advanced,Competition Prep,Yes,5,11,5,4,5,3
+22,Female,158,66,26.4,Pro,Fight Conditioning,No,8,10,7,3,2,8
+32,Male,173,87,29.1,Beginner,Competition Prep,Yes,5,11,4,4,6,4
+34,Male,154,109,46.0,Advanced,Endurance,No,12,7,5,3,3,7
+31,Female,160,58,22.7,Advanced,Competition Prep,Yes,5,11,5,4,5,5
+20,Male,150,89,39.6,Advanced,Muscle Gain,No,4,7,12,4,3,10
+25,Female,160,90,35.2,Pro,Flexibility,No,4,9,5,7,5,5
+20,Male,170,86,29.8,Advanced,Endurance,Yes,12,6,3,4,5,8
+31,Male,175,53,17.3,Beginner,Competition Prep,Yes,5,11,4,4,6,3
+27,Female,174,67,22.1,Beginner,Flexibility,No,4,9,4,7,6,7
+36,Female,187,82,23.4,Beginner,Endurance,No,13,7,4,3,3,6
+34,Male,182,96,29.0,Pro,Flexibility,No,4,9,5,7,5,5
+38,Female,189,89,24.9,Intermediate,Competition Prep,Yes,6,11,4,5,4,5
+36,Female,155,55,22.9,Beginner,Competition Prep,No,5,13,5,3,4,5
+36,Male,157,91,36.9,Advanced,Flexibility,Yes,3,8,3,9,7,6
+32,Male,178,82,25.9,Intermediate,Flexibility,No,5,8,4,8,5,5
+24,Female,176,85,27.4,Pro,Competition Prep,No,6,12,7,3,2,4
+18,Male,186,76,22.0,Beginner,Fight Conditioning,No,7,11,5,3,4,7
+21,Female,171,51,17.4,Intermediate,Flexibility,Yes,5,7,2,9,7,4
+27,Male,182,103,31.1,Pro,Weight Loss,No,11,9,5,3,2,5
+32,Male,185,94,27.5,Pro,Competition Prep,No,6,12,7,3,2,5
+25,Male,154,78,32.9,Pro,Muscle Gain,No,4,7,12,3,4,10
+30,Male,151,76,33.3,Pro,Muscle Gain,No,4,7,12,3,4,9
+21,Male,185,75,21.9,Advanced,Flexibility,No,4,9,5,7,5,6
+22,Male,169,60,21.0,Intermediate,Flexibility,Yes,5,7,2,9,7,5
+25,Female,187,55,15.7,Advanced,Endurance,Yes,12,6,3,4,5,7
+28,Female,161,75,28.9,Pro,Endurance,No,13,7,5,3,2,7
+35,Female,174,82,27.1,Intermediate,Competition Prep,Yes,6,11,4,5,4,5
+29,Female,193,85,22.8,Pro,Flexibility,No,4,9,5,7,5,4
+22,Male,157,91,36.9,Beginner,Competition Prep,No,5,13,5,3,4,5
+26,Male,178,63,19.9,Pro,Muscle Gain,No,4,7,12,3,4,12
+28,Female,172,50,16.9,Beginner,Competition Prep,No,5,13,5,3,4,3
+38,Female,175,95,31.0,Advanced,Flexibility,Yes,3,8,3,9,7,5
+18,Female,189,64,17.9,Beginner,Endurance,Yes,12,6,2,4,6,8
+26,Female,158,59,23.6,Intermediate,Weight Loss,Yes,12,7,2,5,4,5
+38,Male,175,90,29.4,Intermediate,Muscle Gain,Yes,5,5,9,5,6,10
+28,Female,187,51,14.6,Advanced,Endurance,No,12,7,5,3,3,8
+19,Male,176,66,21.3,Advanced,Flexibility,No,4,9,5,7,5,6
+29,Male,173,74,24.7,Advanced,Fight Conditioning,No,7,11,7,3,2,7
+38,Male,173,82,27.4,Advanced,Fight Conditioning,No,7,11,7,3,2,6
+28,Male,171,75,25.6,Pro,Endurance,Yes,12,6,3,4,5,7
+38,Male,156,66,27.1,Beginner,Flexibility,No,4,9,4,7,6,4
+34,Female,169,103,36.1,Advanced,Weight Loss,No,11,9,5,3,2,6
+25,Female,156,50,20.5,Advanced,Flexibility,No,4,9,5,7,5,5
+36,Male,168,81,28.7,Intermediate,Competition Prep,No,7,12,6,3,2,3
+34,Male,194,78,20.7,Intermediate,Flexibility,Yes,5,7,2,9,7,7
+25,Female,168,67,23.7,Pro,Competition Prep,No,6,12,7,3,2,4
+36,Female,151,103,45.2,Pro,Weight Loss,Yes,11,8,3,4,4,5
+35,Male,179,87,27.2,Intermediate,Competition Prep,No,7,12,6,3,2,5
+21,Female,150,57,25.3,Intermediate,Weight Loss,Yes,12,7,2,5,4,5
+24,Male,152,81,35.1,Pro,Muscle Gain,No,4,7,12,3,4,8
+36,Female,183,109,32.5,Advanced,Endurance,No,12,7,5,3,3,8
+35,Male,156,78,32.1,Beginner,Muscle Gain,Yes,4,6,9,5,6,7
+20,Female,173,72,24.1,Intermediate,Competition Prep,Yes,6,11,4,5,4,5
+25,Male,186,52,15.0,Intermediate,Fight Conditioning,No,8,10,6,3,3,6
+32,Female,157,83,33.7,Advanced,Weight Loss,No,11,9,5,3,2,6
+31,Male,181,105,32.1,Beginner,Endurance,No,13,7,4,3,3,8
+33,Male,153,101,43.1,Intermediate,Muscle Gain,Yes,5,5,9,5,6,12
+38,Male,163,80,30.1,Intermediate,Flexibility,Yes,5,7,2,9,7,6
+27,Female,156,82,33.7,Advanced,Fight Conditioning,No,7,11,7,3,2,8
+33,Female,168,85,30.1,Pro,Muscle Gain,No,4,7,12,3,4,10
+35,Male,151,50,21.9,Beginner,Endurance,Yes,12,6,2,4,6,8
+27,Male,151,52,22.8,Pro,Competition Prep,Yes,6,11,5,4,4,3
+22,Male,187,79,22.6,Beginner,Muscle Gain,Yes,4,6,9,5,6,8
+38,Male,193,84,22.6,Advanced,Competition Prep,No,5,12,7,3,3,4
+39,Male,193,73,19.6,Beginner,Fight Conditioning,Yes,7,10,4,4,5,7
+31,Male,172,81,27.4,Beginner,Flexibility,No,4,9,4,7,6,5
+36,Male,166,63,22.9,Advanced,Fight Conditioning,No,7,11,7,3,2,9
+19,Male,194,74,19.7,Advanced,Endurance,No,12,7,5,3,3,7
+39,Male,192,95,25.8,Beginner,Endurance,Yes,12,6,2,4,6,7
+30,Male,183,72,21.5,Beginner,Flexibility,No,4,9,4,7,6,6
+23,Male,167,70,25.1,Beginner,Fight Conditioning,Yes,7,10,4,4,5,9
+26,Female,187,83,23.7,Advanced,Flexibility,No,4,9,5,7,5,4
+23,Male,161,72,27.8,Advanced,Competition Prep,Yes,5,11,5,4,5,4
+39,Male,170,76,26.3,Advanced,Fight Conditioning,No,7,11,7,3,2,8
+23,Female,176,89,28.7,Intermediate,Weight Loss,Yes,12,7,2,5,4,6
+30,Female,156,59,24.2,Advanced,Weight Loss,Yes,10,8,3,4,5,5
+38,Male,177,107,34.2,Intermediate,Muscle Gain,No,5,7,11,4,3,8
+39,Female,192,50,13.6,Pro,Competition Prep,Yes,6,11,5,4,4,3
+21,Female,175,78,25.5,Intermediate,Muscle Gain,Yes,5,5,9,5,6,9
+25,Female,160,85,33.2,Advanced,Endurance,Yes,12,6,3,4,5,8
+24,Female,189,84,23.5,Advanced,Muscle Gain,No,4,7,12,4,3,8
+32,Female,173,103,34.4,Advanced,Weight Loss,No,11,9,5,3,2,5
+18,Female,185,96,28.0,Intermediate,Fight Conditioning,No,8,10,6,3,3,8
+20,Female,192,66,17.9,Pro,Muscle Gain,Yes,4,6,10,5,5,9
+30,Female,192,83,22.5,Pro,Weight Loss,Yes,11,8,3,4,4,6
+19,Female,158,58,23.2,Pro,Muscle Gain,Yes,4,6,10,5,5,7
+28,Male,189,91,25.5,Pro,Flexibility,No,4,9,5,7,5,6
+20,Female,152,99,42.8,Intermediate,Endurance,Yes,14,5,2,5,4,8
+23,Female,183,61,18.2,Beginner,Endurance,No,13,7,4,3,3,6
+29,Male,166,59,21.4,Advanced,Fight Conditioning,No,7,11,7,3,2,8
+34,Male,161,65,25.1,Beginner,Endurance,Yes,12,6,2,4,6,8
+38,Male,166,72,26.1,Intermediate,Endurance,No,14,7,4,3,2,7
+33,Male,155,57,23.7,Advanced,Fight Conditioning,Yes,7,9,5,4,5,7
+29,Male,164,108,40.2,Intermediate,Muscle Gain,No,5,7,11,4,3,7
+30,Male,175,96,31.3,Intermediate,Muscle Gain,No,5,7,11,4,3,7
+38,Female,171,107,36.6,Advanced,Muscle Gain,Yes,3,6,10,5,6,11
+24,Female,158,100,40.1,Intermediate,Competition Prep,Yes,6,11,4,5,4,5
+35,Male,180,79,24.4,Intermediate,Competition Prep,No,7,12,6,3,2,5
+20,Female,167,108,38.7,Beginner,Fight Conditioning,No,7,11,5,3,4,8
+34,Male,163,80,30.1,Intermediate,Fight Conditioning,No,8,10,6,3,3,9
+30,Male,183,52,15.5,Beginner,Competition Prep,Yes,5,11,4,4,6,5
+25,Male,175,104,34.0,Beginner,Muscle Gain,Yes,4,6,9,5,6,7
+21,Male,178,71,22.4,Pro,Weight Loss,Yes,11,8,3,4,4,5
+35,Female,182,65,19.6,Advanced,Flexibility,No,4,9,5,7,5,5
+29,Male,151,104,45.6,Beginner,Competition Prep,No,5,13,5,3,4,4
+19,Female,179,108,33.7,Intermediate,Competition Prep,Yes,6,11,4,5,4,3
+35,Female,181,81,24.7,Advanced,Competition Prep,Yes,5,11,5,4,5,5
+24,Male,178,98,30.9,Advanced,Weight Loss,Yes,10,8,3,4,5,6
+38,Male,193,106,28.5,Beginner,Weight Loss,Yes,11,8,2,4,5,5
+27,Male,179,74,23.1,Intermediate,Fight Conditioning,No,8,10,6,3,3,6
+18,Female,179,98,30.6,Pro,Flexibility,No,4,9,5,7,5,4
+31,Female,179,99,30.9,Pro,Weight Loss,No,11,9,5,3,2,6
+22,Female,174,97,32.0,Intermediate,Endurance,No,14,7,4,3,2,6
+31,Female,164,58,21.6,Pro,Muscle Gain,No,4,7,12,3,4,7
+21,Female,161,108,41.7,Beginner,Fight Conditioning,Yes,7,10,4,4,5,6
+22,Male,192,109,29.6,Pro,Competition Prep,Yes,6,11,5,4,4,5
+31,Male,173,60,20.0,Pro,Competition Prep,No,6,12,7,3,2,3
+19,Female,174,56,18.5,Pro,Endurance,Yes,12,6,3,4,5,8
+25,Male,169,78,27.3,Beginner,Flexibility,No,4,9,4,7,6,4
+36,Male,194,95,25.2,Beginner,Flexibility,Yes,4,8,2,9,7,6
+19,Female,175,90,29.4,Pro,Fight Conditioning,No,8,10,7,3,2,7
+20,Male,155,54,22.5,Intermediate,Endurance,Yes,14,5,2,5,4,7
+32,Male,172,98,33.1,Pro,Flexibility,No,4,9,5,7,5,6
+37,Male,191,84,23.0,Beginner,Competition Prep,No,5,13,5,3,4,4
+34,Male,173,52,17.4,Intermediate,Flexibility,Yes,5,7,2,9,7,5
+30,Female,174,58,19.2,Intermediate,Weight Loss,Yes,12,7,2,5,4,6
+22,Female,183,60,17.9,Intermediate,Competition Prep,No,7,12,6,3,2,5
+26,Female,152,74,32.0,Intermediate,Weight Loss,Yes,12,7,2,5,4,6
+27,Male,158,64,25.6,Pro,Fight Conditioning,Yes,8,9,5,4,4,6
+28,Female,183,73,21.8,Beginner,Muscle Gain,Yes,4,6,9,5,6,12
+25,Female,154,97,40.9,Beginner,Muscle Gain,No,4,7,11,4,4,8
+23,Male,186,109,31.5,Intermediate,Weight Loss,No,12,8,4,3,3,6
+22,Female,162,66,25.1,Pro,Fight Conditioning,Yes,8,9,5,4,4,9
+30,Male,181,78,23.8,Intermediate,Weight Loss,No,12,8,4,3,3,6
+20,Female,189,83,23.2,Advanced,Muscle Gain,No,4,7,12,4,3,11
+30,Female,182,55,16.6,Advanced,Muscle Gain,No,4,7,12,4,3,10
+18,Male,190,62,17.2,Pro,Fight Conditioning,Yes,8,9,5,4,4,6
+38,Male,191,85,23.3,Intermediate,Muscle Gain,Yes,5,5,9,5,6,12
+24,Female,154,92,38.8,Pro,Competition Prep,No,6,12,7,3,2,4
+36,Female,180,72,22.2,Pro,Weight Loss,No,11,9,5,3,2,6
+28,Male,179,88,27.5,Intermediate,Endurance,No,14,7,4,3,2,7
+31,Male,162,78,29.7,Advanced,Muscle Gain,Yes,3,6,10,5,6,8
+30,Female,176,98,31.6,Pro,Fight Conditioning,No,8,10,7,3,2,6
+25,Male,180,83,25.6,Intermediate,Flexibility,No,5,8,4,8,5,7
+30,Male,184,97,28.7,Beginner,Flexibility,Yes,4,8,2,9,7,6
+24,Female,159,90,35.6,Intermediate,Competition Prep,No,7,12,6,3,2,5
+32,Female,179,86,26.8,Beginner,Muscle Gain,Yes,4,6,9,5,6,12
+21,Male,169,81,28.4,Pro,Flexibility,No,4,9,5,7,5,5
+21,Female,176,66,21.3,Intermediate,Fight Conditioning,No,8,10,6,3,3,7
+34,Female,159,103,40.7,Intermediate,Weight Loss,No,12,8,4,3,3,6
+35,Female,163,96,36.1,Advanced,Fight Conditioning,No,7,11,7,3,2,9
+21,Male,184,101,29.8,Intermediate,Weight Loss,No,12,8,4,3,3,6
+24,Female,178,60,18.9,Pro,Flexibility,Yes,4,8,3,8,7,5
+32,Male,164,81,30.1,Pro,Weight Loss,No,11,9,5,3,2,5
+19,Female,183,78,23.3,Beginner,Weight Loss,No,11,9,4,3,3,5
+20,Female,162,90,34.3,Beginner,Muscle Gain,No,4,7,11,4,4,11
+28,Female,181,51,15.6,Beginner,Endurance,No,13,7,4,3,3,7
+28,Female,176,52,16.8,Beginner,Competition Prep,No,5,13,5,3,4,4
+29,Male,177,78,24.9,Pro,Muscle Gain,No,4,7,12,3,4,11
+37,Female,155,68,28.3,Intermediate,Weight Loss,No,12,8,4,3,3,5
+20,Male,150,107,47.6,Intermediate,Fight Conditioning,Yes,8,9,4,5,4,7
+32,Male,183,84,25.1,Beginner,Fight Conditioning,No,7,11,5,3,4,6
+29,Male,167,64,22.9,Intermediate,Muscle Gain,No,5,7,11,4,3,9
+25,Male,174,66,21.8,Advanced,Flexibility,Yes,3,8,3,9,7,4
+25,Female,164,76,28.3,Pro,Fight Conditioning,Yes,8,9,5,4,4,7
+37,Female,156,52,21.4,Intermediate,Competition Prep,Yes,6,11,4,5,4,3
+20,Male,169,95,33.3,Advanced,Flexibility,Yes,3,8,3,9,7,5
+31,Female,156,66,27.1,Pro,Fight Conditioning,Yes,8,9,5,4,4,9
+37,Female,185,58,16.9,Beginner,Flexibility,No,4,9,4,7,6,7
+39,Male,151,73,32.0,Beginner,Competition Prep,No,5,13,5,3,4,3
+34,Male,157,70,28.4,Intermediate,Flexibility,No,5,8,4,8,5,5
+35,Female,180,87,26.9,Pro,Fight Conditioning,Yes,8,9,5,4,4,6
+18,Male,187,90,25.7,Pro,Flexibility,No,4,9,5,7,5,5
+36,Female,173,90,30.1,Intermediate,Flexibility,Yes,5,7,2,9,7,7
+31,Female,181,64,19.5,Pro,Muscle Gain,Yes,4,6,10,5,5,12
+37,Female,182,59,17.8,Pro,Flexibility,Yes,4,8,3,8,7,7
+18,Female,151,82,36.0,Pro,Competition Prep,No,6,12,7,3,2,3
+30,Female,179,82,25.6,Beginner,Weight Loss,Yes,11,8,2,4,5,6
+39,Male,188,51,14.4,Pro,Fight Conditioning,No,8,10,7,3,2,8
+31,Female,164,83,30.9,Intermediate,Competition Prep,No,7,12,6,3,2,5
+29,Female,189,60,16.8,Intermediate,Muscle Gain,Yes,5,5,9,5,6,9
+23,Male,158,55,22.0,Intermediate,Fight Conditioning,Yes,8,9,4,5,4,8
+26,Female,161,57,22.0,Intermediate,Weight Loss,No,12,8,4,3,3,6
+37,Male,156,60,24.7,Pro,Endurance,No,13,7,5,3,2,7
+39,Female,175,52,17.0,Beginner,Weight Loss,Yes,11,8,2,4,5,6
+27,Male,163,60,22.6,Pro,Endurance,Yes,12,6,3,4,5,7
+29,Female,172,61,20.6,Advanced,Competition Prep,No,5,12,7,3,3,3
+30,Male,168,104,36.8,Advanced,Endurance,Yes,12,6,3,4,5,6
+25,Male,178,104,32.8,Intermediate,Endurance,Yes,14,5,2,5,4,8
+36,Male,193,67,18.0,Intermediate,Flexibility,Yes,5,7,2,9,7,5
+36,Male,171,86,29.4,Advanced,Fight Conditioning,Yes,7,9,5,4,5,8
+20,Male,177,59,18.8,Pro,Competition Prep,No,6,12,7,3,2,5
+39,Female,164,82,30.5,Advanced,Weight Loss,Yes,10,8,3,4,5,5
+38,Female,180,107,33.0,Pro,Muscle Gain,No,4,7,12,3,4,10
+22,Female,153,77,32.9,Advanced,Endurance,Yes,12,6,3,4,5,7
+37,Female,173,99,33.1,Pro,Weight Loss,No,11,9,5,3,2,5
+26,Female,185,107,31.3,Pro,Weight Loss,No,11,9,5,3,2,6
+21,Female,151,64,28.1,Beginner,Fight Conditioning,No,7,11,5,3,4,9
+23,Female,188,91,25.7,Beginner,Endurance,Yes,12,6,2,4,6,8
+39,Female,161,52,20.1,Beginner,Flexibility,No,4,9,4,7,6,5
+25,Female,170,64,22.1,Advanced,Fight Conditioning,Yes,7,9,5,4,5,8
+25,Female,185,97,28.3,Beginner,Weight Loss,No,11,9,4,3,3,5
+27,Male,193,63,16.9,Advanced,Endurance,Yes,12,6,3,4,5,7
+22,Female,154,87,36.7,Advanced,Fight Conditioning,No,7,11,7,3,2,6
+39,Male,163,105,39.5,Intermediate,Endurance,Yes,14,5,2,5,4,7
+24,Male,155,66,27.5,Beginner,Flexibility,No,4,9,4,7,6,4
+19,Male,184,86,25.4,Beginner,Muscle Gain,No,4,7,11,4,4,7
+25,Female,161,105,40.5,Pro,Competition Prep,No,6,12,7,3,2,3
+32,Male,180,60,18.5,Advanced,Flexibility,No,4,9,5,7,5,6
+39,Female,163,65,24.5,Advanced,Competition Prep,No,5,12,7,3,3,3
+27,Male,161,79,30.5,Advanced,Competition Prep,Yes,5,11,5,4,5,3
+22,Male,169,57,20.0,Advanced,Fight Conditioning,No,7,11,7,3,2,9
+18,Male,169,77,27.0,Advanced,Endurance,Yes,12,6,3,4,5,8
+22,Male,186,61,17.6,Intermediate,Flexibility,No,5,8,4,8,5,4
+34,Female,193,105,28.2,Intermediate,Competition Prep,No,7,12,6,3,2,5
+32,Female,155,93,38.7,Advanced,Flexibility,No,4,9,5,7,5,4
+37,Female,163,51,19.2,Advanced,Fight Conditioning,Yes,7,9,5,4,5,8
+22,Male,169,75,26.3,Beginner,Muscle Gain,Yes,4,6,9,5,6,7
+20,Male,155,86,35.8,Advanced,Muscle Gain,Yes,3,6,10,5,6,9
+22,Male,182,98,29.6,Pro,Competition Prep,No,6,12,7,3,2,4
+29,Female,191,69,18.9,Pro,Muscle Gain,No,4,7,12,3,4,8
+28,Female,183,74,22.1,Advanced,Weight Loss,No,11,9,5,3,2,5
+24,Female,180,105,32.4,Beginner,Flexibility,Yes,4,8,2,9,7,5
+29,Female,187,69,19.7,Beginner,Weight Loss,Yes,11,8,2,4,5,5
+37,Male,165,99,36.4,Intermediate,Fight Conditioning,Yes,8,9,4,5,4,9
+25,Female,170,50,17.3,Advanced,Endurance,No,12,7,5,3,3,7
+22,Male,171,96,32.8,Advanced,Fight Conditioning,No,7,11,7,3,2,6
+28,Male,159,79,31.2,Intermediate,Fight Conditioning,No,8,10,6,3,3,7
+34,Female,175,57,18.6,Advanced,Flexibility,No,4,9,5,7,5,7
+25,Female,174,95,31.4,Intermediate,Flexibility,Yes,5,7,2,9,7,4
+18,Female,168,80,28.3,Pro,Endurance,No,13,7,5,3,2,6
+33,Female,154,90,37.9,Pro,Flexibility,No,4,9,5,7,5,5
+19,Male,155,58,24.1,Pro,Weight Loss,Yes,11,8,3,4,4,5
+33,Male,162,58,22.1,Intermediate,Weight Loss,Yes,12,7,2,5,4,5
+26,Male,160,53,20.7,Intermediate,Fight Conditioning,Yes,8,9,4,5,4,6
+23,Male,153,87,37.2,Beginner,Weight Loss,No,11,9,4,3,3,6
+19,Female,167,62,22.2,Advanced,Weight Loss,No,11,9,5,3,2,5
+36,Male,194,60,15.9,Intermediate,Competition Prep,Yes,6,11,4,5,4,4
+39,Male,156,74,30.4,Pro,Fight Conditioning,Yes,8,9,5,4,4,8
+18,Female,161,107,41.3,Advanced,Flexibility,No,4,9,5,7,5,6
+18,Male,181,98,29.9,Pro,Fight Conditioning,No,8,10,7,3,2,9
+23,Male,175,60,19.6,Intermediate,Fight Conditioning,No,8,10,6,3,3,9
+31,Female,163,59,22.2,Beginner,Endurance,Yes,12,6,2,4,6,7
+26,Female,152,70,30.3,Advanced,Flexibility,No,4,9,5,7,5,7
+33,Female,151,55,24.1,Beginner,Competition Prep,Yes,5,11,4,4,6,3
+29,Female,154,83,35.0,Advanced,Muscle Gain,Yes,3,6,10,5,6,10
+21,Female,164,92,34.2,Pro,Weight Loss,No,11,9,5,3,2,6
+35,Female,193,108,29.0,Pro,Endurance,Yes,12,6,3,4,5,6
+38,Male,172,92,31.1,Pro,Endurance,No,13,7,5,3,2,8
+21,Male,160,100,39.1,Beginner,Endurance,No,13,7,4,3,3,6
+30,Male,171,68,23.3,Advanced,Weight Loss,Yes,10,8,3,4,5,6
+21,Female,176,78,25.2,Pro,Endurance,No,13,7,5,3,2,8
+25,Male,165,91,33.4,Intermediate,Endurance,No,14,7,4,3,2,7
+35,Male,151,98,43.0,Beginner,Flexibility,Yes,4,8,2,9,7,7
+28,Female,156,80,32.9,Advanced,Muscle Gain,Yes,3,6,10,5,6,8
+24,Female,162,80,30.5,Pro,Endurance,No,13,7,5,3,2,7
+27,Male,185,69,20.2,Pro,Endurance,Yes,12,6,3,4,5,7
+24,Female,150,93,41.3,Beginner,Flexibility,No,4,9,4,7,6,5
+32,Male,162,104,39.6,Advanced,Muscle Gain,No,4,7,12,4,3,12
+38,Female,171,77,26.3,Intermediate,Endurance,Yes,14,5,2,5,4,7
+26,Male,164,59,21.9,Beginner,Muscle Gain,No,4,7,11,4,4,7
+27,Female,157,73,29.6,Beginner,Flexibility,Yes,4,8,2,9,7,5
+22,Male,153,99,42.3,Pro,Fight Conditioning,Yes,8,9,5,4,4,9
+24,Female,159,74,29.3,Intermediate,Flexibility,No,5,8,4,8,5,6
+21,Female,159,82,32.4,Intermediate,Competition Prep,No,7,12,6,3,2,3
+32,Female,184,93,27.5,Pro,Competition Prep,No,6,12,7,3,2,3
+38,Male,166,71,25.8,Advanced,Flexibility,Yes,3,8,3,9,7,6
+20,Female,177,56,17.9,Beginner,Competition Prep,Yes,5,11,4,4,6,4
+26,Female,163,62,23.3,Intermediate,Weight Loss,Yes,12,7,2,5,4,5
+19,Female,184,56,16.5,Beginner,Weight Loss,No,11,9,4,3,3,6
+20,Male,191,103,28.2,Advanced,Competition Prep,Yes,5,11,5,4,5,5
+26,Male,160,88,34.4,Intermediate,Muscle Gain,No,5,7,11,4,3,12
+36,Male,153,75,32.0,Intermediate,Endurance,No,14,7,4,3,2,7
+24,Female,194,95,25.2,Advanced,Competition Prep,Yes,5,11,5,4,5,3
+18,Female,185,52,15.2,Pro,Weight Loss,No,11,9,5,3,2,6
+18,Female,155,90,37.5,Intermediate,Muscle Gain,No,5,7,11,4,3,11
+34,Female,151,109,47.8,Beginner,Fight Conditioning,No,7,11,5,3,4,9
+38,Male,157,87,35.3,Beginner,Muscle Gain,Yes,4,6,9,5,6,9
+39,Female,193,107,28.7,Beginner,Endurance,No,13,7,4,3,3,7
+23,Male,151,72,31.6,Beginner,Endurance,Yes,12,6,2,4,6,7
+23,Female,166,84,30.5,Advanced,Fight Conditioning,No,7,11,7,3,2,8
+37,Female,157,71,28.8,Advanced,Weight Loss,No,11,9,5,3,2,6
+21,Female,154,62,26.1,Intermediate,Weight Loss,No,12,8,4,3,3,5
+32,Female,165,91,33.4,Beginner,Competition Prep,No,5,13,5,3,4,4
+33,Male,161,66,25.5,Pro,Flexibility,Yes,4,8,3,8,7,7
+37,Male,152,65,28.1,Pro,Fight Conditioning,No,8,10,7,3,2,6
+36,Female,189,103,28.8,Pro,Fight Conditioning,Yes,8,9,5,4,4,9
+25,Male,193,50,13.4,Beginner,Weight Loss,No,11,9,4,3,3,6
+38,Male,169,55,19.3,Intermediate,Weight Loss,No,12,8,4,3,3,6
+25,Female,188,81,22.9,Intermediate,Endurance,Yes,14,5,2,5,4,6
+33,Male,161,87,33.6,Pro,Weight Loss,Yes,11,8,3,4,4,6
+31,Male,185,82,24.0,Advanced,Competition Prep,No,5,12,7,3,3,3
+19,Female,190,70,19.4,Intermediate,Flexibility,Yes,5,7,2,9,7,6
+26,Female,150,60,26.7,Intermediate,Competition Prep,No,7,12,6,3,2,4
+21,Female,167,104,37.3,Beginner,Flexibility,Yes,4,8,2,9,7,6
+39,Female,192,64,17.4,Pro,Muscle Gain,Yes,4,6,10,5,5,10
+22,Male,191,61,16.7,Intermediate,Weight Loss,Yes,12,7,2,5,4,6
+23,Female,167,94,33.7,Pro,Flexibility,No,4,9,5,7,5,5
+27,Female,179,63,19.7,Beginner,Weight Loss,No,11,9,4,3,3,5
+33,Female,156,101,41.5,Pro,Fight Conditioning,No,8,10,7,3,2,6
+32,Female,170,84,29.1,Intermediate,Weight Loss,No,12,8,4,3,3,5
+19,Female,184,67,19.8,Pro,Fight Conditioning,No,8,10,7,3,2,9
+35,Male,159,74,29.3,Pro,Muscle Gain,No,4,7,12,3,4,7
+39,Female,182,85,25.7,Advanced,Endurance,Yes,12,6,3,4,5,6
+31,Female,165,103,37.8,Pro,Flexibility,No,4,9,5,7,5,4
+37,Male,152,84,36.4,Pro,Muscle Gain,Yes,4,6,10,5,5,12
+30,Female,183,57,17.0,Pro,Fight Conditioning,Yes,8,9,5,4,4,7
+21,Female,174,64,21.1,Pro,Fight Conditioning,Yes,8,9,5,4,4,6
+29,Male,181,81,24.7,Beginner,Flexibility,No,4,9,4,7,6,4
+31,Male,169,67,23.5,Intermediate,Fight Conditioning,Yes,8,9,4,5,4,9
+23,Female,181,78,23.8,Beginner,Fight Conditioning,No,7,11,5,3,4,7
+19,Male,172,68,23.0,Pro,Muscle Gain,Yes,4,6,10,5,5,11
+36,Male,183,59,17.6,Advanced,Flexibility,No,4,9,5,7,5,5
+28,Female,180,105,32.4,Pro,Endurance,Yes,12,6,3,4,5,8
+36,Male,158,84,33.6,Intermediate,Weight Loss,No,12,8,4,3,3,5
+31,Female,156,65,26.7,Advanced,Competition Prep,No,5,12,7,3,3,3
+21,Female,153,88,37.6,Pro,Endurance,Yes,12,6,3,4,5,6
+24,Female,178,101,31.9,Intermediate,Fight Conditioning,No,8,10,6,3,3,9
+23,Female,188,99,28.0,Beginner,Endurance,Yes,12,6,2,4,6,8
+20,Female,156,76,31.2,Advanced,Weight Loss,Yes,10,8,3,4,5,6
+31,Female,156,86,35.3,Intermediate,Flexibility,Yes,5,7,2,9,7,5
+22,Female,151,76,33.3,Beginner,Muscle Gain,Yes,4,6,9,5,6,12
+23,Female,164,70,26.0,Advanced,Flexibility,Yes,3,8,3,9,7,6
+24,Female,154,50,21.1,Beginner,Weight Loss,No,11,9,4,3,3,5
+35,Male,194,70,18.6,Advanced,Endurance,No,12,7,5,3,3,7
+22,Female,194,81,21.5,Beginner,Muscle Gain,No,4,7,11,4,4,7
+20,Male,160,70,27.3,Pro,Muscle Gain,No,4,7,12,3,4,11
+21,Female,183,101,30.2,Pro,Fight Conditioning,Yes,8,9,5,4,4,7
+25,Female,184,90,26.6,Intermediate,Muscle Gain,Yes,5,5,9,5,6,10
+23,Female,191,70,19.2,Intermediate,Endurance,Yes,14,5,2,5,4,6
+34,Male,190,66,18.3,Pro,Competition Prep,Yes,6,11,5,4,4,3
+18,Female,151,109,47.8,Intermediate,Weight Loss,No,12,8,4,3,3,5
+27,Female,189,70,19.6,Beginner,Muscle Gain,No,4,7,11,4,4,9
+19,Female,157,108,43.8,Advanced,Endurance,Yes,12,6,3,4,5,6
+32,Female,166,109,39.6,Beginner,Flexibility,Yes,4,8,2,9,7,6
+22,Male,181,93,28.4,Beginner,Fight Conditioning,Yes,7,10,4,4,5,8
+22,Male,157,62,25.2,Advanced,Weight Loss,Yes,10,8,3,4,5,5
+28,Male,150,94,41.8,Intermediate,Flexibility,Yes,5,7,2,9,7,7
+20,Male,173,66,22.1,Pro,Endurance,No,13,7,5,3,2,6
+25,Male,180,95,29.3,Pro,Competition Prep,Yes,6,11,5,4,4,5
+37,Male,164,68,25.3,Beginner,Muscle Gain,No,4,7,11,4,4,10
+36,Female,192,107,29.0,Intermediate,Weight Loss,Yes,12,7,2,5,4,5
+39,Female,181,57,17.4,Intermediate,Flexibility,No,5,8,4,8,5,5
+32,Male,181,97,29.6,Intermediate,Muscle Gain,Yes,5,5,9,5,6,7
+25,Male,189,74,20.7,Pro,Flexibility,No,4,9,5,7,5,5
+32,Male,152,98,42.4,Pro,Muscle Gain,No,4,7,12,3,4,12
+21,Male,163,90,33.9,Advanced,Flexibility,No,4,9,5,7,5,4
+35,Female,159,70,27.7,Intermediate,Muscle Gain,No,5,7,11,4,3,10
+25,Male,151,103,45.2,Advanced,Fight Conditioning,Yes,7,9,5,4,5,6
+33,Male,181,81,24.7,Beginner,Competition Prep,Yes,5,11,4,4,6,4
+28,Male,159,64,25.3,Beginner,Muscle Gain,Yes,4,6,9,5,6,8
+26,Male,174,89,29.4,Pro,Endurance,No,13,7,5,3,2,7
+35,Female,171,101,34.5,Intermediate,Muscle Gain,No,5,7,11,4,3,10
+38,Female,193,81,21.7,Advanced,Muscle Gain,Yes,3,6,10,5,6,12
+34,Male,170,84,29.1,Intermediate,Competition Prep,Yes,6,11,4,5,4,4
+24,Female,161,90,34.7,Advanced,Competition Prep,No,5,12,7,3,3,3
+30,Female,170,57,19.7,Intermediate,Flexibility,Yes,5,7,2,9,7,7
+31,Male,156,72,29.6,Pro,Fight Conditioning,Yes,8,9,5,4,4,9
+28,Male,171,71,24.3,Beginner,Competition Prep,No,5,13,5,3,4,3
+39,Female,177,78,24.9,Intermediate,Endurance,Yes,14,5,2,5,4,7
+19,Male,178,70,22.1,Intermediate,Fight Conditioning,Yes,8,9,4,5,4,8
+35,Female,180,64,19.8,Pro,Endurance,Yes,12,6,3,4,5,8
+29,Male,162,71,27.1,Intermediate,Competition Prep,No,7,12,6,3,2,3
+18,Female,152,103,44.6,Intermediate,Endurance,Yes,14,5,2,5,4,8
+24,Male,193,96,25.8,Advanced,Endurance,No,12,7,5,3,3,6
+32,Male,157,91,36.9,Intermediate,Muscle Gain,No,5,7,11,4,3,7
+29,Male,154,52,21.9,Advanced,Flexibility,Yes,3,8,3,9,7,7
+25,Male,184,81,23.9,Beginner,Competition Prep,Yes,5,11,4,4,6,4
+28,Female,174,59,19.5,Beginner,Endurance,No,13,7,4,3,3,7
+24,Female,176,76,24.5,Beginner,Endurance,Yes,12,6,2,4,6,6
+33,Female,162,58,22.1,Beginner,Fight Conditioning,Yes,7,10,4,4,5,9
+39,Male,191,75,20.6,Intermediate,Muscle Gain,Yes,5,5,9,5,6,12
+29,Male,166,63,22.9,Pro,Endurance,No,13,7,5,3,2,6
+19,Male,169,60,21.0,Advanced,Flexibility,No,4,9,5,7,5,6
+23,Female,168,86,30.5,Pro,Competition Prep,No,6,12,7,3,2,5
+21,Male,169,59,20.7,Advanced,Fight Conditioning,Yes,7,9,5,4,5,8
+22,Female,187,70,20.0,Pro,Competition Prep,Yes,6,11,5,4,4,5
+38,Male,159,87,34.4,Pro,Flexibility,Yes,4,8,3,8,7,7
+30,Female,169,66,23.1,Pro,Competition Prep,No,6,12,7,3,2,3
+31,Female,152,73,31.6,Beginner,Weight Loss,No,11,9,4,3,3,6
+37,Female,153,105,44.9,Intermediate,Competition Prep,Yes,6,11,4,5,4,4
+35,Male,168,80,28.3,Pro,Fight Conditioning,No,8,10,7,3,2,9
+36,Female,168,71,25.2,Intermediate,Flexibility,No,5,8,4,8,5,7
+23,Female,180,85,26.2,Intermediate,Flexibility,No,5,8,4,8,5,7
+30,Female,185,79,23.1,Pro,Flexibility,No,4,9,5,7,5,6
+18,Male,167,101,36.2,Intermediate,Weight Loss,Yes,12,7,2,5,4,5
+32,Male,160,106,41.4,Beginner,Muscle Gain,Yes,4,6,9,5,6,12
+30,Female,182,66,19.9,Intermediate,Flexibility,Yes,5,7,2,9,7,7
+37,Male,176,64,20.7,Advanced,Flexibility,No,4,9,5,7,5,6
+31,Female,160,88,34.4,Beginner,Endurance,Yes,12,6,2,4,6,7
+33,Male,154,106,44.7,Intermediate,Weight Loss,No,12,8,4,3,3,5
+27,Female,152,62,26.8,Beginner,Flexibility,Yes,4,8,2,9,7,4
+39,Male,194,55,14.6,Intermediate,Flexibility,No,5,8,4,8,5,6
+30,Male,168,91,32.2,Advanced,Fight Conditioning,No,7,11,7,3,2,7
+36,Female,154,78,32.9,Advanced,Muscle Gain,No,4,7,12,4,3,10
+34,Female,170,59,20.4,Intermediate,Endurance,No,14,7,4,3,2,7
+21,Female,188,88,24.9,Pro,Fight Conditioning,Yes,8,9,5,4,4,8
+18,Female,173,106,35.4,Intermediate,Fight Conditioning,Yes,8,9,4,5,4,7
+26,Female,193,109,29.3,Intermediate,Weight Loss,Yes,12,7,2,5,4,5
+37,Male,173,74,24.7,Intermediate,Flexibility,No,5,8,4,8,5,4
+29,Female,191,79,21.7,Advanced,Endurance,No,12,7,5,3,3,8
+20,Female,177,63,20.1,Advanced,Fight Conditioning,Yes,7,9,5,4,5,9
+33,Male,180,91,28.1,Intermediate,Fight Conditioning,Yes,8,9,4,5,4,6
+23,Male,193,58,15.6,Advanced,Muscle Gain,No,4,7,12,4,3,10
+28,Male,169,67,23.5,Beginner,Flexibility,No,4,9,4,7,6,6
+38,Male,153,99,42.3,Intermediate,Weight Loss,Yes,12,7,2,5,4,5
+24,Male,155,64,26.6,Beginner,Endurance,No,13,7,4,3,3,8
+37,Female,173,64,21.4,Pro,Endurance,Yes,12,6,3,4,5,7
+29,Female,163,106,39.9,Beginner,Muscle Gain,No,4,7,11,4,4,8
+38,Female,167,54,19.4,Beginner,Weight Loss,Yes,11,8,2,4,5,5
+22,Female,173,98,32.7,Beginner,Weight Loss,No,11,9,4,3,3,5
+38,Female,161,106,40.9,Intermediate,Weight Loss,No,12,8,4,3,3,5
+18,Female,153,91,38.9,Intermediate,Muscle Gain,No,5,7,11,4,3,12
+18,Male,166,73,26.5,Beginner,Weight Loss,Yes,11,8,2,4,5,5
+19,Female,177,107,34.2,Intermediate,Competition Prep,Yes,6,11,4,5,4,3
+24,Female,171,98,33.5,Pro,Weight Loss,No,11,9,5,3,2,6
+23,Female,155,83,34.5,Beginner,Fight Conditioning,No,7,11,5,3,4,7
+38,Female,154,51,21.5,Beginner,Muscle Gain,No,4,7,11,4,4,7
+19,Male,159,83,32.8,Pro,Muscle Gain,Yes,4,6,10,5,5,11
+24,Female,171,61,20.9,Advanced,Endurance,No,12,7,5,3,3,8
+27,Male,184,100,29.5,Intermediate,Fight Conditioning,Yes,8,9,4,5,4,9
+24,Female,170,69,23.9,Intermediate,Fight Conditioning,No,8,10,6,3,3,8
+21,Female,171,64,21.9,Advanced,Flexibility,Yes,3,8,3,9,7,6
+39,Female,177,63,20.1,Advanced,Fight Conditioning,Yes,7,9,5,4,5,6
+26,Female,189,107,30.0,Pro,Competition Prep,No,6,12,7,3,2,4
+34,Male,151,74,32.5,Beginner,Weight Loss,No,11,9,4,3,3,5
+25,Male,193,82,22.0,Advanced,Competition Prep,Yes,5,11,5,4,5,5
+23,Female,188,101,28.6,Pro,Flexibility,No,4,9,5,7,5,6
+35,Male,192,68,18.4,Pro,Weight Loss,Yes,11,8,3,4,4,5
+28,Male,161,59,22.8,Advanced,Muscle Gain,No,4,7,12,4,3,10
+26,Male,185,86,25.1,Beginner,Fight Conditioning,No,7,11,5,3,4,9
+26,Female,164,97,36.1,Intermediate,Endurance,Yes,14,5,2,5,4,7
+27,Female,169,55,19.3,Beginner,Endurance,No,13,7,4,3,3,7
+24,Male,165,52,19.1,Advanced,Weight Loss,Yes,10,8,3,4,5,5
+35,Female,192,89,24.1,Beginner,Flexibility,No,4,9,4,7,6,4
+18,Female,157,86,34.9,Beginner,Competition Prep,No,5,13,5,3,4,5
+22,Female,153,79,33.7,Beginner,Weight Loss,Yes,11,8,2,4,5,6
+39,Male,168,81,28.7,Beginner,Muscle Gain,Yes,4,6,9,5,6,10
+28,Female,165,50,18.4,Advanced,Fight Conditioning,No,7,11,7,3,2,8
+38,Male,170,79,27.3,Pro,Fight Conditioning,No,8,10,7,3,2,7
+21,Female,177,87,27.8,Advanced,Fight Conditioning,No,7,11,7,3,2,8
+22,Male,174,52,17.2,Intermediate,Fight Conditioning,No,8,10,6,3,3,9
+37,Male,183,75,22.4,Pro,Endurance,Yes,12,6,3,4,5,7
+22,Male,184,77,22.7,Pro,Flexibility,Yes,4,8,3,8,7,4
+37,Female,187,99,28.3,Intermediate,Competition Prep,Yes,6,11,4,5,4,5
+29,Male,160,51,19.9,Beginner,Endurance,No,13,7,4,3,3,6
+38,Female,173,83,27.7,Advanced,Weight Loss,No,11,9,5,3,2,5
+29,Male,177,79,25.2,Beginner,Endurance,Yes,12,6,2,4,6,6
+18,Female,170,84,29.1,Advanced,Muscle Gain,Yes,3,6,10,5,6,8
+26,Male,167,107,38.4,Pro,Competition Prep,Yes,6,11,5,4,4,3
+33,Male,171,66,22.6,Advanced,Endurance,No,12,7,5,3,3,8
+32,Female,176,84,27.1,Beginner,Weight Loss,Yes,11,8,2,4,5,6
+33,Male,183,51,15.2,Advanced,Competition Prep,Yes,5,11,5,4,5,5
+24,Male,155,58,24.1,Intermediate,Fight Conditioning,Yes,8,9,4,5,4,9
+18,Female,157,104,42.2,Intermediate,Muscle Gain,No,5,7,11,4,3,10
+32,Female,187,64,18.3,Beginner,Muscle Gain,Yes,4,6,9,5,6,9
+38,Female,163,85,32.0,Advanced,Fight Conditioning,Yes,7,9,5,4,5,6
+24,Male,158,84,33.6,Beginner,Muscle Gain,Yes,4,6,9,5,6,11
+32,Male,167,100,35.9,Beginner,Weight Loss,No,11,9,4,3,3,6
+19,Female,187,63,18.0,Beginner,Weight Loss,No,11,9,4,3,3,5
+25,Male,184,68,20.1,Intermediate,Competition Prep,Yes,6,11,4,5,4,5
+31,Male,169,98,34.3,Intermediate,Weight Loss,Yes,12,7,2,5,4,6
+31,Female,175,87,28.4,Pro,Endurance,Yes,12,6,3,4,5,6
+36,Male,152,91,39.4,Beginner,Flexibility,No,4,9,4,7,6,4
+37,Male,194,56,14.9,Intermediate,Muscle Gain,Yes,5,5,9,5,6,7
+36,Male,163,105,39.5,Intermediate,Flexibility,No,5,8,4,8,5,4
+21,Female,189,66,18.5,Advanced,Muscle Gain,No,4,7,12,4,3,7
+18,Female,174,63,20.8,Beginner,Endurance,Yes,12,6,2,4,6,6
+20,Male,190,108,29.9,Beginner,Muscle Gain,No,4,7,11,4,4,12
+26,Male,153,108,46.1,Intermediate,Weight Loss,Yes,12,7,2,5,4,6
+25,Male,151,90,39.5,Pro,Flexibility,Yes,4,8,3,8,7,5
+39,Male,190,105,29.1,Pro,Endurance,Yes,12,6,3,4,5,7
+34,Male,179,61,19.0,Advanced,Endurance,No,12,7,5,3,3,8
+31,Female,170,70,24.2,Advanced,Competition Prep,Yes,5,11,5,4,5,3
+20,Male,193,82,22.0,Intermediate,Competition Prep,No,7,12,6,3,2,3
+26,Female,158,53,21.2,Beginner,Flexibility,Yes,4,8,2,9,7,4
+19,Male,173,81,27.1,Pro,Weight Loss,No,11,9,5,3,2,6
+30,Female,172,96,32.4,Intermediate,Endurance,No,14,7,4,3,2,7
+29,Male,164,90,33.5,Pro,Fight Conditioning,No,8,10,7,3,2,7
+37,Female,178,71,22.4,Pro,Muscle Gain,Yes,4,6,10,5,5,9
+23,Female,169,106,37.1,Advanced,Flexibility,Yes,3,8,3,9,7,6
+21,Female,156,77,31.6,Pro,Competition Prep,Yes,6,11,5,4,4,4
+29,Male,194,52,13.8,Beginner,Fight Conditioning,Yes,7,10,4,4,5,9
+19,Male,173,83,27.7,Intermediate,Endurance,No,14,7,4,3,2,8
+26,Male,150,57,25.3,Advanced,Flexibility,No,4,9,5,7,5,5
+39,Male,174,67,22.1,Pro,Flexibility,No,4,9,5,7,5,4
+29,Female,155,75,31.2,Advanced,Endurance,No,12,7,5,3,3,8
+27,Female,150,106,47.1,Intermediate,Muscle Gain,Yes,5,5,9,5,6,11
+34,Female,184,89,26.3,Intermediate,Weight Loss,Yes,12,7,2,5,4,5
+33,Female,194,69,18.3,Intermediate,Flexibility,No,5,8,4,8,5,4
+23,Female,157,92,37.3,Pro,Endurance,No,13,7,5,3,2,6
+24,Male,170,102,35.3,Pro,Muscle Gain,Yes,4,6,10,5,5,12
+27,Female,192,103,27.9,Beginner,Endurance,No,13,7,4,3,3,6
+26,Male,173,86,28.7,Intermediate,Competition Prep,Yes,6,11,4,5,4,3
+34,Male,173,70,23.4,Pro,Endurance,Yes,12,6,3,4,5,8
+24,Male,190,88,24.4,Intermediate,Competition Prep,No,7,12,6,3,2,5
+31,Female,168,60,21.3,Pro,Competition Prep,No,6,12,7,3,2,5
+31,Male,194,50,13.3,Intermediate,Muscle Gain,Yes,5,5,9,5,6,9
+29,Female,157,57,23.1,Beginner,Muscle Gain,Yes,4,6,9,5,6,11
+30,Female,161,97,37.4,Advanced,Competition Prep,Yes,5,11,5,4,5,3
+24,Male,177,107,34.2,Pro,Muscle Gain,No,4,7,12,3,4,7
+31,Female,172,79,26.7,Pro,Competition Prep,No,6,12,7,3,2,5
+34,Male,169,67,23.5,Advanced,Endurance,Yes,12,6,3,4,5,7
+21,Female,179,82,25.6,Beginner,Competition Prep,No,5,13,5,3,4,4
+22,Female,168,96,34.0,Advanced,Flexibility,No,4,9,5,7,5,7
+37,Female,182,61,18.4,Pro,Flexibility,Yes,4,8,3,8,7,6
+32,Male,190,88,24.4,Intermediate,Endurance,Yes,14,5,2,5,4,8
+26,Male,159,51,20.2,Beginner,Competition Prep,No,5,13,5,3,4,5
+30,Female,159,63,24.9,Beginner,Muscle Gain,No,4,7,11,4,4,9
+39,Female,158,106,42.5,Pro,Competition Prep,No,6,12,7,3,2,5
+37,Male,155,76,31.6,Advanced,Weight Loss,No,11,9,5,3,2,6
+23,Female,152,65,28.1,Pro,Competition Prep,Yes,6,11,5,4,4,4
+34,Female,190,61,16.9,Pro,Muscle Gain,No,4,7,12,3,4,9
+18,Female,194,64,17.0,Intermediate,Fight Conditioning,Yes,8,9,4,5,4,6
+38,Male,180,74,22.8,Advanced,Fight Conditioning,No,7,11,7,3,2,7
+38,Female,192,67,18.2,Pro,Flexibility,Yes,4,8,3,8,7,6
+30,Female,158,102,40.9,Beginner,Weight Loss,Yes,11,8,2,4,5,6
+29,Female,183,81,24.2,Intermediate,Competition Prep,Yes,6,11,4,5,4,5
+29,Male,164,90,33.5,Advanced,Flexibility,No,4,9,5,7,5,7
+39,Female,185,109,31.8,Pro,Muscle Gain,Yes,4,6,10,5,5,8
+22,Male,156,53,21.8,Pro,Flexibility,Yes,4,8,3,8,7,7
+18,Female,150,96,42.7,Pro,Endurance,Yes,12,6,3,4,5,8
+27,Female,167,77,27.6,Pro,Weight Loss,No,11,9,5,3,2,5
+32,Male,180,76,23.5,Advanced,Weight Loss,Yes,10,8,3,4,5,5
+34,Male,187,54,15.4,Pro,Competition Prep,No,6,12,7,3,2,4
+18,Female,180,53,16.4,Intermediate,Competition Prep,Yes,6,11,4,5,4,3
+35,Female,154,79,33.3,Advanced,Weight Loss,Yes,10,8,3,4,5,5
+28,Male,194,53,14.1,Pro,Competition Prep,Yes,6,11,5,4,4,5
+31,Male,192,76,20.6,Intermediate,Fight Conditioning,Yes,8,9,4,5,4,8
+35,Male,155,108,45.0,Beginner,Competition Prep,Yes,5,11,4,4,6,5
+38,Male,179,91,28.4,Advanced,Competition Prep,Yes,5,11,5,4,5,4
+22,Female,191,109,29.9,Advanced,Fight Conditioning,No,7,11,7,3,2,8
+23,Female,153,67,28.6,Advanced,Muscle Gain,Yes,3,6,10,5,6,7
+34,Male,178,62,19.6,Advanced,Endurance,No,12,7,5,3,3,8
+37,Female,166,94,34.1,Advanced,Competition Prep,Yes,5,11,5,4,5,3
+22,Male,190,98,27.1,Advanced,Competition Prep,No,5,12,7,3,3,4
+30,Male,171,102,34.9,Intermediate,Muscle Gain,No,5,7,11,4,3,9
+20,Female,191,83,22.8,Beginner,Flexibility,No,4,9,4,7,6,6
+34,Male,170,95,32.9,Intermediate,Fight Conditioning,No,8,10,6,3,3,6
+29,Male,160,88,34.4,Beginner,Competition Prep,Yes,5,11,4,4,6,5
+18,Male,177,73,23.3,Beginner,Flexibility,Yes,4,8,2,9,7,6
+30,Female,183,60,17.9,Pro,Fight Conditioning,No,8,10,7,3,2,8
+34,Female,184,109,32.2,Intermediate,Muscle Gain,Yes,5,5,9,5,6,12
+36,Female,186,88,25.4,Beginner,Weight Loss,Yes,11,8,2,4,5,6
+22,Male,166,86,31.2,Pro,Weight Loss,Yes,11,8,3,4,4,6
+36,Male,176,102,32.9,Beginner,Competition Prep,No,5,13,5,3,4,5
+39,Male,194,96,25.5,Intermediate,Muscle Gain,No,5,7,11,4,3,12
+38,Female,160,88,34.4,Advanced,Endurance,Yes,12,6,3,4,5,6
+34,Female,169,90,31.5,Advanced,Endurance,No,12,7,5,3,3,7
+29,Male,155,66,27.5,Pro,Weight Loss,No,11,9,5,3,2,5
+33,Female,193,93,25.0,Intermediate,Weight Loss,No,12,8,4,3,3,6
+23,Female,185,87,25.4,Beginner,Competition Prep,Yes,5,11,4,4,6,3
+32,Male,176,60,19.4,Beginner,Endurance,No,13,7,4,3,3,8
+35,Female,166,100,36.3,Advanced,Muscle Gain,No,4,7,12,4,3,12
+35,Male,177,100,31.9,Advanced,Weight Loss,Yes,10,8,3,4,5,5
+30,Female,184,97,28.7,Beginner,Muscle Gain,Yes,4,6,9,5,6,10
+30,Female,166,66,24.0,Pro,Fight Conditioning,No,8,10,7,3,2,6
+25,Male,168,87,30.8,Advanced,Muscle Gain,Yes,3,6,10,5,6,9
+22,Female,162,96,36.6,Intermediate,Endurance,No,14,7,4,3,2,6
+33,Female,181,71,21.7,Advanced,Competition Prep,No,5,12,7,3,3,4
+28,Female,152,103,44.6,Intermediate,Flexibility,Yes,5,7,2,9,7,5
+38,Male,165,61,22.4,Intermediate,Fight Conditioning,No,8,10,6,3,3,6
+20,Male,179,106,33.1,Beginner,Fight Conditioning,No,7,11,5,3,4,8
+20,Female,168,99,35.1,Pro,Endurance,Yes,12,6,3,4,5,6
+25,Female,156,79,32.5,Beginner,Competition Prep,Yes,5,11,4,4,6,3
+21,Female,174,86,28.4,Beginner,Fight Conditioning,Yes,7,10,4,4,5,8
+22,Male,162,89,33.9,Pro,Fight Conditioning,No,8,10,7,3,2,9
+26,Female,150,85,37.8,Beginner,Weight Loss,Yes,11,8,2,4,5,6
+25,Female,172,58,19.6,Beginner,Weight Loss,Yes,11,8,2,4,5,6
+31,Male,153,79,33.7,Pro,Muscle Gain,Yes,4,6,10,5,5,9
+20,Male,157,52,21.1,Beginner,Competition Prep,Yes,5,11,4,4,6,3
+30,Male,181,83,25.3,Intermediate,Endurance,No,14,7,4,3,2,6
+36,Female,187,65,18.6,Beginner,Competition Prep,Yes,5,11,4,4,6,3
+19,Male,191,109,29.9,Pro,Weight Loss,Yes,11,8,3,4,4,6
+19,Male,151,75,32.9,Advanced,Fight Conditioning,Yes,7,9,5,4,5,9
+32,Male,180,109,33.6,Advanced,Weight Loss,Yes,10,8,3,4,5,5
+20,Male,157,72,29.2,Advanced,Endurance,No,12,7,5,3,3,7
+39,Female,178,88,27.8,Advanced,Endurance,Yes,12,6,3,4,5,8
+18,Male,166,90,32.7,Beginner,Competition Prep,Yes,5,11,4,4,6,3
+30,Male,170,68,23.5,Beginner,Fight Conditioning,Yes,7,10,4,4,5,8
+39,Female,180,66,20.4,Intermediate,Fight Conditioning,No,8,10,6,3,3,7
+27,Male,185,57,16.7,Intermediate,Fight Conditioning,No,8,10,6,3,3,9
+37,Male,181,99,30.2,Pro,Muscle Gain,Yes,4,6,10,5,5,8
+31,Female,173,64,21.4,Advanced,Muscle Gain,No,4,7,12,4,3,12
+21,Male,162,108,41.2,Beginner,Fight Conditioning,No,7,11,5,3,4,9
+31,Male,183,67,20.0,Beginner,Weight Loss,Yes,11,8,2,4,5,5
+28,Male,190,61,16.9,Pro,Endurance,Yes,12,6,3,4,5,8
+34,Male,178,75,23.7,Beginner,Flexibility,Yes,4,8,2,9,7,7
+39,Male,187,66,18.9,Beginner,Competition Prep,Yes,5,11,4,4,6,3
+23,Female,154,93,39.2,Beginner,Weight Loss,No,11,9,4,3,3,6
+28,Female,150,92,40.9,Beginner,Competition Prep,No,5,13,5,3,4,3
+19,Male,193,53,14.2,Beginner,Flexibility,Yes,4,8,2,9,7,5
+32,Male,162,68,25.9,Pro,Muscle Gain,No,4,7,12,3,4,12
+33,Male,161,100,38.6,Intermediate,Endurance,No,14,7,4,3,2,6
+18,Male,176,74,23.9,Advanced,Flexibility,Yes,3,8,3,9,7,6
+38,Female,170,92,31.8,Advanced,Fight Conditioning,Yes,7,9,5,4,5,6
+18,Male,173,93,31.1,Pro,Competition Prep,No,6,12,7,3,2,3
+21,Female,174,79,26.1,Beginner,Endurance,No,13,7,4,3,3,6
+37,Female,168,68,24.1,Beginner,Muscle Gain,No,4,7,11,4,4,11
+27,Male,166,86,31.2,Intermediate,Fight Conditioning,Yes,8,9,4,5,4,9
+24,Female,177,90,28.7,Pro,Weight Loss,Yes,11,8,3,4,4,5
+33,Male,167,63,22.6,Pro,Competition Prep,Yes,6,11,5,4,4,3
+24,Male,190,62,17.2,Beginner,Endurance,Yes,12,6,2,4,6,6
+30,Male,185,80,23.4,Pro,Fight Conditioning,Yes,8,9,5,4,4,9
+26,Female,158,87,34.9,Beginner,Muscle Gain,Yes,4,6,9,5,6,12
+39,Male,182,85,25.7,Advanced,Fight Conditioning,No,7,11,7,3,2,8
+30,Female,194,83,22.1,Advanced,Fight Conditioning,No,7,11,7,3,2,9
+25,Female,156,85,34.9,Pro,Competition Prep,No,6,12,7,3,2,5
+23,Male,193,93,25.0,Advanced,Muscle Gain,Yes,3,6,10,5,6,10
+25,Male,150,85,37.8,Advanced,Endurance,Yes,12,6,3,4,5,8
+20,Male,162,106,40.4,Intermediate,Fight Conditioning,No,8,10,6,3,3,7
+39,Female,159,102,40.3,Intermediate,Competition Prep,No,7,12,6,3,2,5
+38,Female,159,95,37.6,Advanced,Muscle Gain,No,4,7,12,4,3,11
+23,Male,173,51,17.0,Beginner,Endurance,No,13,7,4,3,3,6
+21,Female,163,59,22.2,Beginner,Muscle Gain,No,4,7,11,4,4,7
+20,Female,187,66,18.9,Beginner,Muscle Gain,Yes,4,6,9,5,6,12
+37,Male,173,78,26.1,Beginner,Competition Prep,No,5,13,5,3,4,3
+21,Male,175,87,28.4,Advanced,Fight Conditioning,Yes,7,9,5,4,5,9
+33,Female,166,89,32.3,Beginner,Fight Conditioning,No,7,11,5,3,4,7
+29,Female,176,103,33.3,Advanced,Weight Loss,Yes,10,8,3,4,5,6
+32,Male,179,90,28.1,Beginner,Flexibility,No,4,9,4,7,6,4
+23,Male,156,81,33.3,Beginner,Fight Conditioning,No,7,11,5,3,4,6
+18,Female,156,101,41.5,Intermediate,Muscle Gain,No,5,7,11,4,3,12
+29,Female,165,65,23.9,Pro,Endurance,Yes,12,6,3,4,5,6
+21,Male,162,56,21.3,Beginner,Weight Loss,Yes,11,8,2,4,5,5
+36,Female,158,81,32.4,Pro,Weight Loss,No,11,9,5,3,2,6
+18,Male,172,74,25.0,Pro,Competition Prep,Yes,6,11,5,4,4,4
+21,Female,189,52,14.6,Beginner,Muscle Gain,No,4,7,11,4,4,7
+19,Female,183,77,23.0,Advanced,Flexibility,No,4,9,5,7,5,6
+29,Female,175,53,17.3,Pro,Flexibility,No,4,9,5,7,5,7
+26,Female,154,105,44.3,Advanced,Fight Conditioning,Yes,7,9,5,4,5,7
+28,Male,164,81,30.1,Beginner,Endurance,No,13,7,4,3,3,7
+26,Male,166,108,39.2,Beginner,Endurance,No,13,7,4,3,3,8
+27,Female,175,74,24.2,Pro,Endurance,No,13,7,5,3,2,8
+30,Male,168,60,21.3,Intermediate,Muscle Gain,Yes,5,5,9,5,6,11
+25,Female,189,53,14.8,Intermediate,Flexibility,Yes,5,7,2,9,7,6
+28,Female,150,98,43.6,Advanced,Fight Conditioning,No,7,11,7,3,2,7
+39,Female,180,90,27.8,Intermediate,Fight Conditioning,No,8,10,6,3,3,7
+34,Male,154,69,29.1,Pro,Competition Prep,No,6,12,7,3,2,3
+28,Male,182,99,29.9,Pro,Fight Conditioning,No,8,10,7,3,2,8
+19,Male,164,81,30.1,Pro,Weight Loss,Yes,11,8,3,4,4,6
+38,Female,154,55,23.2,Pro,Weight Loss,Yes,11,8,3,4,4,6
+39,Male,167,63,22.6,Advanced,Endurance,No,12,7,5,3,3,7
+30,Male,180,79,24.4,Intermediate,Weight Loss,Yes,12,7,2,5,4,6
+23,Male,178,57,18.0,Advanced,Fight Conditioning,No,7,11,7,3,2,6
+28,Male,193,82,22.0,Intermediate,Competition Prep,Yes,6,11,4,5,4,5
+30,Male,160,80,31.2,Beginner,Fight Conditioning,Yes,7,10,4,4,5,9
+23,Female,190,65,18.0,Pro,Muscle Gain,Yes,4,6,10,5,5,9
+33,Male,175,106,34.6,Beginner,Competition Prep,Yes,5,11,4,4,6,5
+22,Female,174,67,22.1,Advanced,Fight Conditioning,Yes,7,9,5,4,5,8
+23,Male,167,75,26.9,Intermediate,Fight Conditioning,Yes,8,9,4,5,4,9
+29,Female,178,108,34.1,Advanced,Muscle Gain,No,4,7,12,4,3,8
+34,Male,192,92,25.0,Advanced,Muscle Gain,Yes,3,6,10,5,6,8
+19,Male,157,62,25.2,Intermediate,Competition Prep,Yes,6,11,4,5,4,4
+21,Female,179,50,15.6,Pro,Fight Conditioning,Yes,8,9,5,4,4,8
+34,Female,169,73,25.6,Intermediate,Muscle Gain,Yes,5,5,9,5,6,12
+39,Male,193,58,15.6,Intermediate,Muscle Gain,Yes,5,5,9,5,6,8
+21,Male,186,77,22.3,Beginner,Weight Loss,Yes,11,8,2,4,5,6
+28,Male,170,73,25.3,Advanced,Muscle Gain,No,4,7,12,4,3,10
+25,Male,151,104,45.6,Intermediate,Flexibility,No,5,8,4,8,5,5
+22,Male,176,106,34.2,Advanced,Weight Loss,No,11,9,5,3,2,5
+29,Male,162,94,35.8,Intermediate,Competition Prep,No,7,12,6,3,2,3
+39,Female,176,83,26.8,Intermediate,Competition Prep,No,7,12,6,3,2,3
+24,Male,152,69,29.9,Intermediate,Muscle Gain,Yes,5,5,9,5,6,11
+20,Female,184,98,28.9,Intermediate,Flexibility,Yes,5,7,2,9,7,5
+31,Female,166,67,24.3,Pro,Fight Conditioning,No,8,10,7,3,2,9
+37,Female,176,67,21.6,Beginner,Endurance,Yes,12,6,2,4,6,6
+35,Female,150,107,47.6,Pro,Weight Loss,No,11,9,5,3,2,5
+37,Male,172,59,19.9,Pro,Muscle Gain,No,4,7,12,3,4,9
+26,Female,190,54,15.0,Beginner,Muscle Gain,No,4,7,11,4,4,7
+34,Female,171,83,28.4,Beginner,Flexibility,No,4,9,4,7,6,4
+21,Female,154,60,25.3,Advanced,Competition Prep,No,5,12,7,3,3,3
+20,Male,161,75,28.9,Beginner,Flexibility,Yes,4,8,2,9,7,6
+30,Female,156,96,39.4,Beginner,Competition Prep,Yes,5,11,4,4,6,3
+38,Male,163,53,19.9,Beginner,Fight Conditioning,Yes,7,10,4,4,5,9
+32,Male,194,78,20.7,Beginner,Weight Loss,No,11,9,4,3,3,6
+36,Female,188,95,26.9,Advanced,Weight Loss,Yes,10,8,3,4,5,6
+21,Female,164,84,31.2,Pro,Muscle Gain,Yes,4,6,10,5,5,7
+20,Female,173,76,25.4,Intermediate,Muscle Gain,Yes,5,5,9,5,6,10
+19,Male,178,73,23.0,Beginner,Weight Loss,Yes,11,8,2,4,5,6
+20,Male,183,106,31.7,Advanced,Weight Loss,No,11,9,5,3,2,5
+38,Male,172,94,31.8,Intermediate,Weight Loss,No,12,8,4,3,3,5
+38,Female,190,106,29.4,Beginner,Flexibility,No,4,9,4,7,6,4
+39,Female,155,86,35.8,Beginner,Fight Conditioning,Yes,7,10,4,4,5,7
+25,Male,156,88,36.2,Pro,Weight Loss,Yes,11,8,3,4,4,5
+37,Female,152,100,43.3,Beginner,Fight Conditioning,No,7,11,5,3,4,8
+21,Female,177,61,19.5,Intermediate,Muscle Gain,No,5,7,11,4,3,9
+21,Male,190,54,15.0,Intermediate,Competition Prep,Yes,6,11,4,5,4,5
+35,Male,179,86,26.8,Pro,Weight Loss,Yes,11,8,3,4,4,6
+36,Male,163,106,39.9,Intermediate,Competition Prep,No,7,12,6,3,2,5
+32,Male,185,88,25.7,Pro,Fight Conditioning,No,8,10,7,3,2,6
+39,Female,170,57,19.7,Beginner,Flexibility,Yes,4,8,2,9,7,7
+27,Male,159,81,32.0,Beginner,Weight Loss,No,11,9,4,3,3,6
+26,Male,166,60,21.8,Beginner,Muscle Gain,No,4,7,11,4,4,12
+34,Female,153,97,41.4,Beginner,Competition Prep,Yes,5,11,4,4,6,5
+38,Male,186,87,25.1,Advanced,Flexibility,Yes,3,8,3,9,7,4
+36,Male,185,66,19.3,Intermediate,Muscle Gain,No,5,7,11,4,3,8
+25,Female,164,81,30.1,Beginner,Fight Conditioning,No,7,11,5,3,4,7
+18,Female,172,107,36.2,Pro,Muscle Gain,No,4,7,12,3,4,12
+34,Male,183,108,32.2,Pro,Weight Loss,No,11,9,5,3,2,5
+26,Male,162,55,21.0,Intermediate,Weight Loss,Yes,12,7,2,5,4,6
+37,Female,152,66,28.6,Pro,Weight Loss,Yes,11,8,3,4,4,6
+33,Male,194,104,27.6,Beginner,Muscle Gain,No,4,7,11,4,4,7
+20,Female,175,64,20.9,Intermediate,Muscle Gain,No,5,7,11,4,3,10
+35,Female,168,92,32.6,Pro,Flexibility,Yes,4,8,3,8,7,6
+25,Male,163,107,40.3,Beginner,Fight Conditioning,Yes,7,10,4,4,5,7
+19,Female,153,73,31.2,Advanced,Fight Conditioning,Yes,7,9,5,4,5,6
+36,Female,155,106,44.1,Intermediate,Muscle Gain,Yes,5,5,9,5,6,7
+25,Male,168,102,36.1,Beginner,Flexibility,No,4,9,4,7,6,4
+33,Female,155,89,37.0,Pro,Weight Loss,Yes,11,8,3,4,4,6
+20,Female,168,61,21.6,Intermediate,Fight Conditioning,No,8,10,6,3,3,8
+27,Female,174,69,22.8,Pro,Muscle Gain,Yes,4,6,10,5,5,10
+19,Female,171,100,34.2,Intermediate,Endurance,No,14,7,4,3,2,6
+25,Male,156,63,25.9,Advanced,Weight Loss,Yes,10,8,3,4,5,6
+33,Male,168,100,35.4,Intermediate,Weight Loss,Yes,12,7,2,5,4,6
+33,Female,157,109,44.2,Intermediate,Endurance,Yes,14,5,2,5,4,6
+29,Female,160,54,21.1,Intermediate,Fight Conditioning,Yes,8,9,4,5,4,9
+34,Male,155,82,34.1,Advanced,Weight Loss,No,11,9,5,3,2,5
+31,Male,154,103,43.4,Pro,Endurance,Yes,12,6,3,4,5,6
+35,Female,190,68,18.8,Beginner,Endurance,Yes,12,6,2,4,6,6
+19,Female,179,96,30.0,Advanced,Endurance,Yes,12,6,3,4,5,6
+30,Female,169,103,36.1,Intermediate,Endurance,No,14,7,4,3,2,8
+36,Male,178,105,33.1,Pro,Competition Prep,Yes,6,11,5,4,4,3
+35,Male,159,90,35.6,Pro,Fight Conditioning,Yes,8,9,5,4,4,9
+27,Female,166,51,18.5,Advanced,Weight Loss,Yes,10,8,3,4,5,6
+22,Male,177,90,28.7,Intermediate,Muscle Gain,No,5,7,11,4,3,8
+37,Female,190,98,27.1,Intermediate,Endurance,Yes,14,5,2,5,4,6
+29,Female,156,108,44.4,Pro,Endurance,Yes,12,6,3,4,5,7
+19,Female,174,84,27.7,Beginner,Fight Conditioning,Yes,7,10,4,4,5,9
+27,Female,187,71,20.3,Intermediate,Weight Loss,Yes,12,7,2,5,4,5
+24,Male,176,78,25.2,Advanced,Muscle Gain,Yes,3,6,10,5,6,10
+26,Male,169,93,32.6,Pro,Flexibility,No,4,9,5,7,5,7
+20,Male,151,79,34.6,Advanced,Muscle Gain,No,4,7,12,4,3,8
+39,Male,152,55,23.8,Pro,Endurance,No,13,7,5,3,2,7
+26,Female,182,81,24.5,Pro,Competition Prep,No,6,12,7,3,2,3
+21,Male,151,78,34.2,Advanced,Muscle Gain,Yes,3,6,10,5,6,7
+36,Male,175,74,24.2,Intermediate,Endurance,Yes,14,5,2,5,4,6
+32,Male,171,100,34.2,Beginner,Flexibility,No,4,9,4,7,6,6
+39,Female,185,83,24.3,Advanced,Flexibility,Yes,3,8,3,9,7,4
+30,Male,177,50,16.0,Intermediate,Endurance,Yes,14,5,2,5,4,6
+21,Male,156,98,40.3,Beginner,Weight Loss,No,11,9,4,3,3,6
+36,Male,150,59,26.2,Beginner,Endurance,Yes,12,6,2,4,6,6
+30,Male,191,81,22.2,Pro,Endurance,No,13,7,5,3,2,7
+34,Male,159,99,39.2,Beginner,Flexibility,No,4,9,4,7,6,5
+35,Female,184,101,29.8,Beginner,Flexibility,No,4,9,4,7,6,4
+32,Female,164,53,19.7,Pro,Endurance,No,13,7,5,3,2,8
+26,Female,176,75,24.2,Advanced,Weight Loss,No,11,9,5,3,2,6
+34,Female,192,106,28.8,Advanced,Fight Conditioning,Yes,7,9,5,4,5,7
+35,Male,169,94,32.9,Intermediate,Competition Prep,Yes,6,11,4,5,4,3
+32,Male,181,101,30.8,Advanced,Weight Loss,Yes,10,8,3,4,5,5
+31,Male,154,92,38.8,Beginner,Competition Prep,Yes,5,11,4,4,6,5
+35,Female,152,107,46.3,Intermediate,Flexibility,Yes,5,7,2,9,7,6
+33,Male,167,79,28.3,Beginner,Muscle Gain,Yes,4,6,9,5,6,8
+23,Male,168,85,30.1,Pro,Endurance,Yes,12,6,3,4,5,8
+30,Female,152,59,25.5,Advanced,Muscle Gain,Yes,3,6,10,5,6,7
+31,Male,157,100,40.6,Intermediate,Fight Conditioning,No,8,10,6,3,3,7
+34,Male,158,55,22.0,Advanced,Endurance,No,12,7,5,3,3,6
+24,Female,177,82,26.2,Beginner,Endurance,Yes,12,6,2,4,6,6
+26,Male,167,105,37.6,Beginner,Muscle Gain,Yes,4,6,9,5,6,11
+19,Female,192,108,29.3,Pro,Fight Conditioning,Yes,8,9,5,4,4,7
+25,Male,185,99,28.9,Advanced,Endurance,No,12,7,5,3,3,8
+22,Male,164,77,28.6,Pro,Endurance,No,13,7,5,3,2,7
+39,Female,160,107,41.8,Beginner,Weight Loss,Yes,11,8,2,4,5,5
+21,Female,171,56,19.2,Beginner,Flexibility,No,4,9,4,7,6,6
+39,Male,173,53,17.7,Pro,Fight Conditioning,Yes,8,9,5,4,4,8
+18,Female,152,63,27.3,Pro,Competition Prep,No,6,12,7,3,2,4
+18,Female,187,87,24.9,Advanced,Endurance,Yes,12,6,3,4,5,6
+22,Female,159,77,30.5,Intermediate,Muscle Gain,No,5,7,11,4,3,8
+24,Female,152,94,40.7,Pro,Muscle Gain,Yes,4,6,10,5,5,9
+20,Male,153,54,23.1,Intermediate,Competition Prep,Yes,6,11,4,5,4,5
+27,Male,172,74,25.0,Intermediate,Muscle Gain,Yes,5,5,9,5,6,11
+37,Male,173,74,24.7,Pro,Weight Loss,No,11,9,5,3,2,5
+31,Male,181,104,31.7,Advanced,Competition Prep,No,5,12,7,3,3,4
+27,Male,191,107,29.3,Advanced,Flexibility,No,4,9,5,7,5,4
+38,Male,158,55,22.0,Pro,Endurance,Yes,12,6,3,4,5,6
+20,Male,188,71,20.1,Intermediate,Weight Loss,Yes,12,7,2,5,4,6
+22,Female,191,72,19.7,Beginner,Fight Conditioning,No,7,11,5,3,4,9
+33,Female,152,79,34.2,Pro,Competition Prep,No,6,12,7,3,2,5
+39,Female,158,78,31.2,Intermediate,Weight Loss,Yes,12,7,2,5,4,5
+30,Female,181,95,29.0,Advanced,Weight Loss,No,11,9,5,3,2,5
+33,Female,172,94,31.8,Beginner,Weight Loss,Yes,11,8,2,4,5,5
+25,Male,170,51,17.6,Pro,Endurance,Yes,12,6,3,4,5,7
+29,Male,167,79,28.3,Intermediate,Fight Conditioning,Yes,8,9,4,5,4,7
+18,Female,179,66,20.6,Advanced,Flexibility,Yes,3,8,3,9,7,6

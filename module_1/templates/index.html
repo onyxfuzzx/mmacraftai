@@ -1,0 +1,180 @@
+<!DOCTYPE html>
+<html lang="en">
+<head>
+    <meta charset="UTF-8">
+    <meta name="viewport" content="width=device-width, initial-scale=1.0">
+    <title>FightFitAI - Training Plan Predictor</title>
+    <link rel="stylesheet" href="{{ url_for('static', filename='dropdown.css') }}">
+    <link rel="stylesheet" href="{{ url_for('static', filename='style.css') }}">
+    <link href="https://fonts.googleapis.com/css2?family=Montserrat:wght@400;500;600;700&display=swap" rel="stylesheet">
+    <link rel="stylesheet" href="https://cdnjs.cloudflare.com/ajax/libs/font-awesome/6.4.0/css/all.min.css">
+</head>
+<body>
+    <div class="container">
+        <div class="card">
+            <div class="header">
+                <h1><i class="fas fa-fist-raised"></i> FightFitAI</h1>
+                <p>Enter your details to get a personalized training plan</p>
+            </div>
+            
+            <form id="prediction-form">
+                <div class="form-grid">
+                    <div class="input-group">
+                        <label for="age">Age: <span id="age-value">25</span> years</label>
+                        <input type="range" id="age" name="age" min="18" max="50" value="25" class="slider">
+                    </div>
+                    
+                    <div class="input-group">
+                        <label for="height">Height: <span id="height-value">175</span> cm</label>
+                        <input type="range" id="height" name="height" min="150" max="200" value="175" class="slider">
+                    </div>
+                    
+                    <div class="input-group">
+                        <label for="weight">Weight: <span id="weight-value">70</span> kg</label>
+                        <input type="range" id="weight" name="weight" min="50" max="120" value="70" class="slider">
+                    </div>
+                    
+                    <div class="input-group">
+                        <label for="experience">Experience Level:</label>
+                        <div class="custom-dropdown" id="experience-dropdown">
+                            <div class="dropdown-selected">
+                                <span>Select Experience Level</span>
+                                <i class="fas fa-chevron-down"></i>
+                            </div>
+                            <div class="dropdown-options">
+                                <input type="text" class="dropdown-search" placeholder="Search experience levels...">
+                                {% for level in experience_levels %}
+                                <div class="dropdown-option" data-value="{{ level }}">{{ level }}</div>
+                                {% endfor %}
+                            </div>
+                            <input type="hidden" id="experience" name="experience">
+                        </div>
+                    </div>
+                    
+                    <div class="input-group">
+                        <label for="goal">Goal:</label>
+                        <div class="custom-dropdown" id="goal-dropdown">
+                            <div class="dropdown-selected">
+                                <span>Select Goal</span>
+                                <i class="fas fa-chevron-down"></i>
+                            </div>
+                            <div class="dropdown-options">
+                                <input type="text" class="dropdown-search" placeholder="Search goals...">
+                                {% for goal_item in goals %}
+                                <div class="dropdown-option" data-value="{{ goal_item }}">{{ goal_item }}</div>
+                                {% endfor %}
+                            </div>
+                            <input type="hidden" id="goal" name="goal">
+                        </div>
+                    </div>
+                    
+                    <div class="input-group">
+                        <label for="injury_history">Injury History:</label>
+                        <div class="custom-dropdown" id="injury-dropdown">
+                            <div class="dropdown-selected">
+                                <span>Select Injury History</span>
+                                <i class="fas fa-chevron-down"></i>
+                            </div>
+                            <div class="dropdown-options">
+                                <input type="text" class="dropdown-search" placeholder="Search injury history...">
+                                {% for injury in injury_history %}
+                                <div class="dropdown-option" data-value="{{ injury }}">{{ injury }}</div>
+                                {% endfor %}
+                            </div>
+                            <input type="hidden" id="injury_history" name="injury_history">
+                        </div>
+                    </div>
+                </div>
+                
+                <div class="bmi-preview">
+                    <h3>Your BMI: <span id="bmi-value">22.9</span></h3>
+                    <div class="bmi-bar">
+                        <div class="bmi-fill" id="bmi-fill"></div>
+                    </div>
+                    <div class="bmi-labels">
+                        <span>Underweight</span>
+                        <span>Normal</span>
+                        <span>Overweight</span>
+                        <span>Obese</span>
+                    </div>
+                </div>
+                
+                <button type="submit" class="submit-btn">
+                    <i class="fas fa-dumbbell"></i> Generate Training Plan
+                </button>
+            </form>
+        </div>
+        
+        <div class="results-card" id="results" style="display: none;">
+            <h2><i class="fas fa-trophy"></i> Your Personalized Training Plan</h2>
+            
+            <div class="bmi-result">
+                <h3>Your BMI: <span id="result-bmi">22.9</span></h3>
+            </div>
+            
+            <div class="results-grid">
+                <div class="result-item">
+                    <div class="result-icon">
+                        <i class="fas fa-running"></i>
+                    </div>
+                    <h4>Cardio Endurance</h4>
+                    <p id="result-cardio">3 sessions/month</p>
+                    <h4>(Running, HIIT, Shadowboxing, Bag rounds, Circuits)</h4>
+                </div>
+                
+                <div class="result-item">
+                    <div class="result-icon">
+                        <i class="fa-solid fa-hand-fist"></i>
+                    </div>
+                    <h4>Skill Drills</h4>
+                    <p id="result-skill">4 sessions/month</p>
+                    <h4>Technical MMA drills (striking, grappling, partner drills, wrestling, sparring)</h4>
+                </div>
+                
+                <div class="result-item">
+                    <div class="result-icon">
+                        <i class="fas fa-dumbbell"></i>
+                    </div>
+                    <h4>Strength Conditioning</h4>
+                    <p id="result-strength">3 sessions/month</p>
+                    <h4>(Weight training, functional training, explosive strength work)</h4>
+                </div>
+                
+                <div class="result-item">
+                    <div class="result-icon">
+                        <i class="fas fa-bolt"></i>
+                    </div>
+                    <h4>Agility & Mobility</h4>
+                    <p id="result-agility">2 sessions/month</p>
+                    <h4>(Dynamic & static stretches, movement drills, balance, flexibility training)</h4>
+                </div>
+                
+                <div class="result-item">
+                    <div class="result-icon">
+                        <i class="fas fa-bed"></i>
+                    </div>
+                    <h4>Recovery</h4>
+                    <p id="result-recovery">2 sessions/month</p>
+                    <h4>(Rest days, active recovery, yoga, foam rolling)</h4>
+                </div>
+                
+                <div class="result-item">
+                    <div class="result-icon">
+                        <i class="fas fa-calendar-alt"></i>
+                    </div>
+                    <h4>Program Duration</h4>
+                    <p id="result-duration">6 months</p>
+                    <h4>This plan should be repeated for this Duration</h4>
+                </div>
+            </div>
+            
+            <button class="back-btn" onclick="resetForm()">
+                <i class="fas fa-redo"></i> Start Over
+            </button>
+        </div>
+    </div>
+
+    <script src="{{ url_for('static', filename='script.js') }}"></script>
+    <script src="{{ url_for('static', filename='dropdown.js') }}"></script>
+</body>
+</html>

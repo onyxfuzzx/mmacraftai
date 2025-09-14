@@ -1,0 +1,45 @@
+{% extends "base.html" %}
+
+{% block content %}
+<div class="result-container">
+    <h2>Prediction Result</h2>
+    
+    <div class="prediction-card">
+        <div class="fighter fighter-a">
+            <h3>{{ fighter_a }}</h3>
+            <div class="probability">{{ loser_prob if winner == fighter_b else winner_prob }}%</div>
+        </div>
+        
+        <div class="vs">VS</div>
+        
+        <div class="fighter fighter-b">
+            <h3>{{ fighter_b }}</h3>
+            <div class="probability">{{ winner_prob if winner == fighter_b else loser_prob }}%</div>
+        </div>
+    </div>
+    
+    <div class="winner">
+        <h3>Predicted Winner: {{ winner }}</h3>
+    </div>
+    
+    <div class="comparison">
+        <h3>Stat Comparison</h3>
+        <table>
+            <tr>
+                <th>Stat</th>
+                <th>{{ fighter_a }}</th>
+                <th>{{ fighter_b }}</th>
+            </tr>
+            {% for stat in comparison_data %}
+            <tr>
+                <td>{{ stat.feature }}</td>
+                <td>{{ stat.fighter_a }}</td>
+                <td>{{ stat.fighter_b }}</td>
+            </tr>
+            {% endfor %}
+        </table>
+    </div>
+    
+    <a href="/" class="back-button">Make Another Prediction</a>
+</div>
+{% endblock %}
