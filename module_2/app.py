@@ -128,7 +128,6 @@ class PoseProcessor:
         
         # Thread safety
         self.lock = threading.Lock()
-        # Add these lines to your PoseProcessor __init__ method:
         self.guard_up_time = 0
         self.total_tracking_time = 0
         self.last_update_time = time.time()

@@ -10,8 +10,6 @@ app = Flask(__name__)
 
 # Load and preprocess data
 def load_data():
-    # In a real application, you would load from the actual CSV file
-    # For this example, we'll create a small sample dataset
     data = pd.read_csv("large_dataset.csv")
     return pd.DataFrame(data)
 
