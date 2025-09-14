@@ -1,0 +1,153 @@
+{% extends "base.html" %}
+
+{% block content %}
+<div class="row">
+    <div class="col-md-8">
+        <div class="card">
+            <div class="header">
+                <h1><i class="fas fa-fist-raised"></i> SmartSpar Training</h1>
+                <p>Real-time MMA punch detection and feedback</p>
+            </div>
+            
+            <div class="video-container">
+                <img src="{{ url_for('video_feed') }}" class="video-feed" alt="Live Training Feed">
+            </div>
+        </div>
+    </div>
+    
+    <div class="col-md-4">
+        <div class="card">
+            <div class="header">
+                <h3><i class="fas fa-chart-line"></i> Live Metrics</h3>
+            </div>
+            
+            <div class="stats-grid">
+                <div class="stat-item">
+                    <div class="stat-icon">
+                        <i class="fas fa-fist-raised"></i>
+                    </div>
+                    <h3>Total Punches</h3>
+                    <div class="stat-value" id="total-punches">0</div>
+                </div>
+                
+                <div class="stat-item">
+                    <div class="stat-icon">
+                        <i class="fas fa-bullseye"></i>
+                    </div>
+                    <h3>Accuracy</h3>
+                    <div class="stat-value" id="accuracy">0%</div>
+                </div>
+                
+                <div class="stat-item">
+                    <div class="stat-icon">
+                        <i class="fas fa-shield-alt"></i>
+                    </div>
+                    <h3>Guard Warnings</h3>
+                    <div class="stat-value" id="guard-warnings">0</div>
+                </div>
+                
+                <div class="stat-item">
+                    <div class="stat-icon">
+                        <i class="fas fa-clock"></i>
+                    </div>
+                    <h3>Session Time</h3>
+                    <div class="stat-value" id="session-time">0s</div>
+                </div>
+            </div>
+            
+            <div class="punch-breakdown">
+                <h3><i class="fas fa-boxing-glove"></i> Punch Breakdown</h3>
+                <div class="punch-list">
+                    <div class="punch-item">
+                        <span class="punch-name">Jab</span>
+                        <span class="punch-count" id="jab-count">0</span>
+                    </div>
+                    <div class="punch-item">
+                        <span class="punch-name">Cross</span>
+                        <span class="punch-count" id="cross-count">0</span>
+                    </div>
+                    <div class="punch-item">
+                        <span class="punch-name">Hook</span>
+                        <span class="punch-count" id="hook-count">0</span>
+                    </div>
+                    <div class="punch-item">
+                        <span class="punch-name">Uppercut</span>
+                        <span class="punch-count" id="uppercut-count">0</span>
+                    </div>
+                </div>
+            </div>
+            
+            <div class="training-tips">
+                <h3><i class="fas fa-lightbulb"></i> Training Tips</h3>
+                <ul class="tips-list">
+                    <li>Keep your guard up at all times</li>
+                    <li>Extend your punches fully for maximum power</li>
+                    <li>Maintain proper footwork and balance</li>
+                    <li>Focus on technique before speed</li>
+                    <li>Breathe out with each punch</li>
+                </ul>
+            </div>
+            
+            <div style="display: flex; gap: 15px; flex-direction: column;">
+                <a href="/end_session" class="btn btn-danger">
+                    <i class="fas fa-flag"></i> End Session
+                </a>
+                <button id="resetStats" class="btn btn-outline">
+                    <i class="fas fa-redo"></i> Reset Stats
+                </button>
+            </div>
+        </div>
+    </div>
+</div>
+{% endblock %}
+
+{% block scripts %}
+<script>
+    function updateStats() {
+        fetch('/stats')
+            .then(response => response.json())
+            .then(data => {
+                document.getElementById('total-punches').textContent = data.total_punches;
+                document.getElementById('accuracy').textContent = data.accuracy + '%';
+                document.getElementById('guard-warnings').textContent = data.guard_warnings;
+                document.getElementById('session-time').textContent = data.session_duration + 's';
+                
+                document.getElementById('jab-count').textContent = data.punch_counts.Jab;
+                document.getElementById('cross-count').textContent = data.punch_counts.Cross;
+                document.getElementById('hook-count').textContent = data.punch_counts.Hook;
+                document.getElementById('uppercut-count').textContent = data.punch_counts.Uppercut;
+                
+                // Update feedback text (you might need to implement this separately)
+                // document.getElementById('feedback-text').textContent = data.feedback || "Ready for training";
+                
+                // Highlight new punches
+                if (data.total_punches > parseInt(document.getElementById('total-punches').textContent || 0)) {
+                    document.getElementById('stats-container').classList.add('punch-highlight');
+                    setTimeout(() => {
+                        document.getElementById('stats-container').classList.remove('punch-highlight');
+                    }, 1000);
+                }
+            })
+            .catch(error => console.error('Error fetching stats:', error));
+    }
+    
+    // Update stats every second
+    setInterval(updateStats, 1000);
+    
+    // Initial update
+    updateStats();
+    
+    // Reset stats button
+    document.getElementById('resetStats').addEventListener('click', function() {
+        fetch('/reset_stats')
+            .then(response => response.json())
+            .then(data => {
+                if (data.status === 'success') {
+                    updateStats();
+                    alert('Stats reset successfully!');
+                }
+            })
+            .catch(error => console.error('Error resetting stats:', error));
+    });
+</script>
+{% endblock %}

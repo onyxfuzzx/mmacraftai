@@ -4,26 +4,43 @@
 <div class="form-container">
     <h2>Select Two Fighters</h2>
     <form action="/predict" method="post">
+
+        <!-- Fighter A Dropdown -->
         <div class="form-group">
             <label for="fighter_a">Fighter 1:</label>
-            <select id="fighter_a" name="fighter_a" required>
-                <option value="">Select a fighter</option>
-                {% for fighter in fighters %}
-                <option value="{{ fighter }}">{{ fighter }}</option>
-                {% endfor %}
-            </select>
+            <div class="custom-dropdown" id="fighter-a-dropdown">
+                <div class="dropdown-selected">
+                    <span>Select Fighter</span>
+                    <i class="fas fa-chevron-down"></i>
+                </div>
+                <div class="dropdown-options">
+                    <input type="text" class="dropdown-search" placeholder="Search fighters...">
+                    {% for fighter in fighters %}
+                    <div class="dropdown-option" data-value="{{ fighter }}">{{ fighter }}</div>
+                    {% endfor %}
+                </div>
+                <input type="hidden" id="fighter_a" name="fighter_a" required>
+            </div>
         </div>
-        
+
+        <!-- Fighter B Dropdown -->
         <div class="form-group">
             <label for="fighter_b">Fighter 2:</label>
-            <select id="fighter_b" name="fighter_b" required>
-                <option value="">Select a fighter</option>
-                {% for fighter in fighters %}
-                <option value="{{ fighter }}">{{ fighter }}</option>
-                {% endfor %}
-            </select>
+            <div class="custom-dropdown" id="fighter-b-dropdown">
+                <div class="dropdown-selected">
+                    <span>Select Fighter</span>
+                    <i class="fas fa-chevron-down"></i>
+                </div>
+                <div class="dropdown-options">
+                    <input type="text" class="dropdown-search" placeholder="Search fighters...">
+                    {% for fighter in fighters %}
+                    <div class="dropdown-option" data-value="{{ fighter }}">{{ fighter }}</div>
+                    {% endfor %}
+                </div>
+                <input type="hidden" id="fighter_b" name="fighter_b" required>
+            </div>
         </div>
-        
+
         <button type="submit">Predict Winner</button>
     </form>
 </div>

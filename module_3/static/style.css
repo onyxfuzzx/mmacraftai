@@ -1,71 +1,118 @@
-body {
-    font-family: Arial, sans-serif;
-    line-height: 1.6;
-    margin: 0;
-    padding: 0;
-    background-color: #f4f4f4;
-    color: #333;
+:root {
+    --primary: #ff3e00;      /* aggressive red-orange */
+    --secondary: #00a8cc;    /* neon aqua blue */
+    --dark: #1e272e;
+    --light: #f5f6fa;
+    --gray: #485460;
 }
 
+* {
+    margin: 0;
+    padding: 0;
+    box-sizing: border-box;
+}
+
+body {
+    font-family: 'Montserrat', sans-serif;
+    background: linear-gradient(135deg, #1e272e 0%, #0c0f13 100%);
+    color: var(--light);
+    min-height: 100vh;
+    display: flex;
+    flex-direction: column;
+    justify-content: space-between;
+}
+
+/* Container */
 .container {
-    max-width: 1200px;
+    width: 100%;
+    max-width: 1000px;
     margin: 0 auto;
     padding: 20px;
 }
 
+/* Header */
 header {
     text-align: center;
     margin-bottom: 30px;
-    background-color: #d30a0a;
-    color: white;
-    padding: 20px;
-    border-radius: 5px;
 }
 
+header h1 {
+    font-size: 2.5rem;
+    color: var(--primary);
+    text-shadow: 0 0 10px rgba(255, 62, 0, 0.6);
+}
+
+/* Form Card */
 .form-container {
-    background: white;
-    padding: 20px;
-    border-radius: 5px;
-    box-shadow: 0 0 10px rgba(0, 0, 0, 0.1);
-    max-width: 500px;
-    margin: 0 auto;
+    background: rgba(40, 47, 58, 0.85);
+    backdrop-filter: blur(10px);
+    padding: 30px;
+    border-radius: 20px;
+    box-shadow: 0 15px 35px rgba(0,0,0,0.5);
+    margin: 0 auto 30px auto;
+}
+
+.form-container h2 {
+    text-align: center;
+    margin-bottom: 20px;
+    color: var(--secondary);
 }
 
 .form-group {
-    margin-bottom: 15px;
+    margin-bottom: 20px;
 }
 
 label {
     display: block;
-    margin-bottom: 5px;
-    font-weight: bold;
+    margin-bottom: 8px;
+    font-weight: 600;
 }
 
-select, button {
+select {
     width: 100%;
-    padding: 10px;
-    border: 1px solid #ddd;
-    border-radius: 4px;
-    font-size: 16px;
-}
-
-button {
-    background-color: #d30a0a;
-    color: white;
+    padding: 12px;
+    border-radius: 10px;
     border: none;
+    background: rgba(255,255,255,0.1);
+    color: var(--light);
+    font-size: 1rem;
+    outline: none;
     cursor: pointer;
-    font-weight: bold;
 }
 
-button:hover {
-    background-color: #a00808;
+select:focus {
+    box-shadow: 0 0 0 2px var(--primary);
 }
 
+/* Buttons */
+button, .back-button {
+    width: 100%;
+    padding: 15px;
+    background: linear-gradient(90deg, var(--primary) 0%, var(--secondary) 100%);
+    border: none;
+    border-radius: 10px;
+    color: white;
+    font-size: 1.1rem;
+    font-weight: 600;
+    cursor: pointer;
+    transition: transform 0.2s, box-shadow 0.2s;
+    text-align: center;
+    display: inline-block;
+    text-decoration: none;
+}
+
+button:hover, .back-button:hover {
+    transform: translateY(-2px);
+    box-shadow: 0 5px 15px rgba(255, 62, 0, 0.4);
+}
+
+/* Prediction Result Card */
 .result-container {
-    background: white;
-    padding: 20px;
-    border-radius: 5px;
-    box-shadow: 0 0 10px rgba(0, 0, 0, 0.1);
+    background: rgba(40, 47, 58, 0.85);
+    backdrop-filter: blur(10px);
+    padding: 30px;
+    border-radius: 20px;
+    box-shadow: 0 15px 35px rgba(0,0,0,0.5);
 }
 
 .prediction-card {
@@ -73,80 +120,191 @@ button:hover {
     justify-content: space-between;
     align-items: center;
     margin: 30px 0;
+    gap: 20px;
 }
 
 .fighter {
-    text-align: center;
     flex: 1;
     padding: 20px;
-    border: 2px solid #ddd;
-    border-radius: 5px;
+    text-align: center;
+    border-radius: 15px;
+    background: rgba(0,0,0,0.2);
+    transition: transform 0.3s;
+}
+
+.fighter:hover {
+    transform: translateY(-5px);
 }
 
 .fighter-a {
-    border-color: #d30a0a;
+    border: 2px solid var(--primary);
 }
 
 .fighter-b {
-    border-color: #0066cc;
+    border: 2px solid var(--secondary);
 }
 
 .vs {
-    font-size: 24px;
+    font-size: 2rem;
     font-weight: bold;
-    margin: 0 20px;
+    color: var(--light);
 }
 
 .probability {
-    font-size: 24px;
-    font-weight: bold;
+    font-size: 1.5rem;
+    font-weight: 700;
+    color: var(--secondary);
     margin-top: 10px;
 }
 
+/* Winner Banner */
 .winner {
     text-align: center;
-    margin: 30px 0;
+    margin: 25px 0;
     padding: 15px;
-    background-color: #f8f8f8;
-    border-radius: 5px;
+    background: rgba(0,0,0,0.2);
+    border-radius: 15px;
+    color: var(--primary);
+    font-size: 1.3rem;
+    font-weight: 700;
 }
 
-.comparison {
-    margin: 30px 0;
+/* Comparison Table */
+.comparison h3 {
+    margin-bottom: 15px;
+    text-align: center;
+    color: var(--secondary);
 }
 
 table {
     width: 100%;
     border-collapse: collapse;
+    background: rgba(0,0,0,0.2);
+    border-radius: 10px;
+    overflow: hidden;
 }
 
 th, td {
     padding: 12px;
-    text-align: left;
-    border-bottom: 1px solid #ddd;
+    text-align: center;
 }
 
 th {
-    background-color: #f2f2f2;
+    background: rgba(255,255,255,0.1);
+    font-weight: 600;
 }
 
-.back-button {
-    display: inline-block;
-    padding: 10px 20px;
-    background-color: #333;
-    color: white;
-    text-decoration: none;
-    border-radius: 4px;
-    margin-top: 20px;
+tr:nth-child(even) {
+    background: rgba(255,255,255,0.05);
 }
 
-.back-button:hover {
-    background-color: #555;
-}
-
+/* Footer */
 footer {
     text-align: center;
-    margin-top: 50px;
-    color: #666;
-    font-size: 14px;
+    margin-top: 30px;
+    color: rgba(255,255,255,0.6);
+    font-size: 0.9rem;
+}
+
+/* Custom Dropdown Styles */
+.custom-dropdown {
+    position: relative;
+    width: 100%;
+    margin-bottom: 15px;
+}
+
+.dropdown-selected {
+    padding: 12px 15px;
+    border-radius: 10px;
+    background: rgba(255, 255, 255, 0.1);
+    color: var(--light);
+    cursor: pointer;
+    display: flex;
+    justify-content: space-between;
+    align-items: center;
+    transition: all 0.3s ease;
+    border: 1px solid transparent;
+}
+
+.dropdown-selected:hover {
+    background: rgba(255, 255, 255, 0.15);
+}
+
+.dropdown-selected.active {
+    border-radius: 10px 10px 0 0;
+    border: 1px solid var(--primary);
+    border-bottom: none;
+}
+
+.dropdown-selected i {
+    transition: transform 0.3s ease;
+}
+
+.dropdown-selected.active i {
+    transform: rotate(180deg);
+}
+
+.dropdown-options {
+    position: absolute;
+    top: 100%;
+    left: 0;
+    width: 100%;
+    background: rgba(40, 47, 58, 0.95);
+    border-radius: 0 0 10px 10px;
+    overflow: hidden;
+    max-height: 0;
+    opacity: 0;
+    transform: translateY(-10px);
+    transition: all 0.3s ease;
+    z-index: 1000;
+    box-shadow: 0 10px 20px rgba(0, 0, 0, 0.3);
+}
+
+.dropdown-options.active {
+    max-height: 300px;
+    opacity: 1;
+    transform: translateY(0);
+    overflow-y: auto;
+}
+
+.dropdown-search {
+    width: 100%;
+    padding: 12px 15px;
+    background: rgba(0, 0, 0, 0.2);
+    color: var(--light);
+    border: none;
+    border-bottom: 1px solid rgba(255, 255, 255, 0.1);
+    outline: none;
+}
+
+.dropdown-search:focus {
+    background: rgba(0, 0, 0, 0.3);
+}
+
+.dropdown-option {
+    padding: 12px 15px;
+    cursor: pointer;
+    transition: all 0.2s ease;
+    color: var(--light);
+}
+
+.dropdown-option:hover {
+    background: rgba(255, 62, 0, 0.2);
+    color: var(--primary);
+}
+
+.dropdown-option.selected {
+    background: rgba(255, 62, 0, 0.3);
+    color: var(--primary);
+    font-weight: 600;
+}
+
+/* Scrollbar styling for dropdown */
+.dropdown-options::-webkit-scrollbar {
+    width: 6px;
+}
+
+.dropdown-options::-webkit-scrollbar-thumb {
+    background: var(--primary);
+    border-radius: 3px;
 }

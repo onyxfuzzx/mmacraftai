@@ -1,0 +1,234 @@
+{% extends "base.html" %}
+
+{% block content %}
+<div class="card">
+    <div class="header">
+        <h1><i class="fas fa-chart-bar"></i> Session Report</h1>
+        <p>Your training performance analysis</p>
+    </div>
+    
+    <div class="stats-grid">
+        <div class="stat-item">
+            <div class="stat-icon">
+                <i class="fas fa-fist-raised"></i>
+            </div>
+            <h3>Total Punches</h3>
+            <div class="stat-value">{{ stats.total_punches }}</div>
+        </div>
+        
+        <div class="stat-item">
+            <div class="stat-icon">
+                <i class="fas fa-bullseye"></i>
+            </div>
+            <h3>Accuracy</h3>
+            <div class="stat-value">{{ stats.accuracy }}%</div>
+        </div>
+        
+        <div class="stat-item">
+            <div class="stat-icon">
+                <i class="fas fa-shield-alt"></i>
+            </div>
+            <h3>Guard Warnings</h3>
+            <div class="stat-value">{{ stats.guard_warnings }}</div>
+        </div>
+        
+        <div class="stat-item">
+            <div class="stat-icon">
+                <i class="fas fa-percentage"></i>
+            </div>
+            <h3>Guard Perfection</h3>
+            <div class="stat-value">{{ stats.guard_perfection }}%</div>
+        </div>
+        
+        <div class="stat-item">
+            <div class="stat-icon">
+                <i class="fas fa-clock"></i>
+            </div>
+            <h3>Session Duration</h3>
+            <div class="stat-value">{{ stats.session_duration }}s</div>
+        </div>
+        
+        <div class="stat-item">
+            <div class="stat-icon">
+                <i class="fas fa-tachometer-alt"></i>
+            </div>
+            <h3>Punches/Min</h3>
+            <div class="stat-value">{{ stats.punches_per_minute }}</div>
+        </div>
+    </div>
+    
+    <div class="punch-breakdown">
+        <h3><i class="fas fa-boxing-glove"></i> Punch Breakdown</h3>
+        <div class="punch-list">
+            <div class="punch-item">
+                <span class="punch-name">Jab</span>
+                <span class="punch-count">{{ stats.punch_counts.Jab }}</span>
+            </div>
+            <div class="punch-item">
+                <span class="punch-name">Cross</span>
+                <span class="punch-count">{{ stats.punch_counts.Cross }}</span>
+            </div>
+            <div class="punch-item">
+                <span class="punch-name">Hook</span>
+                <span class="punch-count">{{ stats.punch_counts.Hook }}</span>
+            </div>
+            <div class="punch-item">
+                <span class="punch-name">Uppercut</span>
+                <span class="punch-count">{{ stats.punch_counts.Uppercut }}</span>
+            </div>
+        </div>
+    </div>
+    
+    <!-- Improved Chart Section -->
+    <div class="chart-row">
+        <!-- Guard Perfection Chart -->
+        <div class="chart-container">
+            <h3><i class="fas fa-shield-alt"></i> Guard Perfection</h3>
+            <div class="chart-wrapper">
+                <canvas id="guardChart" class="doughnut-chart"></canvas>
+            </div>
+            <div class="chart-legend">
+                <div class="legend-item">
+                    <div class="legend-color" style="background-color: #28a745;"></div>
+                    <span>Perfect Guard</span>
+                </div>
+                <div class="legend-item">
+                    <div class="legend-color" style="background-color: #dc3545;"></div>
+                    <span>Needs Improvement</span>
+                </div>
+            </div>
+        </div>
+        
+        <!-- Punch Distribution Chart -->
+        <div class="chart-container">
+            <h3><i class="fas fa-boxing-glove"></i> Punch Distribution</h3>
+            <div class="chart-wrapper">
+                <canvas id="distributionChart" class="bar-chart"></canvas>
+            </div>
+            <div class="chart-legend">
+                <div class="legend-item">
+                    <div class="legend-color" style="background-color: #0d6efd;"></div>
+                    <span>Jab</span>
+                </div>
+                <div class="legend-item">
+                    <div class="legend-color" style="background-color: #198754;"></div>
+                    <span>Cross</span>
+                </div>
+                <div class="legend-item">
+                    <div class="legend-color" style="background-color: #ffc107;"></div>
+                    <span>Hook</span>
+                </div>
+                <div class="legend-item">
+                    <div class="legend-color" style="background-color: #fd7e14;"></div>
+                    <span>Uppercut</span>
+                </div>
+            </div>
+        </div>
+    </div>
+    
+    <div style="text-align: center; margin-top: 30px;">
+        <a href="/" class="btn btn-primary">
+            <i class="fas fa-redo"></i> Start New Session
+        </a>
+    </div>
+</div>
+{% endblock %}
+
+{% block scripts %}
+<script>
+    document.addEventListener('DOMContentLoaded', function() {
+        const stats = {{ stats|tojson }};
+        
+        // Guard Perfection Chart - Doughnut
+        const guardCtx = document.getElementById('guardChart').getContext('2d');
+        new Chart(guardCtx, {
+            type: 'doughnut',
+            data: {
+                labels: ['Perfect Guard', 'Needs Improvement'],
+                datasets: [{
+                    data: [stats.guard_perfection, 100 - stats.guard_perfection],
+                    backgroundColor: ['#28a745', '#dc3545'],
+                    borderWidth: 2,
+                    borderColor: '#1e272e'
+                }]
+            },
+            options: {
+                responsive: true,
+                maintainAspectRatio: true,
+                cutout: '60%',
+                plugins: {
+                    legend: {
+                        display: false // We're using custom legend
+                    },
+                    tooltip: {
+                        callbacks: {
+                            label: function(context) {
+                                return `${context.label}: ${context.raw.toFixed(1)}%`;
+                            }
+                        }
+                    }
+                },
+                animation: {
+                    animateScale: true,
+                    animateRotate: true
+                }
+            }
+        });
+        
+        // Punch Distribution Chart - Bar
+        const distributionCtx = document.getElementById('distributionChart').getContext('2d');
+        new Chart(distributionCtx, {
+            type: 'bar',
+            data: {
+                labels: ['Jab', 'Cross', 'Hook', 'Uppercut'],
+                datasets: [{
+                    data: [
+                        stats.punch_counts.Jab,
+                        stats.punch_counts.Cross,
+                        stats.punch_counts.Hook,
+                        stats.punch_counts.Uppercut
+                    ],
+                    backgroundColor: ['#0d6efd', '#198754', '#ffc107', '#fd7e14'],
+                    borderWidth: 2,
+                    borderColor: '#1e272e',
+                    borderRadius: 6,
+                    borderSkipped: false,
+                }]
+            },
+            options: {
+                responsive: true,
+                maintainAspectRatio: true,
+                plugins: {
+                    legend: {
+                        display: false // We're using custom legend
+                    }
+                },
+                scales: {
+                    y: {
+                        beginAtZero: true,
+                        grid: {
+                            color: 'rgba(255, 255, 255, 0.1)'
+                        },
+                        ticks: {
+                            color: 'rgba(255, 255, 255, 0.7)',
+                            stepSize: 1
+                        }
+                    },
+                    x: {
+                        grid: {
+                            color: 'rgba(255, 255, 255, 0.1)'
+                        },
+                        ticks: {
+                            color: 'rgba(255, 255, 255, 0.7)'
+                        }
+                    }
+                },
+                animation: {
+                    duration: 1000,
+                    easing: 'easeOutQuart'
+                }
+            }
+        });
+    });
+</script>
+{% endblock %}
