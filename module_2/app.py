@@ -5,6 +5,7 @@ import threading
 from collections import deque
 from flask import Flask, render_template, Response, jsonify, request, session
 from mediapipe import solutions as mp_solutions
+import numpy as np
 
 mp_pose = mp_solutions.pose
 mp_drawing = mp_solutions.drawing_utils

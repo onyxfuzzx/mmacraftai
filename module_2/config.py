@@ -13,9 +13,9 @@ class Config:
     ]
     
     # Video settings
-    VIDEO_WIDTH = 1280
-    VIDEO_HEIGHT = 720
-    VIDEO_FPS = 30
+    VIDEO_WIDTH = 1080
+    VIDEO_HEIGHT = 1920
+    VIDEO_FPS = 24
 
 class DevelopmentConfig(Config):
     DEBUG = True
